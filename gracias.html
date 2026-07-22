@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡Gracias por tu compra! - Brown Market</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+
+    <div class="logo">🛒 Brown Market</div>
+
+    <nav>
+        <a href="index.html">Inicio</a>
+        <a href="productos.html">Productos</a>
+        <a href="productos.html">Ofertas</a>
+        <a href="index.html#contacto">Contacto</a>
+    </nav>
+
+    <form class="buscador-header" id="buscador-header-form">
+        <input type="text" id="buscador-header" placeholder="Buscar productos..." aria-label="Buscar productos">
+        <button type="submit" aria-label="Buscar">🔍</button>
+    </form>
+
+    <div class="header-derecha">
+        <div class="usuario-area" id="usuario-area"></div>
+        <button class="carrito-icono" id="btn-abrir-carrito" aria-label="Abrir carrito">
+            🛍️<span class="carrito-contador" id="carrito-contador">0</span>
+        </button>
+    </div>
+
+</header>
+
+<section class="pagina-productos" style="text-align: center;">
+    <h1>¡Gracias por tu compra! 🎉</h1>
+    <p style="font-size: 18px; color: #555; margin-bottom: 30px;">
+        Hemos recibido tu pago correctamente. Te contactaremos en breve con los detalles del envío.
+    </p>
+    <a href="productos.html" class="btn-principal">Seguir comprando</a>
+</section>
+
+<footer id="contacto">
+    <p>🛒 Brown Market — hecho con cariño.</p>
+    <p class="footer-contacto">
+        📧 <a href="mailto:browndigital.es@gmail.com">browndigital.es@gmail.com</a>
+        &nbsp;·&nbsp;
+        📞 <a href="tel:+34643496283">643 496 283</a>
+    </p>
+</footer>
+
+<!-- Carrito lateral -->
+<div class="carrito-overlay" id="carrito-overlay"></div>
+<aside class="carrito-panel" id="carrito-panel">
+    <div class="carrito-header">
+        <h2>Tu carrito</h2>
+        <button class="carrito-cerrar" id="btn-cerrar-carrito" aria-label="Cerrar carrito">&times;</button>
+    </div>
+    <div class="carrito-items" id="carrito-items"></div>
+    <div class="carrito-footer">
+        <div class="carrito-total">
+            <span>Total</span>
+            <span id="carrito-total">0,00 €</span>
+        </div>
+        <button id="btn-finalizar">Finalizar compra</button>
+    </div>
+</aside>
+
+<div class="toast" id="toast"></div>
+
+<script>
+    localStorage.removeItem("brownmarket_carrito");
+</script>
+<script src="js/script.js"></script>
+
+</body>
+</html>

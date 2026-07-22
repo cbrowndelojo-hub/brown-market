@@ -1,0 +1,16 @@
+{
+  "name": "brownmarket",
+  "version": "1.0.0",
+  "description": "Tienda online Brown Market con catálogo desde almacén de dropshipping (BigBuy)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.19.0",
+    "google-auth-library": "^10.9.0",
+    "stripe": "^22.3.2"
+  }
+}

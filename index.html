@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brown Market - Tu tienda online</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+
+    <div class="logo">🛒 Brown Market</div>
+
+    <nav>
+        <a href="index.html" class="activo">Inicio</a>
+        <a href="productos.html">Productos</a>
+        <a href="productos.html">Ofertas</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+
+    <form class="buscador-header" id="buscador-header-form">
+        <input type="text" id="buscador-header" placeholder="Buscar productos..." aria-label="Buscar productos">
+        <button type="submit" aria-label="Buscar">🔍</button>
+    </form>
+
+    <div class="header-derecha">
+        <div class="usuario-area" id="usuario-area"></div>
+        <button class="carrito-icono" id="btn-abrir-carrito" aria-label="Abrir carrito">
+            🛍️<span class="carrito-contador" id="carrito-contador">0</span>
+        </button>
+    </div>
+
+</header>
+
+<section class="hero">
+    <div class="hero-contenido">
+        <p class="hero-eyebrow">Tu tienda online de confianza</p>
+        <h1>Todo lo que buscas, <span>a un clic</span></h1>
+        <p>Electrónica, moda, hogar y mucho más — con los mejores precios y envío rápido a toda España.</p>
+        <div class="hero-botones">
+            <a href="productos.html" class="btn-principal">Ver productos</a>
+            <a href="#categorias" class="btn-secundario">Explorar categorías</a>
+        </div>
+        <ul class="hero-confianza">
+            <li>✓ Envío rápido a toda España</li>
+            <li>✓ Pago 100% seguro</li>
+            <li>✓ Devolución en 30 días</li>
+        </ul>
+    </div>
+</section>
+
+<section class="franja-confianza">
+    <div class="franja-item">
+        <span class="franja-icono">🚚</span>
+        <div>
+            <strong>Envío rápido</strong>
+            <p>A toda España en pocos días</p>
+        </div>
+    </div>
+    <div class="franja-item">
+        <span class="franja-icono">🔒</span>
+        <div>
+            <strong>Pago seguro</strong>
+            <p>Procesado de forma cifrada con Stripe</p>
+        </div>
+    </div>
+    <div class="franja-item">
+        <span class="franja-icono">🔄</span>
+        <div>
+            <strong>Devoluciones fáciles</strong>
+            <p>Hasta 30 días para cambios</p>
+        </div>
+    </div>
+    <div class="franja-item">
+        <span class="franja-icono">💬</span>
+        <div>
+            <strong>Atención cercana</strong>
+            <p>Te respondemos por email o teléfono</p>
+        </div>
+    </div>
+</section>
+
+<section class="productos">
+    <h2>Productos destacados</h2>
+
+    <p class="aviso-mock" id="aviso-mock" hidden>
+        ⚠️ Mostrando catálogo de ejemplo — conecta tu API key de BigBuy en <code>.env</code> para ver el almacén real.
+    </p>
+
+    <div class="productos-grid" id="productos-grid" data-limite="4">
+        <p class="cargando-productos" id="cargando-productos">Cargando productos…</p>
+    </div>
+</section>
+
+<section class="categorias" id="categorias">
+    <h2>Categorías</h2>
+
+    <div class="contenedor-categorias">
+        <a href="productos.html?q=electronica" class="categoria cat-electronica">🎧 Electrónica</a>
+        <a href="productos.html?q=calzado" class="categoria cat-calzado">👟 Calzado</a>
+        <a href="productos.html?q=accesorios" class="categoria cat-accesorios">🎒 Accesorios</a>
+        <a href="productos.html?q=juguetes" class="categoria cat-juguetes">🧩 Juguetes</a>
+        <a href="productos.html?q=jardin" class="categoria cat-jardin">🪴 Casa y Jardín</a>
+        <a href="productos.html?q=mobiliario" class="categoria cat-mobiliario">🪑 Mobiliario</a>
+        <a href="productos.html" class="categoria cat-ofertas">🔥 Ofertas</a>
+    </div>
+</section>
+
+<section class="beneficios">
+    <h2>¿Por qué comprar en Brown Market?</h2>
+
+    <div class="contenedor-beneficios">
+        <div class="beneficio">
+            <span class="beneficio-icono">✅</span>
+            <h3>Calidad garantizada</h3>
+            <p>Seleccionamos proveedores fiables para que recibas siempre lo que esperas.</p>
+        </div>
+        <div class="beneficio">
+            <span class="beneficio-icono">💶</span>
+            <h3>Precios competitivos</h3>
+            <p>Sin intermediarios innecesarios: precio justo desde el almacén hasta tu casa.</p>
+        </div>
+        <div class="beneficio">
+            <span class="beneficio-icono">📦</span>
+            <h3>Seguimiento de tu pedido</h3>
+            <p>Te avisamos por email en cada paso, desde la compra hasta la entrega.</p>
+        </div>
+        <div class="beneficio">
+            <span class="beneficio-icono">🤝</span>
+            <h3>Trato cercano</h3>
+            <p>Somos un equipo pequeño: escríbenos y te atendemos de verdad.</p>
+        </div>
+    </div>
+</section>
+
+<section class="newsletter">
+    <h2>No te pierdas nuestras ofertas</h2>
+    <p>Suscríbete y te avisamos de descuentos y novedades antes que nadie.</p>
+    <form id="form-newsletter" class="form-newsletter">
+        <input type="email" id="newsletter-email" placeholder="tu@email.com" required>
+        <button type="submit">Suscribirme</button>
+    </form>
+</section>
+
+<footer id="contacto">
+    <p>🛒 Brown Market — hecho con cariño.</p>
+    <p class="footer-contacto">
+        📧 <a href="mailto:browndigital.es@gmail.com">browndigital.es@gmail.com</a>
+        &nbsp;·&nbsp;
+        📞 <a href="tel:+34643496283">643 496 283</a>
+    </p>
+</footer>
+
+<!-- Carrito lateral -->
+<div class="carrito-overlay" id="carrito-overlay"></div>
+<aside class="carrito-panel" id="carrito-panel">
+    <div class="carrito-header">
+        <h2>Tu carrito</h2>
+        <button class="carrito-cerrar" id="btn-cerrar-carrito" aria-label="Cerrar carrito">&times;</button>
+    </div>
+    <div class="carrito-items" id="carrito-items"></div>
+    <div class="carrito-footer">
+        <div class="carrito-total">
+            <span>Total</span>
+            <span id="carrito-total">0,00 €</span>
+        </div>
+        <button id="btn-finalizar">Finalizar compra</button>
+    </div>
+</aside>
+
+<div class="toast" id="toast"></div>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
