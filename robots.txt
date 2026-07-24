@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /gracias.html
+Allow: /
+
+Sitemap: https://brown-market.com/sitemap.xml
