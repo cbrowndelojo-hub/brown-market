@@ -5,12 +5,53 @@ const path = require("path");
 const fs = require("fs/promises");
 const express = require("express");
 const session = require("express-session");
-const { obtenerProductos } = require("./services/bigbuy");
-const { stripeActivo, crearSesionPago } = require("./services/stripe");
+const { obtenerProductos, bigbuyActivo, crearPedidoBigBuy } = require("./services/bigbuy");
+const { stripeActivo, webhookActivo, verificarWebhook, crearSesionPago } = require("./services/stripe");
 const { googleActivo, obtenerUrlAutenticacion, obtenerPerfilDesdeCodigo } = require("./services/auth");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+// El webhook de Stripe necesita el cuerpo sin procesar para verificar la firma,
+// así que esta ruta va antes del express.json() general.
+app.post("/webhook/stripe", express.raw({ type: "application/json" }), async (req, res) => {
+    let evento;
+    try {
+        evento = verificarWebhook(req.body, req.headers["stripe-signature"]);
+    } catch (error) {
+        console.error("Firma de webhook de Stripe inválida:", error.message);
+        return res.status(400).send(`Webhook Error: ${error.message}`);
+    }
+
+    if (evento.type === "checkout.session.completed") {
+        const session = evento.data.object;
+        try {
+            const carrito = JSON.parse(session.metadata?.carrito || "[]");
+            const envio = session.shipping_details?.address || session.customer_details?.address || {};
+
+            const resultado = await crearPedidoBigBuy({
+                referencia: session.id,
+                email: session.customer_details?.email,
+                productos: carrito,
+                envio: {
+                    nombre: session.shipping_details?.name || session.customer_details?.name,
+                    telefono: session.customer_details?.phone,
+                    direccion1: envio.line1,
+                    direccion2: envio.line2,
+                    ciudad: envio.city,
+                    codigoPostal: envio.postal_code,
+                    pais: envio.country,
+                },
+            });
+
+            console.log(`Pedido ${session.id}: ${resultado.enviado ? "enviado a BigBuy" : "no enviado (" + resultado.motivo + ")"}`);
+        } catch (error) {
+            console.error(`Error enviando el pedido ${session.id} a BigBuy:`, error.message);
+        }
+    }
+
+    res.json({ recibido: true });
+});
 
 app.use(express.json());
 app.use(session({

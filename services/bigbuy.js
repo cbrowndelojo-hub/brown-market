@@ -66,4 +66,54 @@ async function obtenerProductos(limite = 20) {
     }
 }
 
-module.exports = { obtenerProductos };
+function bigbuyActivo() {
+    return Boolean(BIGBUY_API_KEY);
+}
+
+async function crearPedidoBigBuy(pedido) {
+    // Nota: estructura orientativa según la documentación pública de la API de pedidos
+    // de BigBuy (POST /rest/order/create.json). Es muy probable que necesite ajustes
+    // de campos una vez se pruebe contra una cuenta real.
+    if (!bigbuyActivo()) {
+        console.log("[BigBuy] Modo demo: no se envía el pedido (falta BIGBUY_API_KEY).", pedido);
+        return { enviado: false, motivo: "bigbuy-no-configurado" };
+    }
+
+    const cuerpo = {
+        order: {
+            internalReference: pedido.referencia,
+            language: "es",
+            paymentMethod: "moneybox", // pago con el saldo/monedero de la cuenta BigBuy
+            carriers: [{ name: "standard" }],
+            products: pedido.productos.map((p) => ({ reference: p.id, quantity: p.cantidad })),
+            shippingAddress: {
+                firstName: pedido.envio.nombre,
+                phone: pedido.envio.telefono,
+                email: pedido.email,
+                address: pedido.envio.direccion1,
+                postcode: pedido.envio.codigoPostal,
+                town: pedido.envio.ciudad,
+                country: pedido.envio.pais,
+            },
+        },
+    };
+
+    const respuesta = await fetch(`${BIGBUY_API_BASE}/rest/order/create.json`, {
+        method: "POST",
+        headers: {
+            Authorization: `Bearer ${BIGBUY_API_KEY}`,
+            "Content-Type": "application/json",
+            Accept: "application/json",
+        },
+        body: JSON.stringify(cuerpo),
+    });
+
+    if (!respuesta.ok) {
+        const texto = await respuesta.text();
+        throw new Error(`BigBuy respondió ${respuesta.status}: ${texto}`);
+    }
+
+    return { enviado: true, datos: await respuesta.json() };
+}
+
+module.exports = { obtenerProductos, bigbuyActivo, crearPedidoBigBuy };
