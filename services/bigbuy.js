@@ -3,22 +3,19 @@
 const BIGBUY_API_BASE = process.env.BIGBUY_API_BASE || "https://api.bigbuy.eu";
 const BIGBUY_API_KEY = process.env.BIGBUY_API_KEY || "";
 
-// Catálogo de ejemplo, usado mientras no haya BIGBUY_API_KEY configurada en .env
-const PRODUCTOS_MOCK = [
-    { id: "auriculares", nombre: "Auriculares Bluetooth", precio: 39.99, imagen: "images/auriculares.svg", categoria: "electronica" },
-    { id: "reloj", nombre: "Reloj Inteligente", precio: 59.99, imagen: "images/reloj.svg", categoria: "electronica" },
-    { id: "zapatillas", nombre: "Zapatillas Deportivas", precio: 49.99, imagen: "images/zapatillas.svg", categoria: "calzado" },
-    { id: "mochila", nombre: "Mochila Antirrobo", precio: 34.99, imagen: "images/mochila.svg", categoria: "accesorios" },
-    { id: "altavoz", nombre: "Altavoz Bluetooth", precio: 27.99, imagen: "images/altavoz.svg", categoria: "electronica" },
-    { id: "gafas", nombre: "Gafas de Sol Polarizadas", precio: 19.99, imagen: "images/gafas.svg", categoria: "accesorios" },
-    { id: "cargador", nombre: "Cargador Inalámbrico", precio: 22.99, imagen: "images/cargador.svg", categoria: "electronica" },
-    { id: "funda", nombre: "Funda de Móvil Antigolpes", precio: 14.99, imagen: "images/funda.svg", categoria: "accesorios" },
-    { id: "puzzle", nombre: "Puzzle 1000 Piezas", precio: 12.99, imagen: "images/puzzle.svg", categoria: "juguetes" },
-    { id: "dron", nombre: "Dron con Cámara para Niños", precio: 34.99, imagen: "images/dron.svg", categoria: "juguetes" },
-    { id: "maceta", nombre: "Maceta Autorriego", precio: 16.99, imagen: "images/maceta.svg", categoria: "casa jardin" },
-    { id: "herramientas", nombre: "Set de Herramientas de Jardín", precio: 24.99, imagen: "images/herramientas.svg", categoria: "casa jardin" },
-    { id: "silla", nombre: "Silla de Escritorio Ergonómica", precio: 89.99, imagen: "images/silla.svg", categoria: "mobiliario" },
-    { id: "estanteria", nombre: "Estantería Modular", precio: 59.99, imagen: "images/estanteria.svg", categoria: "mobiliario" },
+// Catálogo curado a mano desde el catálogo público de BigBuy (precios de distribuidor
+// reales a fecha de hoy), mientras no haya BIGBUY_API_KEY configurada para sincronizar
+// automáticamente. Los pedidos de estos productos se gestionan manualmente en BigBuy.
+const PRODUCTOS_CURADOS = [
+    { id: "auriculares", nombre: "Auriculares Bluetooth Blackfire BFX-40", precio: 34.99, imagen: "images/auriculares.svg", categoria: "electronica" },
+    { id: "altavoz", nombre: "Altavoz Bluetooth Medion (Reacondicionado)", precio: 69.99, imagen: "images/altavoz.svg", categoria: "electronica" },
+    { id: "zapatillas", nombre: "Zapatillas Deportivas Munich Break", precio: 79.99, imagen: "images/zapatillas.svg", categoria: "calzado" },
+    { id: "mochila", nombre: "Mochila Escolar Benetton Damero", precio: 21.99, imagen: "images/mochila.svg", categoria: "accesorios" },
+    { id: "funda", nombre: "Funda de Móvil iPhone Just in Case", precio: 12.99, imagen: "images/funda.svg", categoria: "accesorios" },
+    { id: "puzzle", nombre: "Puzzle Animales To Go", precio: 4.99, imagen: "images/puzzle.svg", categoria: "juguetes" },
+    { id: "conjunto", nombre: "Conjunto Deportivo Infantil Champion", precio: 29.99, imagen: "images/conjunto.svg", categoria: "juguetes" },
+    { id: "piscina", nombre: "Piscina Infantil Bestway Dinosaurios", precio: 36.99, imagen: "images/piscina.svg", categoria: "casa jardin" },
+    { id: "silla", nombre: "Silla Plegable Aluminio Marbueno", precio: 38.99, imagen: "images/silla.svg", categoria: "mobiliario" },
 ];
 
 function mapearProductoBigBuy(item) {
@@ -54,7 +51,7 @@ async function obtenerProductosBigBuy(limite) {
 
 async function obtenerProductos(limite = 20) {
     if (!BIGBUY_API_KEY) {
-        return { origen: "mock", productos: PRODUCTOS_MOCK.slice(0, limite) };
+        return { origen: "manual", productos: PRODUCTOS_CURADOS.slice(0, limite) };
     }
 
     try {
@@ -62,7 +59,7 @@ async function obtenerProductos(limite = 20) {
         return { origen: "bigbuy", productos };
     } catch (error) {
         console.error("Error consultando la API de BigBuy, usando catálogo de ejemplo:", error.message);
-        return { origen: "mock", productos: PRODUCTOS_MOCK.slice(0, limite) };
+        return { origen: "manual", productos: PRODUCTOS_CURADOS.slice(0, limite) };
     }
 }
 

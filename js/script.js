@@ -194,7 +194,7 @@
             const { origen, productos } = await respuesta.json();
 
             grid.innerHTML = productos.map(tarjetaProductoHTML).join("");
-            if (avisoMock) avisoMock.hidden = origen !== "mock";
+            if (avisoMock) avisoMock.hidden = origen !== "manual";
         } catch (error) {
             grid.innerHTML = '<p class="cargando-productos">No se pudieron cargar los productos. ¿Está el servidor en marcha?</p>';
         }
