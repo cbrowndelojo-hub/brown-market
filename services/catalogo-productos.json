@@ -1,0 +1,3740 @@
+[
+  {
+    "id": "rizador-de-pelo-demeliss-1200-w-reacondicionado-a-1",
+    "nombre": "Rizador de Pelo Demeliss 1200 W (Reacondicionado A)",
+    "precio": 40.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/rizador-de-pelo-demeliss-1200-w-reacondicionado-a-1.jpg"
+  },
+  {
+    "id": "set-de-maquillaje-essence-glow-like-honey-2",
+    "nombre": "Set de Maquillaje Essence GLOW LIKE HONEY",
+    "precio": 8.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/set-de-maquillaje-essence-glow-like-honey-2.jpg"
+  },
+  {
+    "id": "base-de-maquillaje-fluida-stendhal-make-up-stendhal-paris-n--3",
+    "nombre": "Base de Maquillaje Fluida Stendhal MAKE-UP STENDHAL PARIS Nº 320 30 ml",
+    "precio": 24.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/base-de-maquillaje-fluida-stendhal-make-up-stendhal-paris-n--3.jpg"
+  },
+  {
+    "id": "mascarilla-capilar-sebastian-twisted-200-ml-4",
+    "nombre": "Mascarilla Capilar Sebastian TWISTED 200 ml",
+    "precio": 18.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/mascarilla-capilar-sebastian-twisted-200-ml-4.jpg"
+  },
+  {
+    "id": "gel-de-ducha-lacoste-l-12-12-magnetic-50-ml-5",
+    "nombre": "Gel de Ducha Lacoste L.12.12 Magnetic 50 ml",
+    "precio": 9.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/gel-de-ducha-lacoste-l-12-12-magnetic-50-ml-5.jpg"
+  },
+  {
+    "id": "gel-para-pies-scholl-party-feet-gel-protection-6",
+    "nombre": "Gel para Pies Scholl Party Feet Gel Protection",
+    "precio": 4.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/gel-para-pies-scholl-party-feet-gel-protection-6.jpg"
+  },
+  {
+    "id": "set-de-maquillaje-gosh-copenhagen-lash-lift-7",
+    "nombre": "Set de Maquillaje Gosh Copenhagen LASH LIFT",
+    "precio": 13.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/set-de-maquillaje-gosh-copenhagen-lash-lift-7.jpg"
+  },
+  {
+    "id": "corrector-facial-chanel-le-teint-ultra-n-br32-8-5-g-8",
+    "nombre": "Corrector Facial Chanel LE TEINT ULTRA Nº BR32 8,5 g",
+    "precio": 34.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/corrector-facial-chanel-le-teint-ultra-n-br32-8-5-g-8.jpg"
+  },
+  {
+    "id": "texturizador-para-el-cabello-lola-cosmetics-ondulados-lola-i-9",
+    "nombre": "Texturizador para el Cabello Lola Cosmetics ONDULADOS LOLA INC. 500 g",
+    "precio": 13.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/texturizador-para-el-cabello-lola-cosmetics-ondulados-lola-i-9.jpg"
+  },
+  {
+    "id": "cepillo-de-aire-secador-y-moldeador-multifuncion-ionico-con--10",
+    "nombre": "Cepillo de Aire Secador y Moldeador Multifunción Iónico con Tecnología Coanda y 7 Accesorios Wavify InnovaGoods",
+    "precio": 80.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/cepillo-de-aire-secador-y-moldeador-multifuncion-ionico-con--10.jpg"
+  },
+  {
+    "id": "masajeador-facial-electrico-reafirmante-para-cara-y-cuello-c-11",
+    "nombre": "Masajeador Facial Eléctrico Reafirmante para Cara y Cuello con LED, EMS y Calor Selora InnovaGoods",
+    "precio": 35.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/masajeador-facial-electrico-reafirmante-para-cara-y-cuello-c-11.jpg"
+  },
+  {
+    "id": "balsamo-labial-drunk-elephant-lippe-3-7-g-12",
+    "nombre": "Bálsamo Labial Drunk Elephant LIPPE 3,7 g",
+    "precio": 15.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/balsamo-labial-drunk-elephant-lippe-3-7-g-12.jpg"
+  },
+  {
+    "id": "crema-iluminadora-drunk-elephant-b-goldi-bright-drops-30-ml-13",
+    "nombre": "Crema Iluminadora Drunk Elephant B-GOLDI BRIGHT DROPS 30 ml",
+    "precio": 25.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/crema-iluminadora-drunk-elephant-b-goldi-bright-drops-30-ml-13.jpg"
+  },
+  {
+    "id": "neceser-de-viaje-real-madrid-c-f-blanco-deportivo-22-x-10-x--14",
+    "nombre": "Neceser de Viaje Real Madrid C.F. Blanco Deportivo 22 x 10 x 8 cm",
+    "precio": 6.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/neceser-de-viaje-real-madrid-c-f-blanco-deportivo-22-x-10-x--14.jpg"
+  },
+  {
+    "id": "botella-pulverizadora-inoxibar-61265-15",
+    "nombre": "Botella Pulverizadora Inoxibar 61265",
+    "precio": 10.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/botella-pulverizadora-inoxibar-61265-15.jpg"
+  },
+  {
+    "id": "serum-antimanchas-serumkind-muscat-clearing-30-ml-16",
+    "nombre": "Sérum Antimanchas Serumkind MUSCAT CLEARING 30 ml",
+    "precio": 23.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/serum-antimanchas-serumkind-muscat-clearing-30-ml-16.jpg"
+  },
+  {
+    "id": "serum-protector-lancaster-sun-perfect-spf-50-30-ml-17",
+    "nombre": "Sérum Protector Lancaster SUN PERFECT Spf 50 30 ml",
+    "precio": 21.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/serum-protector-lancaster-sun-perfect-spf-50-30-ml-17.jpg"
+  },
+  {
+    "id": "neceser-de-viaje-munich-mellow-azul-rosa-azul-cielo-28-x-18--18",
+    "nombre": "Neceser de Viaje Munich Mellow Azul Rosa Azul cielo 28 x 18 x 10 cm",
+    "precio": 16.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/neceser-de-viaje-munich-mellow-azul-rosa-azul-cielo-28-x-18--18.jpg"
+  },
+  {
+    "id": "neceser-de-viaje-el-ganso-eclipse-azul-marino-24-x-15-x-10-c-19",
+    "nombre": "Neceser de Viaje El Ganso Eclipse Azul marino 24 x 15 x 10 cm",
+    "precio": 14.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/neceser-de-viaje-el-ganso-eclipse-azul-marino-24-x-15-x-10-c-19.jpg"
+  },
+  {
+    "id": "protector-solar-isdin-transparent-spf-50-100-ml-20",
+    "nombre": "Protector Solar Isdin Transparent Spf 50+ 100 ml",
+    "precio": 18.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/protector-solar-isdin-transparent-spf-50-100-ml-20.jpg"
+  },
+  {
+    "id": "neceser-de-viaje-moos-passion-multicolor-poliester-reciclado-21",
+    "nombre": "Neceser de Viaje Moos Passion Multicolor Poliéster Reciclado 23 x 12 x 8 cm",
+    "precio": 4.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/neceser-de-viaje-moos-passion-multicolor-poliester-reciclado-21.jpg"
+  },
+  {
+    "id": "neceser-de-viaje-moos-passion-multicolor-31-x-14-x-19-cm-22",
+    "nombre": "Neceser de Viaje Moos Passion Multicolor 31 x 14 x 19 cm",
+    "precio": 9.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/neceser-de-viaje-moos-passion-multicolor-31-x-14-x-19-cm-22.jpg"
+  },
+  {
+    "id": "neceser-de-viaje-naruto-negro-26-x-15-x-12-cm-23",
+    "nombre": "Neceser de Viaje Naruto Negro 26 x 15 x 12 cm",
+    "precio": 9.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/neceser-de-viaje-naruto-negro-26-x-15-x-12-cm-23.jpg"
+  },
+  {
+    "id": "neceser-de-viaje-mickey-mouse-clubhouse-good-day-azul-26-x-1-24",
+    "nombre": "Neceser de Viaje Mickey Mouse Clubhouse Good day Azul 26 x 15 x 12 cm",
+    "precio": 7.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/neceser-de-viaje-mickey-mouse-clubhouse-good-day-azul-26-x-1-24.jpg"
+  },
+  {
+    "id": "depiladora-de-luz-pulsada-con-funcion-frio-y-accesorios-kule-25",
+    "nombre": "Depiladora de Luz Pulsada con Función Frío y Accesorios Kulepil InnovaGoods",
+    "precio": 69.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/depiladora-de-luz-pulsada-con-funcion-frio-y-accesorios-kule-25.jpg"
+  },
+  {
+    "id": "secador-de-pelo-solac-sh7091fast-2200-legere-2200-w-26",
+    "nombre": "Secador de Pelo Solac SH7091FAST 2200 LEGERE 2200 W",
+    "precio": 16.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/secador-de-pelo-solac-sh7091fast-2200-legere-2200-w-26.jpg"
+  },
+  {
+    "id": "set-de-cosmetica-mujer-nivea-q10-anti-arrugas-antiedad-q10-2-27",
+    "nombre": "Set de Cosmética Mujer Nivea Q10 ANTI-ARRUGAS Antiedad Q10 2 Piezas",
+    "precio": 21.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/set-de-cosmetica-mujer-nivea-q10-anti-arrugas-antiedad-q10-2-27.jpg"
+  },
+  {
+    "id": "aceite-para-la-barba-trussardi-primo-50-ml-28",
+    "nombre": "Aceite para la Barba Trussardi PRIMO 50 ml",
+    "precio": 14.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/aceite-para-la-barba-trussardi-primo-50-ml-28.jpg"
+  },
+  {
+    "id": "champu-reparador-schwarzkopf-gliss-400-ml-29",
+    "nombre": "Champú Reparador Schwarzkopf GLISS 400 ml",
+    "precio": 6.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/champu-reparador-schwarzkopf-gliss-400-ml-29.jpg"
+  },
+  {
+    "id": "pack-tratamiento-anticelulitico-reductor-rice-innovagoods-30",
+    "nombre": "Pack Tratamiento Anticelulítico Reductor Rice InnovaGoods",
+    "precio": 56.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-tratamiento-anticelulitico-reductor-rice-innovagoods-30.jpg"
+  },
+  {
+    "id": "pack-tratamiento-facial-limpieza-profunda-kombucha-innovagoo-31",
+    "nombre": "Pack Tratamiento Facial Limpieza Profunda Kombucha InnovaGoods",
+    "precio": 61.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-tratamiento-facial-limpieza-profunda-kombucha-innovagoo-31.jpg"
+  },
+  {
+    "id": "pack-tratamiento-limpieza-facial-rice-innovagoods-32",
+    "nombre": "Pack Tratamiento Limpieza Facial Rice InnovaGoods",
+    "precio": 37.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-tratamiento-limpieza-facial-rice-innovagoods-32.jpg"
+  },
+  {
+    "id": "pack-tratamiento-limpieza-puntos-negros-cbd-innovagoods-33",
+    "nombre": "Pack Tratamiento Limpieza Puntos Negros CBD InnovaGoods",
+    "precio": 54.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-tratamiento-limpieza-puntos-negros-cbd-innovagoods-33.jpg"
+  },
+  {
+    "id": "pack-tratamiento-facial-reafirmante-kombucha-innovagoods-34",
+    "nombre": "Pack Tratamiento Facial Reafirmante Kombucha InnovaGoods",
+    "precio": 85.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-tratamiento-facial-reafirmante-kombucha-innovagoods-34.jpg"
+  },
+  {
+    "id": "pack-tratamiento-antiojeras-triple-accion-kombucha-innovagoo-35",
+    "nombre": "Pack Tratamiento Antiojeras Triple Acción Kombucha InnovaGoods",
+    "precio": 47.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-tratamiento-antiojeras-triple-accion-kombucha-innovagoo-35.jpg"
+  },
+  {
+    "id": "pack-de-hidratacion-facial-rice-innovagoods-36",
+    "nombre": "Pack de Hidratación Facial Rice InnovaGoods",
+    "precio": 50.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-de-hidratacion-facial-rice-innovagoods-36.jpg"
+  },
+  {
+    "id": "pack-duo-de-hidratacion-facial-cbd-innovagoods-37",
+    "nombre": "Pack Dúo de Hidratación Facial CBD InnovaGoods",
+    "precio": 35.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-duo-de-hidratacion-facial-cbd-innovagoods-37.jpg"
+  },
+  {
+    "id": "pack-duo-de-hidratacion-facial-kombucha-innovagoods-38",
+    "nombre": "Pack Dúo de Hidratación Facial Kombucha InnovaGoods",
+    "precio": 40.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-duo-de-hidratacion-facial-kombucha-innovagoods-38.jpg"
+  },
+  {
+    "id": "pack-duo-de-hidratacion-facial-rice-innovagoods-39",
+    "nombre": "Pack Dúo de Hidratación Facial Rice InnovaGoods",
+    "precio": 39.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-duo-de-hidratacion-facial-rice-innovagoods-39.jpg"
+  },
+  {
+    "id": "pack-de-hidratacion-facial-cbd-innovagoods-40",
+    "nombre": "Pack de Hidratación Facial CBD InnovaGoods",
+    "precio": 53.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-de-hidratacion-facial-cbd-innovagoods-40.jpg"
+  },
+  {
+    "id": "pack-de-hidratacion-facial-kombucha-innovagoods-41",
+    "nombre": "Pack de Hidratación Facial Kombucha InnovaGoods",
+    "precio": 52.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-de-hidratacion-facial-kombucha-innovagoods-41.jpg"
+  },
+  {
+    "id": "pack-duo-de-limpieza-facial-cbd-innovagoods-42",
+    "nombre": "Pack Dúo de Limpieza Facial CBD InnovaGoods",
+    "precio": 39.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-duo-de-limpieza-facial-cbd-innovagoods-42.jpg"
+  },
+  {
+    "id": "pack-duo-de-limpieza-facial-kombucha-innovagoods-43",
+    "nombre": "Pack Dúo de Limpieza Facial Kombucha InnovaGoods",
+    "precio": 34.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-duo-de-limpieza-facial-kombucha-innovagoods-43.jpg"
+  },
+  {
+    "id": "pack-duo-reparador-cbd-innovagoods-44",
+    "nombre": "Pack Dúo Reparador CBD InnovaGoods",
+    "precio": 38.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-duo-reparador-cbd-innovagoods-44.jpg"
+  },
+  {
+    "id": "pack-duo-de-cuidado-corporal-rice-innovagoods-45",
+    "nombre": "Pack Dúo de Cuidado Corporal Rice InnovaGoods",
+    "precio": 36.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-duo-de-cuidado-corporal-rice-innovagoods-45.jpg"
+  },
+  {
+    "id": "pack-duo-de-limpieza-facial-rice-innovagoods-46",
+    "nombre": "Pack Dúo de Limpieza Facial Rice InnovaGoods",
+    "precio": 32.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-duo-de-limpieza-facial-rice-innovagoods-46.jpg"
+  },
+  {
+    "id": "pack-de-rutina-facial-y-corporal-cbd-innovagoods-47",
+    "nombre": "Pack de Rutina Facial y Corporal CBD InnovaGoods",
+    "precio": 111.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-de-rutina-facial-y-corporal-cbd-innovagoods-47.jpg"
+  },
+  {
+    "id": "pack-de-rutina-facial-y-corporal-rice-innovagoods-48",
+    "nombre": "Pack de Rutina Facial y Corporal Rice InnovaGoods",
+    "precio": 101.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-de-rutina-facial-y-corporal-rice-innovagoods-48.jpg"
+  },
+  {
+    "id": "pack-de-rutina-facial-cbd-innovagoods-49",
+    "nombre": "Pack de Rutina Facial CBD InnovaGoods",
+    "precio": 87.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-de-rutina-facial-cbd-innovagoods-49.jpg"
+  },
+  {
+    "id": "pack-de-rutina-facial-kombucha-innovagoods-50",
+    "nombre": "Pack de Rutina Facial Kombucha InnovaGoods",
+    "precio": 81.99,
+    "categoria": "belleza",
+    "imagen": "images/productos/pack-de-rutina-facial-kombucha-innovagoods-50.jpg"
+  },
+  {
+    "id": "proyector-dangbei-reacondicionado-a-51",
+    "nombre": "Proyector Dangbei (Reacondicionado A)",
+    "precio": 583.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/proyector-dangbei-reacondicionado-a-51.jpg"
+  },
+  {
+    "id": "telefono-movil-gigaset-gris-reacondicionado-b-52",
+    "nombre": "Teléfono Móvil Gigaset Gris (Reacondicionado B)",
+    "precio": 82.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/telefono-movil-gigaset-gris-reacondicionado-b-52.jpg"
+  },
+  {
+    "id": "barra-de-sonido-samsung-hws60d-negro-200-w-reacondicionado-c-53",
+    "nombre": "Barra de Sonido Samsung HWS60D Negro 200 W (Reacondicionado C)",
+    "precio": 142.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/barra-de-sonido-samsung-hws60d-negro-200-w-reacondicionado-c-53.jpg"
+  },
+  {
+    "id": "soporte-tv-neomounts-wl30s-910bl16-40-75-50-kg-reacondiciona-54",
+    "nombre": "Soporte TV Neomounts WL30S-910BL16 40\" 75\" 50 kg (Reacondicionado C)",
+    "precio": 102.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/soporte-tv-neomounts-wl30s-910bl16-40-75-50-kg-reacondiciona-54.jpg"
+  },
+  {
+    "id": "smart-tv-tcl-75c8k-4k-ultra-hd-75-uled-hdr10-google-assistan-55",
+    "nombre": "Smart TV TCL 75C8K 4K Ultra HD 75\" ULED HDR10+ Google Assistant (Reacondicionado B)",
+    "precio": 1175.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/smart-tv-tcl-75c8k-4k-ultra-hd-75-uled-hdr10-google-assistan-55.jpg"
+  },
+  {
+    "id": "auriculares-logitech-991-000537-negro-reacondicionado-a-56",
+    "nombre": "Auriculares Logitech 991-000537 Negro (Reacondicionado A)",
+    "precio": 216.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/auriculares-logitech-991-000537-negro-reacondicionado-a-56.jpg"
+  },
+  {
+    "id": "altavoz-bluetooth-portatil-medion-50077074-antracita-reacond-57",
+    "nombre": "Altavoz Bluetooth Portátil Medion 50077074 Antracita (Reacondicionado A)",
+    "precio": 65.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/altavoz-bluetooth-portatil-medion-50077074-antracita-reacond-57.jpg"
+  },
+  {
+    "id": "smart-tv-hisense-75e7q-pro-4k-ultra-hd-75-hdr-qled-reacondic-58",
+    "nombre": "Smart TV Hisense 75E7Q PRO 4K Ultra HD 75\" HDR QLED (Reacondicionado A)",
+    "precio": 580.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/smart-tv-hisense-75e7q-pro-4k-ultra-hd-75-hdr-qled-reacondic-58.jpg"
+  },
+  {
+    "id": "altavoz-bluetooth-portatil-con-microfono-reig-reacondicionad-59",
+    "nombre": "Altavoz Bluetooth Portátil con Micrófono Reig (Reacondicionado A)",
+    "precio": 24.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/altavoz-bluetooth-portatil-con-microfono-reig-reacondicionad-59.jpg"
+  },
+  {
+    "id": "altavoces-polk-r500-reacondicionado-a-60",
+    "nombre": "Altavoces Polk R500 (Reacondicionado A)",
+    "precio": 430.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/altavoces-polk-r500-reacondicionado-a-60.jpg"
+  },
+  {
+    "id": "correa-para-reloj-spc-reacondicionado-a-61",
+    "nombre": "Correa para Reloj SPC (Reacondicionado A)",
+    "precio": 9.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/correa-para-reloj-spc-reacondicionado-a-61.jpg"
+  },
+  {
+    "id": "funda-para-movil-gc-iphone-balckberry-l01005g2-multicolor-62",
+    "nombre": "Funda para Móvil GC IPHONE-BALCKBERRY-L01005G2 Multicolor",
+    "precio": 16.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/funda-para-movil-gc-iphone-balckberry-l01005g2-multicolor-62.jpg"
+  },
+  {
+    "id": "smart-tv-hisense-43a79kq-4k-ultra-hd-43-led-hdr-d-led-qled-r-63",
+    "nombre": "Smart TV Hisense 43A79KQ 4K Ultra HD 43\" LED HDR D-LED QLED (Reacondicionado B)",
+    "precio": 184.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/smart-tv-hisense-43a79kq-4k-ultra-hd-43-led-hdr-d-led-qled-r-63.jpg"
+  },
+  {
+    "id": "smart-tv-xiaomi-ela5692eu-4k-ultra-hd-100-led-hdr-qled-reaco-64",
+    "nombre": "Smart TV Xiaomi ELA5692EU 4K Ultra HD 100\" LED HDR QLED (Reacondicionado A)",
+    "precio": 1304.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/smart-tv-xiaomi-ela5692eu-4k-ultra-hd-100-led-hdr-qled-reaco-64.jpg"
+  },
+  {
+    "id": "smart-tv-philips-75pus8919-12-4k-ultra-hd-led-reacondicionad-65",
+    "nombre": "Smart TV Philips 75PUS8919/12 4K Ultra HD LED (Reacondicionado B)",
+    "precio": 461.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/smart-tv-philips-75pus8919-12-4k-ultra-hd-led-reacondicionad-65.jpg"
+  },
+  {
+    "id": "soporte-de-pared-griffin-appst16x-17-60-50-kg-reacondicionad-66",
+    "nombre": "Soporte de Pared Griffin APPST16X 17\" 60\" 50 kg (Reacondicionado A)",
+    "precio": 36.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/soporte-de-pared-griffin-appst16x-17-60-50-kg-reacondicionad-66.jpg"
+  },
+  {
+    "id": "camiseta-de-futbol-nike-ness8436-67",
+    "nombre": "Camiseta de Fútbol Nike NESS8436",
+    "precio": 8.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/camiseta-de-futbol-nike-ness8436-67.jpg"
+  },
+  {
+    "id": "soporte-tv-para-suelo-con-ruedas-tooq-fs20406hm-b-60-100-120-68",
+    "nombre": "Soporte TV para suelo con ruedas TooQ FS20406HM-B 60\" 100\" 120 kg 130 Kg (Reacondicionado A)",
+    "precio": 103.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/soporte-tv-para-suelo-con-ruedas-tooq-fs20406hm-b-60-100-120-68.jpg"
+  },
+  {
+    "id": "modulo-fader-hercules-inpulse-t7-reacondicionado-a-69",
+    "nombre": "Modulo Fader Hercules INPULSE T7 (Reacondicionado A)",
+    "precio": 52.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/modulo-fader-hercules-inpulse-t7-reacondicionado-a-69.jpg"
+  },
+  {
+    "id": "smart-tv-lg-75qned86a6a-75-4k-ultra-hd-75-led-hdr-lcd-amd-fr-70",
+    "nombre": "Smart TV LG 75QNED86A6A  75 4K Ultra HD 75\" LED HDR LCD AMD FreeSync QNED (Reacondicionado A)",
+    "precio": 644.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/smart-tv-lg-75qned86a6a-75-4k-ultra-hd-75-led-hdr-lcd-amd-fr-70.jpg"
+  },
+  {
+    "id": "auriculares-hama-kooky-negro-reacondicionado-a-71",
+    "nombre": "Auriculares Hama Kooky Negro (Reacondicionado A)",
+    "precio": 6.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/auriculares-hama-kooky-negro-reacondicionado-a-71.jpg"
+  },
+  {
+    "id": "funda-para-movil-just-in-case-iphone-17-pro-negro-apple-72",
+    "nombre": "Funda para Móvil Just in case IPHONE 17 PRO Negro Apple",
+    "precio": 13.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/funda-para-movil-just-in-case-iphone-17-pro-negro-apple-72.jpg"
+  },
+  {
+    "id": "altavoz-portatil-ibiza-boomy-73",
+    "nombre": "Altavoz Portátil Ibiza BOOMY",
+    "precio": 17.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/altavoz-portatil-ibiza-boomy-73.jpg"
+  },
+  {
+    "id": "gafas-de-snorkel-wella-74",
+    "nombre": "Gafas de Snorkel Wella",
+    "precio": 3.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/gafas-de-snorkel-wella-74.jpg"
+  },
+  {
+    "id": "pilas-recargables-varta-4914121422-75",
+    "nombre": "Pilas Recargables Varta 4914121422",
+    "precio": 2.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/pilas-recargables-varta-4914121422-75.jpg"
+  },
+  {
+    "id": "pilas-duracell-lr14-k2-1-5-v-lr14-1-unidad-76",
+    "nombre": "Pilas DURACELL LR14 K2 1,5 V LR14 (1 unidad)",
+    "precio": 3.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/pilas-duracell-lr14-k2-1-5-v-lr14-1-unidad-76.jpg"
+  },
+  {
+    "id": "dock-base-de-carga-nacon-dualchargerv4-77",
+    "nombre": "Dock/Base de carga Nacon DUALCHARGERV4",
+    "precio": 7.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/dock-base-de-carga-nacon-dualchargerv4-77.jpg"
+  },
+  {
+    "id": "soporte-cargador-rapido-inalambrico-para-coche-chakar-innova-78",
+    "nombre": "Soporte Cargador Rápido Inalámbrico para Coche Chakar InnovaGoods",
+    "precio": 18.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/soporte-cargador-rapido-inalambrico-para-coche-chakar-innova-78.jpg"
+  },
+  {
+    "id": "videojuego-xbox-one-series-x-electronic-arts-fc-24-79",
+    "nombre": "Videojuego Xbox One / Series X Electronic Arts FC 24",
+    "precio": 19.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/videojuego-xbox-one-series-x-electronic-arts-fc-24-79.jpg"
+  },
+  {
+    "id": "funda-para-movil-samsung-flip-6-gris-80",
+    "nombre": "Funda para Móvil Samsung FLIP 6 Gris",
+    "precio": 18.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/funda-para-movil-samsung-flip-6-gris-80.jpg"
+  },
+  {
+    "id": "auriculares-con-microfono-t-nb-melody-2-81",
+    "nombre": "Auriculares con Micrófono T'NB MELODY 2",
+    "precio": 20.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/auriculares-con-microfono-t-nb-melody-2-81.jpg"
+  },
+  {
+    "id": "modulo-toma-television-82",
+    "nombre": "Módulo Toma Televisión",
+    "precio": 3.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/modulo-toma-television-82.jpg"
+  },
+  {
+    "id": "marco-para-tv-sony-83",
+    "nombre": "Marco Para TV Sony",
+    "precio": 143.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/marco-para-tv-sony-83.jpg"
+  },
+  {
+    "id": "funda-para-movil-cool-redmi-note-13-5g-negro-xiaomi-84",
+    "nombre": "Funda para Móvil Cool Redmi Note 13 5G Negro Xiaomi",
+    "precio": 6.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/funda-para-movil-cool-redmi-note-13-5g-negro-xiaomi-84.jpg"
+  },
+  {
+    "id": "lampara-proyector-coreparts-85",
+    "nombre": "Lámpara Proyector Coreparts",
+    "precio": 773.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/lampara-proyector-coreparts-85.jpg"
+  },
+  {
+    "id": "disco-86",
+    "nombre": "Disco",
+    "precio": 10.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/disco-86.jpg"
+  },
+  {
+    "id": "blu-ray-ejecutivo-ejecutor-87",
+    "nombre": "Blu-Ray Ejecutivo ejecutor",
+    "precio": 9.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/blu-ray-ejecutivo-ejecutor-87.jpg"
+  },
+  {
+    "id": "estabilizador-para-soporte-axis-02454-001-88",
+    "nombre": "Estabilizador para Soporte Axis 02454-001",
+    "precio": 74.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/estabilizador-para-soporte-axis-02454-001-88.jpg"
+  },
+  {
+    "id": "altavoz-portatil-elbe-altg15tws-negro-gris-5-w-89",
+    "nombre": "Altavoz Portátil ELBE ALTG15TWS Negro Gris 5 W",
+    "precio": 17.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/altavoz-portatil-elbe-altg15tws-negro-gris-5-w-89.jpg"
+  },
+  {
+    "id": "auriculares-poly-85s15aa-90",
+    "nombre": "Auriculares Poly 85S15AA",
+    "precio": 5.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/auriculares-poly-85s15aa-90.jpg"
+  },
+  {
+    "id": "altavoz-bluetooth-portatil-sony-srsxb100h-ce7-gris-91",
+    "nombre": "Altavoz Bluetooth Portátil Sony SRSXB100H.CE7 Gris",
+    "precio": 39.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/altavoz-bluetooth-portatil-sony-srsxb100h-ce7-gris-91.jpg"
+  },
+  {
+    "id": "proyector-iggual-igg318973-120-lm-720-px-1280-x-720-px-92",
+    "nombre": "Proyector iggual IGG318973 120 Lm 720 px 1280 x 720 px",
+    "precio": 68.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/proyector-iggual-igg318973-120-lm-720-px-1280-x-720-px-92.jpg"
+  },
+  {
+    "id": "funda-para-movil-pccom-xiaomi-13-transparente-xiaomi-93",
+    "nombre": "Funda para Móvil PcCom Xiaomi 13 Transparente Xiaomi",
+    "precio": 10.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/funda-para-movil-pccom-xiaomi-13-transparente-xiaomi-93.jpg"
+  },
+  {
+    "id": "smartwatch-samsung-galaxy-watch-active-verde-aleman-reacondi-94",
+    "nombre": "Smartwatch Samsung Galaxy Watch Active Verde Alemán (Reacondicionado B)",
+    "precio": 56.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/smartwatch-samsung-galaxy-watch-active-verde-aleman-reacondi-94.jpg"
+  },
+  {
+    "id": "protector-de-pantalla-para-movil-ksix-xiaomi-redmi-12c-xiaom-95",
+    "nombre": "Protector de Pantalla para Móvil KSIX Xiaomi Redmi 12C Xiaomi Xiaomi Redmi 12C",
+    "precio": 6.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/protector-de-pantalla-para-movil-ksix-xiaomi-redmi-12c-xiaom-95.jpg"
+  },
+  {
+    "id": "soporte-hpe-r9b36a-blanco-96",
+    "nombre": "Soporte HPE R9B36A Blanco",
+    "precio": 12.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/soporte-hpe-r9b36a-blanco-96.jpg"
+  },
+  {
+    "id": "pila-alcalina-duracell-plus-k1-97",
+    "nombre": "Pila Alcalina DURACELL PLUS K1",
+    "precio": 4.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/pila-alcalina-duracell-plus-k1-97.jpg"
+  },
+  {
+    "id": "auriculares-blackfire-bfx-40-blanco-98",
+    "nombre": "Auriculares Blackfire BFX-40 Blanco",
+    "precio": 26.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/auriculares-blackfire-bfx-40-blanco-98.jpg"
+  },
+  {
+    "id": "correa-para-reloj-sony-reacondicionado-b-99",
+    "nombre": "Correa para Reloj Sony (Reacondicionado B)",
+    "precio": 46.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/correa-para-reloj-sony-reacondicionado-b-99.jpg"
+  },
+  {
+    "id": "smartwatch-samsung-galaxy-watch-3-reacondicionado-a-100",
+    "nombre": "Smartwatch Samsung Galaxy Watch 3 (Reacondicionado A+)",
+    "precio": 90.99,
+    "categoria": "electronica",
+    "imagen": "images/productos/smartwatch-samsung-galaxy-watch-3-reacondicionado-a-100.jpg"
+  },
+  {
+    "id": "tendedero-plegable-vertical-con-ruedas-dolver-innovagoods-24-101",
+    "nombre": "Tendedero Plegable Vertical con Ruedas Dolver InnovaGoods 24 Barras",
+    "precio": 40.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/tendedero-plegable-vertical-con-ruedas-dolver-innovagoods-24-101.jpg"
+  },
+  {
+    "id": "zapatero-modular-portatil-innovagoods-blanco-102",
+    "nombre": "Zapatero Modular Portátil InnovaGoods Blanco",
+    "precio": 40.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/zapatero-modular-portatil-innovagoods-blanco-102.jpg"
+  },
+  {
+    "id": "mesa-de-centro-womo-dorado-reacondicionado-c-103",
+    "nombre": "Mesa de Centro WOMO Dorado (Reacondicionado C)",
+    "precio": 88.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/mesa-de-centro-womo-dorado-reacondicionado-c-103.jpg"
+  },
+  {
+    "id": "frigorifico-combinado-teka-rlf74930ss-plateado-reacondiciona-104",
+    "nombre": "Frigorífico combinado Teka RLF74930SS Plateado (Reacondicionado A)",
+    "precio": 626.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/frigorifico-combinado-teka-rlf74930ss-plateado-reacondiciona-104.jpg"
+  },
+  {
+    "id": "espejo-de-pared-home-esprit-reacondicionado-c-105",
+    "nombre": "Espejo de pared Home ESPRIT (Reacondicionado C)",
+    "precio": 59.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/espejo-de-pared-home-esprit-reacondicionado-c-105.jpg"
+  },
+  {
+    "id": "microondas-con-grill-panasonic-nn-gd34qwepg-blanco-reacondic-106",
+    "nombre": "Microondas con Grill Panasonic NN-GD34QWEPG Blanco (Reacondicionado A)",
+    "precio": 146.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/microondas-con-grill-panasonic-nn-gd34qwepg-blanco-reacondic-106.jpg"
+  },
+  {
+    "id": "lavavajillas-bosch-smh4evx08e-6p-3-b-44dba-int-reacondiciona-107",
+    "nombre": "Lavavajillas BOSCH SMH4EVX08E 6P 3ªB 44dBA INT (Reacondicionado A)",
+    "precio": 466.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lavavajillas-bosch-smh4evx08e-6p-3-b-44dba-int-reacondiciona-107.jpg"
+  },
+  {
+    "id": "escritorio-plegable-innovagoods-v0103358-blanco-reacondicion-108",
+    "nombre": "Escritorio Plegable InnovaGoods V0103358 Blanco (Reacondicionado B)",
+    "precio": 41.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/escritorio-plegable-innovagoods-v0103358-blanco-reacondicion-108.jpg"
+  },
+  {
+    "id": "tabla-de-planchar-cecotec-400-negro-algodon-geometrico-reaco-109",
+    "nombre": "Tabla de Planchar Cecotec 400 Negro Algodón Geométrico (Reacondicionado B)",
+    "precio": 40.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/tabla-de-planchar-cecotec-400-negro-algodon-geometrico-reaco-109.jpg"
+  },
+  {
+    "id": "plancha-grill-tristar-gr-2853-negro-2000-w-reacondicionado-b-110",
+    "nombre": "Plancha Grill Tristar GR-2853 Negro 2000 W (Reacondicionado B)",
+    "precio": 38.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/plancha-grill-tristar-gr-2853-negro-2000-w-reacondicionado-b-110.jpg"
+  },
+  {
+    "id": "envasadora-al-vacio-laica-vt3225-90-w-9-l-min-reacondicionad-111",
+    "nombre": "Envasadora al Vacío LAICA VT3225 90 W 9 L/min (Reacondicionado B)",
+    "precio": 27.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/envasadora-al-vacio-laica-vt3225-90-w-9-l-min-reacondicionad-111.jpg"
+  },
+  {
+    "id": "toallero-electrico-de-pie-o-pared-towarall-innovagoods-plast-112",
+    "nombre": "Toallero Eléctrico de Pie o Pared Towarall InnovaGoods Plástico Acero al carbono 10 Barras (Reacondicionado D)",
+    "precio": 41.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/toallero-electrico-de-pie-o-pared-towarall-innovagoods-plast-112.jpg"
+  },
+  {
+    "id": "calentador-electrico-teka-smart-ewh-80-ve-d-blanco-80-l-reac-113",
+    "nombre": "Calentador Eléctrico Teka SMART EWH 80 VE-D Blanco 80 L (Reacondicionado B)",
+    "precio": 109.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/calentador-electrico-teka-smart-ewh-80-ve-d-blanco-80-l-reac-113.jpg"
+  },
+  {
+    "id": "taza-mug-peppa-pig-kindness-counts-stor-infantil-390-ml-reac-114",
+    "nombre": "Taza Mug Peppa Pig Kindness Counts Stor Infantil 390 ml (Reacondicionado A+)",
+    "precio": 2.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/taza-mug-peppa-pig-kindness-counts-stor-infantil-390-ml-reac-114.jpg"
+  },
+  {
+    "id": "hucha-para-pintar-pincello-pato-reacondicionado-b-115",
+    "nombre": "Hucha para Pintar Pincello Pato (Reacondicionado B)",
+    "precio": 18.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/hucha-para-pintar-pincello-pato-reacondicionado-b-115.jpg"
+  },
+  {
+    "id": "lavavajillas-samsung-dw60dg790fslu1-reacondicionado-d-116",
+    "nombre": "Lavavajillas Samsung DW60DG790FSLU1 (Reacondicionado D)",
+    "precio": 247.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lavavajillas-samsung-dw60dg790fslu1-reacondicionado-d-116.jpg"
+  },
+  {
+    "id": "congelador-beko-b3rfne274w-blanco-reacondicionado-a-117",
+    "nombre": "Congelador BEKO B3RFNE274W Blanco (Reacondicionado A)",
+    "precio": 234.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/congelador-beko-b3rfne274w-blanco-reacondicionado-a-117.jpg"
+  },
+  {
+    "id": "accesorio-para-robot-de-cocina-cecotec-easy-mambo-11090-reac-118",
+    "nombre": "Accesorio Para Robot de Cocina Cecotec Easy Mambo 11090 (Reacondicionado B)",
+    "precio": 35.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/accesorio-para-robot-de-cocina-cecotec-easy-mambo-11090-reac-118.jpg"
+  },
+  {
+    "id": "calientacamas-solac-ct8626-blanco-reacondicionado-b-119",
+    "nombre": "Calientacamas Solac CT8626 Blanco (Reacondicionado B)",
+    "precio": 16.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/calientacamas-solac-ct8626-blanco-reacondicionado-b-119.jpg"
+  },
+  {
+    "id": "frigorifico-americano-lg-gsle91mbac-ambqeur-multicolor-metal-120",
+    "nombre": "Frigorífico americano LG GSLE91MBAC.AMBQEUR Multicolor Metalizado (Reacondicionado C)",
+    "precio": 596.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/frigorifico-americano-lg-gsle91mbac-ambqeur-multicolor-metal-120.jpg"
+  },
+  {
+    "id": "set-de-accesorios-para-vino-chillour-innovagoods-7-piezas-121",
+    "nombre": "Set de Accesorios para Vino Chillour InnovaGoods 7 Piezas",
+    "precio": 25.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/set-de-accesorios-para-vino-chillour-innovagoods-7-piezas-121.jpg"
+  },
+  {
+    "id": "frigorifico-combinado-blaupunkt-5fs-reacondicionado-b-122",
+    "nombre": "Frigorífico combinado Blaupunkt 5FS (Reacondicionado B)",
+    "precio": 340.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/frigorifico-combinado-blaupunkt-5fs-reacondicionado-b-122.jpg"
+  },
+  {
+    "id": "estor-enrollable-blindecor-beige-poliester-reacondicionado-a-123",
+    "nombre": "Estor Enrollable Blindecor Beige Poliéster (Reacondicionado A)",
+    "precio": 35.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/estor-enrollable-blindecor-beige-poliester-reacondicionado-a-123.jpg"
+  },
+  {
+    "id": "envasadora-al-vacio-y-selladora-90-w-reacondicionado-a-124",
+    "nombre": "Envasadora al Vacío y Selladora 90 W (Reacondicionado A)",
+    "precio": 20.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/envasadora-al-vacio-y-selladora-90-w-reacondicionado-a-124.jpg"
+  },
+  {
+    "id": "quemador-de-esencias-home-esprit-reacondicionado-a-125",
+    "nombre": "Quemador de esencias Home ESPRIT (Reacondicionado A)",
+    "precio": 10.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/quemador-de-esencias-home-esprit-reacondicionado-a-125.jpg"
+  },
+  {
+    "id": "cuchara-bra-a195007-metal-acero-inoxidable-reacondicionado-a-126",
+    "nombre": "Cuchara BRA A195007 Metal Acero Inoxidable (Reacondicionado A)",
+    "precio": 5.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/cuchara-bra-a195007-metal-acero-inoxidable-reacondicionado-a-126.jpg"
+  },
+  {
+    "id": "aire-acondicionado-mitsubishi-electric-blanco-a-4000-w-3027--127",
+    "nombre": "Aire Acondicionado Mitsubishi Electric Blanco A++ 4000 W 3027 fg/h",
+    "precio": 413.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/aire-acondicionado-mitsubishi-electric-blanco-a-4000-w-3027--127.jpg"
+  },
+  {
+    "id": "radiador-de-aceite-taurus-dakar-gris-2500-w-reacondicionado--128",
+    "nombre": "Radiador de Aceite Taurus Dakar Gris 2500 W (Reacondicionado C)",
+    "precio": 36.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/radiador-de-aceite-taurus-dakar-gris-2500-w-reacondicionado--128.jpg"
+  },
+  {
+    "id": "radiador-de-aceite-taurus-dakar-gris-2500-w-reacondicionado--129",
+    "nombre": "Radiador de Aceite Taurus Dakar Gris 2500 W (Reacondicionado B)",
+    "precio": 42.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/radiador-de-aceite-taurus-dakar-gris-2500-w-reacondicionado--129.jpg"
+  },
+  {
+    "id": "radiador-de-aceite-taurus-dakar-gris-2500-w-reacondicionado--130",
+    "nombre": "Radiador de Aceite Taurus Dakar Gris 2500 W (Reacondicionado A)",
+    "precio": 49.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/radiador-de-aceite-taurus-dakar-gris-2500-w-reacondicionado--130.jpg"
+  },
+  {
+    "id": "decoracion-de-pared-vintiun-crown-131",
+    "nombre": "Decoración de Pared VINTIUN Crown",
+    "precio": 5.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/decoracion-de-pared-vintiun-crown-131.jpg"
+  },
+  {
+    "id": "reloj-despertador-seiko-multicolor-132",
+    "nombre": "Reloj-Despertador Seiko Multicolor",
+    "precio": 21.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/reloj-despertador-seiko-multicolor-132.jpg"
+  },
+  {
+    "id": "silla-gaming-woxter-gm26-124-negro-reacondicionado-a-133",
+    "nombre": "Silla Gaming Woxter GM26-124 Negro (Reacondicionado A)",
+    "precio": 79.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/silla-gaming-woxter-gm26-124-negro-reacondicionado-a-133.jpg"
+  },
+  {
+    "id": "lienzo-dkd-home-decor-madera-floral-2-unidades-reacondiciona-134",
+    "nombre": "Lienzo DKD Home Decor Madera Floral (2 Unidades) (Reacondicionado D)",
+    "precio": 16.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lienzo-dkd-home-decor-madera-floral-2-unidades-reacondiciona-134.jpg"
+  },
+  {
+    "id": "ventilador-de-techo-con-luz-led-4-aspas-retractiles-y-mando--135",
+    "nombre": "Ventilador de Techo con Luz LED, 4 Aspas Retráctiles y Mando a Distancia InnovaGoods",
+    "precio": 81.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/ventilador-de-techo-con-luz-led-4-aspas-retractiles-y-mando--135.jpg"
+  },
+  {
+    "id": "calefactor-electrico-de-conveccion-imetec-4034-eco-rapid-gri-136",
+    "nombre": "Calefactor Eléctrico de Convección IMETEC 4034 ECO RAPID Gris 2000 W (Reacondicionado A)",
+    "precio": 35.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/calefactor-electrico-de-conveccion-imetec-4034-eco-rapid-gri-136.jpg"
+  },
+  {
+    "id": "lavavajillas-whirlpool-corporation-w7fhs41-blanco-negro-60-c-137",
+    "nombre": "Lavavajillas Whirlpool Corporation W7FHS41 Blanco Negro 60 cm (Reacondicionado C)",
+    "precio": 156.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lavavajillas-whirlpool-corporation-w7fhs41-blanco-negro-60-c-137.jpg"
+  },
+  {
+    "id": "frigorifico-hisense-rl3b303sawe-blanco-reacondicionado-b-138",
+    "nombre": "Frigorífico Hisense RL3B303SAWE Blanco (Reacondicionado B)",
+    "precio": 345.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/frigorifico-hisense-rl3b303sawe-blanco-reacondicionado-b-138.jpg"
+  },
+  {
+    "id": "cajonera-versa-old-blanco-reacondicionado-a-139",
+    "nombre": "Cajonera Versa Old Blanco (Reacondicionado A)",
+    "precio": 37.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/cajonera-versa-old-blanco-reacondicionado-a-139.jpg"
+  },
+  {
+    "id": "freidora-de-aire-tristar-fr6970-negro-1800-w-reacondicionado-140",
+    "nombre": "Freidora de Aire Tristar FR6970 Negro 1800 W (Reacondicionado B)",
+    "precio": 74.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/freidora-de-aire-tristar-fr6970-negro-1800-w-reacondicionado-140.jpg"
+  },
+  {
+    "id": "campana-convencional-samsung-nk36c5070usur-acero-reacondicio-141",
+    "nombre": "Campana Convencional Samsung NK36C5070USUR Acero (Reacondicionado D)",
+    "precio": 109.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/campana-convencional-samsung-nk36c5070usur-acero-reacondicio-141.jpg"
+  },
+  {
+    "id": "figura-decorativa-dkd-home-decor-reacondicionado-b-142",
+    "nombre": "Figura Decorativa DKD Home Decor (Reacondicionado B)",
+    "precio": 39.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/figura-decorativa-dkd-home-decor-reacondicionado-b-142.jpg"
+  },
+  {
+    "id": "arbol-de-navidad-home-esprit-reacondicionado-a-143",
+    "nombre": "Árbol de Navidad Home ESPRIT (Reacondicionado A)",
+    "precio": 85.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/arbol-de-navidad-home-esprit-reacondicionado-a-143.jpg"
+  },
+  {
+    "id": "silla-de-comedor-dkd-home-decor-gris-reacondicionado-a-144",
+    "nombre": "Silla de Comedor DKD Home Decor Gris (Reacondicionado A)",
+    "precio": 43.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/silla-de-comedor-dkd-home-decor-gris-reacondicionado-a-144.jpg"
+  },
+  {
+    "id": "placa-de-gas-bosch-pcc6a5b90-60-cm-reacondicionado-d-145",
+    "nombre": "Placa de Gas BOSCH PCC6A5B90 60 cm (Reacondicionado D)",
+    "precio": 101.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/placa-de-gas-bosch-pcc6a5b90-60-cm-reacondicionado-d-145.jpg"
+  },
+  {
+    "id": "sarten-asadora-tefal-rxzer23-26-cm-negro-aluminio-titanio-ac-146",
+    "nombre": "Sartén Asadora Tefal RXZER23 Ø 26 cm Negro Aluminio Titanio Acero (Reacondicionado C)",
+    "precio": 21.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/sarten-asadora-tefal-rxzer23-26-cm-negro-aluminio-titanio-ac-146.jpg"
+  },
+  {
+    "id": "reloj-despertador-seiko-qhp011b-reacondicionado-b-147",
+    "nombre": "Reloj-Despertador Seiko QHP011B (Reacondicionado B)",
+    "precio": 45.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/reloj-despertador-seiko-qhp011b-reacondicionado-b-147.jpg"
+  },
+  {
+    "id": "caja-de-almacenaje-kipit-plastico-40-l-con-ruedas-reacondici-148",
+    "nombre": "Caja de Almacenaje Kipit Plástico 40 L Con ruedas (Reacondicionado D)",
+    "precio": 10.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/caja-de-almacenaje-kipit-plastico-40-l-con-ruedas-reacondici-148.jpg"
+  },
+  {
+    "id": "funda-para-sofa-sofaskins-niagara-verde-reacondicionado-c-149",
+    "nombre": "Funda para Sofá Sofaskins NIAGARA Verde (Reacondicionado C)",
+    "precio": 25.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/funda-para-sofa-sofaskins-niagara-verde-reacondicionado-c-149.jpg"
+  },
+  {
+    "id": "aspirador-ufesa-ac3090-negro-900-w-reacondicionado-b-150",
+    "nombre": "Aspirador UFESA AC3090 Negro 900 W (Reacondicionado B)",
+    "precio": 44.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/aspirador-ufesa-ac3090-negro-900-w-reacondicionado-b-150.jpg"
+  },
+  {
+    "id": "kit-de-primeros-auxilios-trixie-1929-rojo-11-piezas-151",
+    "nombre": "Kit de primeros auxilios Trixie 1929 Rojo 11 Piezas",
+    "precio": 12.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/kit-de-primeros-auxilios-trixie-1929-rojo-11-piezas-151.jpg"
+  },
+  {
+    "id": "collar-led-para-mascotas-trixie-flash-usb-verde-152",
+    "nombre": "Collar LED para Mascotas Trixie Flash USB Verde",
+    "precio": 13.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/collar-led-para-mascotas-trixie-flash-usb-verde-152.jpg"
+  },
+  {
+    "id": "collar-isabelino-para-perros-trixie-19423-gris-espuma-153",
+    "nombre": "Collar Isabelino para Perros Trixie 19423 Gris Espuma",
+    "precio": 22.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/collar-isabelino-para-perros-trixie-19423-gris-espuma-153.jpg"
+  },
+  {
+    "id": "bandeja-trixie-plastico-154",
+    "nombre": "Bandeja Trixie Plástico",
+    "precio": 5.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/bandeja-trixie-plastico-154.jpg"
+  },
+  {
+    "id": "arnes-para-perro-julius-k9-idc-negro-155",
+    "nombre": "Arnés para Perro Julius K9 IDC Negro",
+    "precio": 37.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/arnes-para-perro-julius-k9-idc-negro-155.jpg"
+  },
+  {
+    "id": "zapatos-para-perros-trixie-19410-negro-156",
+    "nombre": "Zapatos para perros Trixie 19410 Negro",
+    "precio": 17.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/zapatos-para-perros-trixie-19410-negro-156.jpg"
+  },
+  {
+    "id": "cama-para-perro-trixie-mila-157",
+    "nombre": "Cama para Perro Trixie Mila",
+    "precio": 12.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/cama-para-perro-trixie-mila-157.jpg"
+  },
+  {
+    "id": "protector-para-incontinencia-trixie-macho-abdomen-158",
+    "nombre": "Protector para Incontinencia Trixie Macho Abdomen",
+    "precio": 7.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/protector-para-incontinencia-trixie-macho-abdomen-158.jpg"
+  },
+  {
+    "id": "petral-para-perro-trixie-new-premium-rojo-159",
+    "nombre": "Petral para perro Trixie New Premium Rojo",
+    "precio": 7.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/petral-para-perro-trixie-new-premium-rojo-159.jpg"
+  },
+  {
+    "id": "botas-trixie-walker-care-comfort-negro-m-160",
+    "nombre": "Botas Trixie Walker Care Comfort Negro M",
+    "precio": 6.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/botas-trixie-walker-care-comfort-negro-m-160.jpg"
+  },
+  {
+    "id": "juguete-de-adiestramiento-trixie-161",
+    "nombre": "Juguete de adiestramiento Trixie",
+    "precio": 7.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/juguete-de-adiestramiento-trixie-161.jpg"
+  },
+  {
+    "id": "comida-humeda-isegrim-pescado-162",
+    "nombre": "Comida húmeda Isegrim Pescado",
+    "precio": 3.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/comida-humeda-isegrim-pescado-162.jpg"
+  },
+  {
+    "id": "abrigo-para-perro-trixie-pontis-gris-163",
+    "nombre": "Abrigo para Perro Trixie Pontis Gris",
+    "precio": 21.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/abrigo-para-perro-trixie-pontis-gris-163.jpg"
+  },
+  {
+    "id": "juguete-para-perros-ferplast-pa-6401-s-164",
+    "nombre": "Juguete para perros Ferplast PA 6401 S",
+    "precio": 2.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/juguete-para-perros-ferplast-pa-6401-s-164.jpg"
+  },
+  {
+    "id": "collar-para-perro-hs-sprenger-largo-reacondicionado-c-165",
+    "nombre": "Collar para Perro Hs Sprenger Largo (Reacondicionado C)",
+    "precio": 10.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/collar-para-perro-hs-sprenger-largo-reacondicionado-c-165.jpg"
+  },
+  {
+    "id": "juguete-para-perros-coachi-puppy-mini-tuggi-spider-verde-166",
+    "nombre": "Juguete para perros Coachi PUPPY & MINI TUGGI SPIDER Verde",
+    "precio": 10.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/juguete-para-perros-coachi-puppy-mini-tuggi-spider-verde-166.jpg"
+  },
+  {
+    "id": "biberon-gloria-blanco-50-ml-animales-pequenos-cachorros-167",
+    "nombre": "Biberón Gloria Blanco 50 ml Animales pequeños Cachorros",
+    "precio": 2.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/biberon-gloria-blanco-50-ml-animales-pequenos-cachorros-167.jpg"
+  },
+  {
+    "id": "rascador-para-gatos-gloria-sinaloa-gris-14-cm-168",
+    "nombre": "Rascador para Gatos Gloria Sinaloa Gris Ø 14 cm",
+    "precio": 22.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/rascador-para-gatos-gloria-sinaloa-gris-14-cm-168.jpg"
+  },
+  {
+    "id": "lanzador-de-pelotas-para-perros-hunter-amarillo-naranja-goma-169",
+    "nombre": "Lanzador de Pelotas para Perros Hunter Amarillo Naranja Goma Bola",
+    "precio": 8.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/lanzador-de-pelotas-para-perros-hunter-amarillo-naranja-goma-169.jpg"
+  },
+  {
+    "id": "juguete-para-perros-minnie-mouse-rojo-poliester-algodon-tpr--170",
+    "nombre": "Juguete para perros Minnie Mouse Rojo Poliéster Algodón TPR 10 x 30 x 7 cm 7 x 30 x 10 cm",
+    "precio": 4.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/juguete-para-perros-minnie-mouse-rojo-poliester-algodon-tpr--170.jpg"
+  },
+  {
+    "id": "panales-trixie-23634-perro-m-l-171",
+    "nombre": "Pañales Trixie 23634 Perro M/L",
+    "precio": 9.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/panales-trixie-23634-perro-m-l-171.jpg"
+  },
+  {
+    "id": "disfraz-para-perro-talla-m-tiburon-172",
+    "nombre": "Disfraz para Perro Talla M Tiburón",
+    "precio": 5.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/disfraz-para-perro-talla-m-tiburon-172.jpg"
+  },
+  {
+    "id": "disfraz-para-perro-calabaza-talla-m-173",
+    "nombre": "Disfraz para Perro Calabaza Talla M",
+    "precio": 4.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/disfraz-para-perro-calabaza-talla-m-173.jpg"
+  },
+  {
+    "id": "correa-retractil-para-perros-6-en-1-leashic-innovagoods-174",
+    "nombre": "Correa Retráctil para Perros 6 en 1 Leashic InnovaGoods",
+    "precio": 17.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/correa-retractil-para-perros-6-en-1-leashic-innovagoods-174.jpg"
+  },
+  {
+    "id": "comedero-para-perro-hunter-silicona-acero-inoxidable-1-05-l-175",
+    "nombre": "Comedero para Perro Hunter Silicona Acero Inoxidable 1,05 L",
+    "precio": 6.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/comedero-para-perro-hunter-silicona-acero-inoxidable-1-05-l-175.jpg"
+  },
+  {
+    "id": "abrigo-para-perro-hunter-milford-verde-25-cm-176",
+    "nombre": "Abrigo para Perro Hunter Milford Verde 25 cm",
+    "precio": 14.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/abrigo-para-perro-hunter-milford-verde-25-cm-176.jpg"
+  },
+  {
+    "id": "champu-para-mascotas-menforsan-250-ml-177",
+    "nombre": "Champú para mascotas Menforsan 250 ml",
+    "precio": 4.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/champu-para-mascotas-menforsan-250-ml-177.jpg"
+  },
+  {
+    "id": "arnes-para-perro-hunter-maldon-up-azul-50-84-cm-178",
+    "nombre": "Arnés para Perro Hunter Maldon Up Azul 50-84 cm",
+    "precio": 27.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/arnes-para-perro-hunter-maldon-up-azul-50-84-cm-178.jpg"
+  },
+  {
+    "id": "collar-para-perro-hunter-love-rojo-xs-24-28-cm-179",
+    "nombre": "Collar para Perro Hunter Love Rojo XS 24-28 cm",
+    "precio": 43.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/collar-para-perro-hunter-love-rojo-xs-24-28-cm-179.jpg"
+  },
+  {
+    "id": "collar-para-perro-hunter-inari-verde-m-30-45-cm-180",
+    "nombre": "Collar para Perro Hunter Inari Verde M 30-45 cm",
+    "precio": 8.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/collar-para-perro-hunter-inari-verde-m-30-45-cm-180.jpg"
+  },
+  {
+    "id": "techo-para-caseta-nayeco-eco-mini-06910-recambio-marron-60-x-181",
+    "nombre": "Techo para caseta Nayeco Eco Mini 06910 Recambio Marrón 60 x 50 x 41 cm",
+    "precio": 8.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/techo-para-caseta-nayeco-eco-mini-06910-recambio-marron-60-x-181.jpg"
+  },
+  {
+    "id": "arnes-para-perro-harry-potter-reversible-rojo-xs-182",
+    "nombre": "Arnés para Perro Harry Potter Reversible Rojo XS",
+    "precio": 7.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/arnes-para-perro-harry-potter-reversible-rojo-xs-182.jpg"
+  },
+  {
+    "id": "comedero-para-perro-lickimat-indoor-keeper-gris-polipropilen-183",
+    "nombre": "Comedero para Perro Lickimat Indoor Keeper Gris Polipropileno",
+    "precio": 12.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/comedero-para-perro-lickimat-indoor-keeper-gris-polipropilen-183.jpg"
+  },
+  {
+    "id": "correa-para-perro-red-dingo-us-flag-azul-1-2-m-1-2-x-120-cm-184",
+    "nombre": "Correa para Perro Red Dingo US Flag Azul 1,2 m 1.2 x 120 cm",
+    "precio": 5.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/correa-para-perro-red-dingo-us-flag-azul-1-2-m-1-2-x-120-cm-184.jpg"
+  },
+  {
+    "id": "collar-para-gato-red-dingo-flamingo-20-32-cm-turquesa-185",
+    "nombre": "Collar para Gato Red Dingo Flamingo 20-32 cm Turquesa",
+    "precio": 7.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/collar-para-gato-red-dingo-flamingo-20-32-cm-turquesa-185.jpg"
+  },
+  {
+    "id": "hamaca-colgante-para-gatos-hamacat-innovagoods-186",
+    "nombre": "Hamaca Colgante para Gatos Hamacat InnovaGoods",
+    "precio": 27.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/hamaca-colgante-para-gatos-hamacat-innovagoods-186.jpg"
+  },
+  {
+    "id": "pecera-mascow-azul-plastico-3-l-17-x-16-x-24-cm-con-asa-medi-187",
+    "nombre": "Pecera Mascow Azul Plástico 3 L 17 x 16 x 24 cm Con asa Mediano (12 Unidades)",
+    "precio": 24.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/pecera-mascow-azul-plastico-3-l-17-x-16-x-24-cm-con-asa-medi-187.jpg"
+  },
+  {
+    "id": "alfombra-para-arenero-de-gatos-clikatt-innovagoods-188",
+    "nombre": "Alfombra para Arenero de Gatos Clikatt InnovaGoods",
+    "precio": 17.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/alfombra-para-arenero-de-gatos-clikatt-innovagoods-188.jpg"
+  },
+  {
+    "id": "comedero-para-perro-minnie-mouse-rojo-melamina-180-ml-negro--189",
+    "nombre": "Comedero para Perro Minnie Mouse Rojo Melamina 180 ml Negro Metal",
+    "precio": 11.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/comedero-para-perro-minnie-mouse-rojo-melamina-180-ml-negro--189.jpg"
+  },
+  {
+    "id": "envase-hunter-dummy-snacks-190",
+    "nombre": "Envase Hunter Dummy Snacks",
+    "precio": 7.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/envase-hunter-dummy-snacks-190.jpg"
+  },
+  {
+    "id": "correa-para-perro-flexi-design-verde-l-191",
+    "nombre": "Correa para Perro Flexi Design Verde L",
+    "precio": 18.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/correa-para-perro-flexi-design-verde-l-191.jpg"
+  },
+  {
+    "id": "mordedor-de-perro-gloria-negro-15-cm-192",
+    "nombre": "Mordedor de perro Gloria Negro (15 cm)",
+    "precio": 7.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/mordedor-de-perro-gloria-negro-15-cm-192.jpg"
+  },
+  {
+    "id": "antiamoniaco-menforsan-125-ml-gato-roedores-arenero-193",
+    "nombre": "Antiamoniaco Menforsan 125 ml Gato Roedores Arenero",
+    "precio": 2.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/antiamoniaco-menforsan-125-ml-gato-roedores-arenero-193.jpg"
+  },
+  {
+    "id": "cama-antiestres-para-mascotas-bepess-innovagoods-60-cm-194",
+    "nombre": "Cama Antiestrés para Mascotas Bepess InnovaGoods Ø 60 cm",
+    "precio": 25.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/cama-antiestres-para-mascotas-bepess-innovagoods-60-cm-194.jpg"
+  },
+  {
+    "id": "arnes-para-perro-gloria-air-mesh-star-amarillo-xxs-24-26-cm-195",
+    "nombre": "Arnés para Perro Gloria Air Mesh Star Amarillo XXS 24-26 cm",
+    "precio": 4.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/arnes-para-perro-gloria-air-mesh-star-amarillo-xxs-24-26-cm-195.jpg"
+  },
+  {
+    "id": "dispensador-de-bolsas-para-mascotas-hunter-naranja-portabols-196",
+    "nombre": "Dispensador de Bolsas para Mascotas Hunter Naranja Portabolsas Malla",
+    "precio": 2.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/dispensador-de-bolsas-para-mascotas-hunter-naranja-portabols-196.jpg"
+  },
+  {
+    "id": "champu-antipulgas-menforsan-herbal-300-ml-gato-repelente-de--197",
+    "nombre": "Champú antipulgas Menforsan herbal 300 ml Gato Repelente de insectos",
+    "precio": 2.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/champu-antipulgas-menforsan-herbal-300-ml-gato-repelente-de--197.jpg"
+  },
+  {
+    "id": "correa-para-perro-gloria-1-x-200-cm-morado-198",
+    "nombre": "Correa para Perro Gloria 1 x 200 cm Morado",
+    "precio": 16.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/correa-para-perro-gloria-1-x-200-cm-morado-198.jpg"
+  },
+  {
+    "id": "abrigo-para-perro-red-dingo-puffer-rojo-naranja-30-cm-199",
+    "nombre": "Abrigo para Perro Red Dingo Puffer Rojo Naranja 30 cm",
+    "precio": 12.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/abrigo-para-perro-red-dingo-puffer-rojo-naranja-30-cm-199.jpg"
+  },
+  {
+    "id": "abrigo-para-perro-red-dingo-puffer-negro-gris-25-cm-200",
+    "nombre": "Abrigo para Perro Red Dingo Puffer Negro/Gris 25 cm",
+    "precio": 19.99,
+    "categoria": "mascotas",
+    "imagen": "images/productos/abrigo-para-perro-red-dingo-puffer-negro-gris-25-cm-200.jpg"
+  },
+  {
+    "id": "lampara-led-de-mesa-lumineo-894378-recargable-reacondicionad-201",
+    "nombre": "Lampara LED de Mesa Lumineo 894378 Recargable (Reacondicionado A)",
+    "precio": 17.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-led-de-mesa-lumineo-894378-recargable-reacondicionad-201.jpg"
+  },
+  {
+    "id": "portalamparas-negro-reacondicionado-a-202",
+    "nombre": "Portalámparas Negro (Reacondicionado A)",
+    "precio": 7.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/portalamparas-negro-reacondicionado-a-202.jpg"
+  },
+  {
+    "id": "bombilla-led-fbright-g80-4-w-e27-220-lm-dorado-decorativa-18-203",
+    "nombre": "Bombilla LED Fbright g80 4 W E27 220 lm Dorado Decorativa (1800 K)",
+    "precio": 4.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/bombilla-led-fbright-g80-4-w-e27-220-lm-dorado-decorativa-18-203.jpg"
+  },
+  {
+    "id": "lampara-de-techo-reacondicionado-b-204",
+    "nombre": "Lámpara de Techo (Reacondicionado B)",
+    "precio": 81.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-techo-reacondicionado-b-204.jpg"
+  },
+  {
+    "id": "lampara-de-techo-dkd-home-decor-dorado-reacondicionado-b-205",
+    "nombre": "Lámpara de Techo DKD Home Decor Dorado (Reacondicionado B)",
+    "precio": 47.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-techo-dkd-home-decor-dorado-reacondicionado-b-205.jpg"
+  },
+  {
+    "id": "despertador-amanecer-recargable-con-altavoz-sunrilk-innovago-206",
+    "nombre": "Despertador Amanecer Recargable con Altavoz Sunrilk InnovaGoods",
+    "precio": 35.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/despertador-amanecer-recargable-con-altavoz-sunrilk-innovago-206.jpg"
+  },
+  {
+    "id": "bombilla-led-thai-natura-transparente-2-w-5-x-8-x-5-cm-4-5-x-207",
+    "nombre": "Bombilla LED Thai Natura Transparente 2 W 5 x 8 x 5 cm 4,5 x 4,5 x 7,5 cm",
+    "precio": 18.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/bombilla-led-thai-natura-transparente-2-w-5-x-8-x-5-cm-4-5-x-207.jpg"
+  },
+  {
+    "id": "lampara-de-lava-led-multicolor-kolemp-innovagoods-208",
+    "nombre": "Lámpara de Lava LED Multicolor Kolemp InnovaGoods",
+    "precio": 22.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-lava-led-multicolor-kolemp-innovagoods-208.jpg"
+  },
+  {
+    "id": "lampara-de-mesa-crema-poliresina-220-240-v-16-5-x-11-5-x-30--209",
+    "nombre": "Lámpara de mesa Crema Poliresina 220-240 V 16,5 x 11,5 x 30 cm",
+    "precio": 16.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-mesa-crema-poliresina-220-240-v-16-5-x-11-5-x-30--209.jpg"
+  },
+  {
+    "id": "lampara-de-techo-bronce-cristal-hierro-40-w-240-v-35-x-35-x--210",
+    "nombre": "Lámpara de Techo Bronce Cristal Hierro 40 W 240 V 35 x 35 x 28 cm Moderno",
+    "precio": 47.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-techo-bronce-cristal-hierro-40-w-240-v-35-x-35-x--210.jpg"
+  },
+  {
+    "id": "velas-led-multicolor-efecto-llama-con-mando-lendles-innovago-211",
+    "nombre": "Velas LED Multicolor Efecto Llama con Mando Lendles InnovaGoods Blanco 3 Unidades (Reacondicionado A)",
+    "precio": 14.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/velas-led-multicolor-efecto-llama-con-mando-lendles-innovago-211.jpg"
+  },
+  {
+    "id": "lampara-de-techo-home-esprit-marron-claro-metal-cuerda-53-x--212",
+    "nombre": "Lámpara de Techo Home ESPRIT Marrón claro Metal Cuerda 53 x 42 x 32 cm",
+    "precio": 19.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-techo-home-esprit-marron-claro-metal-cuerda-53-x--212.jpg"
+  },
+  {
+    "id": "bombilla-led-blanco-e27-6w-8-x-8-x-12-cm-213",
+    "nombre": "Bombilla LED Blanco E27 6W 8 x 8 x 12 cm",
+    "precio": 7.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/bombilla-led-blanco-e27-6w-8-x-8-x-12-cm-213.jpg"
+  },
+  {
+    "id": "proyector-led-recargable-con-altavoz-istarlyt-innovagoods-214",
+    "nombre": "Proyector LED Recargable con Altavoz Istarlyt InnovaGoods",
+    "precio": 18.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/proyector-led-recargable-con-altavoz-istarlyt-innovagoods-214.jpg"
+  },
+  {
+    "id": "proyector-led-de-estrellas-con-altavoz-sedlay-innovagoods-215",
+    "nombre": "Proyector LED de Estrellas con Altavoz Sedlay InnovaGoods",
+    "precio": 26.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/proyector-led-de-estrellas-con-altavoz-sedlay-innovagoods-215.jpg"
+  },
+  {
+    "id": "maquina-de-ruido-blanco-para-dormir-slewel-innovagoods-216",
+    "nombre": "Máquina de Ruido Blanco para Dormir Slewel InnovaGoods",
+    "precio": 25.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/maquina-de-ruido-blanco-para-dormir-slewel-innovagoods-216.jpg"
+  },
+  {
+    "id": "set-de-velas-de-te-led-romandle-innovagoods-12-unidades-217",
+    "nombre": "Set de Velas de Té LED Romandle InnovaGoods 12 Unidades",
+    "precio": 9.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/set-de-velas-de-te-led-romandle-innovagoods-12-unidades-217.jpg"
+  },
+  {
+    "id": "lampara-de-lava-con-altavoz-maglamp-innovagoods-218",
+    "nombre": "Lámpara de Lava con Altavoz Maglamp InnovaGoods",
+    "precio": 50.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-lava-con-altavoz-maglamp-innovagoods-218.jpg"
+  },
+  {
+    "id": "pantalla-de-lampara-dkd-home-decor-reacondicionado-a-219",
+    "nombre": "Pantalla de Lámpara DKD Home Decor (Reacondicionado A)",
+    "precio": 27.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/pantalla-de-lampara-dkd-home-decor-reacondicionado-a-219.jpg"
+  },
+  {
+    "id": "lampara-de-pared-dkd-home-decor-dorado-metal-cristal-50-w-mo-220",
+    "nombre": "Lámpara de Pared DKD Home Decor Dorado Metal Cristal 50 W Moderno 220 V 20 x 25 x 28 cm",
+    "precio": 17.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-pared-dkd-home-decor-dorado-metal-cristal-50-w-mo-220.jpg"
+  },
+  {
+    "id": "bombilla-led-silver-electronics-961314-221",
+    "nombre": "Bombilla LED Silver Electronics 961314",
+    "precio": 2.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/bombilla-led-silver-electronics-961314-221.jpg"
+  },
+  {
+    "id": "bombilla-led-silver-electronics-961327-222",
+    "nombre": "Bombilla LED Silver Electronics 961327",
+    "precio": 2.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/bombilla-led-silver-electronics-961327-222.jpg"
+  },
+  {
+    "id": "bombilla-led-silver-electronics-981627-223",
+    "nombre": "Bombilla LED Silver Electronics 981627",
+    "precio": 2.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/bombilla-led-silver-electronics-981627-223.jpg"
+  },
+  {
+    "id": "bombilla-led-silver-electronics-1-5w-5000k-224",
+    "nombre": "Bombilla LED Silver Electronics 1,5W 5000K",
+    "precio": 2.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/bombilla-led-silver-electronics-1-5w-5000k-224.jpg"
+  },
+  {
+    "id": "lampara-de-techo-edm-31597-aluminio-plastico-20-w-22-5-x-22--225",
+    "nombre": "Lámpara de Techo EDM 31597 Aluminio Plástico 20 W 22,5 x 22,5 x 4 cm (6400 K)",
+    "precio": 7.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-techo-edm-31597-aluminio-plastico-20-w-22-5-x-22--225.jpg"
+  },
+  {
+    "id": "bombilla-led-edm-35291-e-6-w-1-w-0-5-w-e14-2-6-x-60-cm-6400--226",
+    "nombre": "Bombilla LED EDM 35291 E 6 W 1 W 0,5 W E14 Ø 2,6 x 60 cm (6400 K)",
+    "precio": 2.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/bombilla-led-edm-35291-e-6-w-1-w-0-5-w-e14-2-6-x-60-cm-6400--226.jpg"
+  },
+  {
+    "id": "bombilla-led-vela-silver-electronics-luz-blanca-6-w-5000-k-227",
+    "nombre": "Bombilla LED Vela Silver Electronics Luz blanca 6 W 5000 K",
+    "precio": 2.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/bombilla-led-vela-silver-electronics-luz-blanca-6-w-5000-k-227.jpg"
+  },
+  {
+    "id": "lampara-de-mesa-dkd-home-decor-azul-hierro-50-w-41-x-20-x-71-228",
+    "nombre": "Lámpara de mesa DKD Home Decor Azul Hierro 50 W (41 x 20 x 71 cm)",
+    "precio": 32.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-mesa-dkd-home-decor-azul-hierro-50-w-41-x-20-x-71-228.jpg"
+  },
+  {
+    "id": "vela-led-lumineo-blanco-7-5-x-12-5-cm-aa-229",
+    "nombre": "Vela LED Lumineo Blanco Ø 7,5 X 12,5 CM (AA)",
+    "precio": 4.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/vela-led-lumineo-blanco-7-5-x-12-5-cm-aa-229.jpg"
+  },
+  {
+    "id": "bombilla-led-silver-electronics-996317-r63-e27-5000k-230",
+    "nombre": "Bombilla LED Silver Electronics 996317 R63 E27 5000K",
+    "precio": 4.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/bombilla-led-silver-electronics-996317-r63-e27-5000k-230.jpg"
+  },
+  {
+    "id": "lampara-de-techo-dkd-home-decor-negro-dorado-metal-50-w-2-un-231",
+    "nombre": "Lámpara de Techo DKD Home Decor Negro Dorado Metal 50 W (2 Unidades)",
+    "precio": 40.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-techo-dkd-home-decor-negro-dorado-metal-50-w-2-un-231.jpg"
+  },
+  {
+    "id": "luz-led-con-sensor-de-movimiento-ksix-sophia-232",
+    "nombre": "Luz LED con Sensor de Movimiento KSIX Sophia",
+    "precio": 29.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/luz-led-con-sensor-de-movimiento-ksix-sophia-232.jpg"
+  },
+  {
+    "id": "lampara-de-techo-silver-electronics-gort-18w-6000k-blanco-18-233",
+    "nombre": "Lámpara de Techo Silver Electronics GORT 18W 6000K Blanco 18 W (6000 K)",
+    "precio": 12.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-techo-silver-electronics-gort-18w-6000k-blanco-18-233.jpg"
+  },
+  {
+    "id": "luz-led-con-sensor-de-movimiento-lumtoo-innovagoods-2-unidad-234",
+    "nombre": "Luz LED con Sensor de Movimiento Lumtoo InnovaGoods 2 Unidades",
+    "precio": 19.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/luz-led-con-sensor-de-movimiento-lumtoo-innovagoods-2-unidad-234.jpg"
+  },
+  {
+    "id": "aro-de-luz-selfie-con-pinza-de-soporte-lumahoop-innovagoods-235",
+    "nombre": "Aro de Luz Selfie con Pinza de Soporte Lumahoop InnovaGoods",
+    "precio": 15.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/aro-de-luz-selfie-con-pinza-de-soporte-lumahoop-innovagoods-235.jpg"
+  },
+  {
+    "id": "luz-led-con-sensor-de-movimiento-ksix-grace-55-cm-236",
+    "nombre": "Luz LED con Sensor de Movimiento KSIX Grace (55 cm)",
+    "precio": 17.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/luz-led-con-sensor-de-movimiento-ksix-grace-55-cm-236.jpg"
+  },
+  {
+    "id": "lampara-de-techo-dkd-home-decor-bambu-105-x-80-x-45-cm-237",
+    "nombre": "Lámpara de Techo DKD Home Decor Bambú (105 x 80 x 45 cm)",
+    "precio": 65.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-techo-dkd-home-decor-bambu-105-x-80-x-45-cm-237.jpg"
+  },
+  {
+    "id": "lampara-de-mesa-dkd-home-decor-25-x-10-x-19-cm-porcelana-bla-238",
+    "nombre": "Lámpara de mesa DKD Home Decor 25 x 10 x 19 cm Porcelana Blanco 220 V 25 W",
+    "precio": 9.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-mesa-dkd-home-decor-25-x-10-x-19-cm-porcelana-bla-238.jpg"
+  },
+  {
+    "id": "lampara-con-proyector-de-arcoiris-y-pegatinas-claibow-innova-239",
+    "nombre": "Lámpara con Proyector de Arcoíris y Pegatinas Claibow InnovaGoods",
+    "precio": 11.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-con-proyector-de-arcoiris-y-pegatinas-claibow-innova-239.jpg"
+  },
+  {
+    "id": "lampara-de-equilibrio-con-interruptor-magnetico-magilum-inno-240",
+    "nombre": "Lámpara de Equilibrio con Interruptor Magnético Magilum InnovaGoods MAGILUM",
+    "precio": 26.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-de-equilibrio-con-interruptor-magnetico-magilum-inno-240.jpg"
+  },
+  {
+    "id": "bombilla-led-silver-electronics-1970314-e14-4w-3000k-241",
+    "nombre": "Bombilla LED Silver Electronics 1970314 E14 4W 3000K",
+    "precio": 4.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/bombilla-led-silver-electronics-1970314-e14-4w-3000k-241.jpg"
+  },
+  {
+    "id": "lampara-led-de-mesa-recargable-tactil-lum2go-innovagoods-242",
+    "nombre": "Lámpara LED de Mesa Recargable Táctil Lum2Go InnovaGoods",
+    "precio": 19.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-led-de-mesa-recargable-tactil-lum2go-innovagoods-242.jpg"
+  },
+  {
+    "id": "lampara-led-recargable-luna-moondy-innovagoods-243",
+    "nombre": "Lámpara LED Recargable Luna Moondy InnovaGoods",
+    "precio": 18.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-led-recargable-luna-moondy-innovagoods-243.jpg"
+  },
+  {
+    "id": "tiras-led-gift-decor-blanco-244",
+    "nombre": "Tiras LED Gift Decor Blanco",
+    "precio": 2.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/tiras-led-gift-decor-blanco-244.jpg"
+  },
+  {
+    "id": "lampara-dinosaurio-led-multicolor-lightosaurus-innovagoods-245",
+    "nombre": "Lámpara Dinosaurio LED Multicolor Lightosaurus InnovaGoods",
+    "precio": 6.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-dinosaurio-led-multicolor-lightosaurus-innovagoods-245.jpg"
+  },
+  {
+    "id": "botella-led-vintage-coconut-246",
+    "nombre": "Botella LED Vintage Coconut",
+    "precio": 5.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/botella-led-vintage-coconut-246.jpg"
+  },
+  {
+    "id": "lampara-unicornio-multicolor-ledicorn-innovagoods-247",
+    "nombre": "Lámpara Unicornio Multicolor LEDicorn InnovaGoods",
+    "precio": 9.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/lampara-unicornio-multicolor-ledicorn-innovagoods-247.jpg"
+  },
+  {
+    "id": "luz-led-inteligente-para-bolsos-lyhton-innovagoods-248",
+    "nombre": "Luz LED Inteligente para Bolsos Lyhton InnovaGoods",
+    "precio": 8.99,
+    "categoria": "hogar",
+    "imagen": "images/productos/luz-led-inteligente-para-bolsos-lyhton-innovagoods-248.jpg"
+  },
+  {
+    "id": "maquina-de-abdominales-plegable-con-guia-de-ejercicios-innov-249",
+    "nombre": "Máquina de Abdominales Plegable con Guía de Ejercicios InnovaGoods V0103487 (Reacondicionado B)",
+    "precio": 52.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/maquina-de-abdominales-plegable-con-guia-de-ejercicios-innov-249.jpg"
+  },
+  {
+    "id": "casco-para-patinete-electrico-smartgyro-smart-pro-blanco-rea-250",
+    "nombre": "Casco para Patinete Eléctrico Smartgyro SMART PRO Blanco (Reacondicionado A)",
+    "precio": 58.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/casco-para-patinete-electrico-smartgyro-smart-pro-blanco-rea-250.jpg"
+  },
+  {
+    "id": "tienda-de-campana-kampa-reacondicionado-d-251",
+    "nombre": "Tienda de Campaña Kampa (Reacondicionado D)",
+    "precio": 164.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/tienda-de-campana-kampa-reacondicionado-d-251.jpg"
+  },
+  {
+    "id": "pantalon-para-adultos-adidas-originals-firebird-negro-reacon-252",
+    "nombre": "Pantalón para Adultos Adidas Originals Firebird Negro (Reacondicionado B)",
+    "precio": 35.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/pantalon-para-adultos-adidas-originals-firebird-negro-reacon-252.jpg"
+  },
+  {
+    "id": "red-de-almacenamiento-negro-reacondicionado-a-253",
+    "nombre": "Red de almacenamiento Negro (Reacondicionado A)",
+    "precio": 19.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/red-de-almacenamiento-negro-reacondicionado-a-253.jpg"
+  },
+  {
+    "id": "toalla-jacquart-reacondicionado-a-254",
+    "nombre": "Toalla Jacquart (Reacondicionado A)",
+    "precio": 18.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/toalla-jacquart-reacondicionado-a-254.jpg"
+  },
+  {
+    "id": "pantalones-cortos-de-hombre-born-living-yoga-reacondicionado-255",
+    "nombre": "Pantalones Cortos de Hombre Born Living Yoga (Reacondicionado A)",
+    "precio": 36.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/pantalones-cortos-de-hombre-born-living-yoga-reacondicionado-255.jpg"
+  },
+  {
+    "id": "cesta-madera-reacondicionado-a-256",
+    "nombre": "Cesta Madera (Reacondicionado A)",
+    "precio": 21.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/cesta-madera-reacondicionado-a-256.jpg"
+  },
+  {
+    "id": "nevera-portatil-marbueno-summer-10179a-azul-poliester-28-x-2-257",
+    "nombre": "Nevera Portátil Marbueno SUMMER 10179A Azul Poliéster 28 x 20 x 10 cm",
+    "precio": 11.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/nevera-portatil-marbueno-summer-10179a-azul-poliester-28-x-2-257.jpg"
+  },
+  {
+    "id": "zapatillas-de-futbol-sala-para-adultos-adidas-blanco-reacond-258",
+    "nombre": "Zapatillas de Fútbol Sala para Adultos Adidas Blanco (Reacondicionado A)",
+    "precio": 20.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/zapatillas-de-futbol-sala-para-adultos-adidas-blanco-reacond-258.jpg"
+  },
+  {
+    "id": "camiseta-de-manga-corta-hombre-the-north-face-reacondicionad-259",
+    "nombre": "Camiseta de Manga Corta Hombre The North Face (Reacondicionado A)",
+    "precio": 20.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/camiseta-de-manga-corta-hombre-the-north-face-reacondicionad-259.jpg"
+  },
+  {
+    "id": "hornillo-de-gas-universal-blue-reacondicionado-a-260",
+    "nombre": "Hornillo de Gas Universal Blue (Reacondicionado A)",
+    "precio": 66.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/hornillo-de-gas-universal-blue-reacondicionado-a-260.jpg"
+  },
+  {
+    "id": "zapatillas-de-padel-para-adultos-babolat-blanco-reacondicion-261",
+    "nombre": "Zapatillas de Padel para Adultos Babolat Blanco (Reacondicionado A)",
+    "precio": 67.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/zapatillas-de-padel-para-adultos-babolat-blanco-reacondicion-261.jpg"
+  },
+  {
+    "id": "falda-8fq25bl-l-negro-262",
+    "nombre": "Falda 8FQ25BL-L Negro",
+    "precio": 23.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/falda-8fq25bl-l-negro-262.jpg"
+  },
+  {
+    "id": "banador-nino-nike-263",
+    "nombre": "Bañador Niño Nike",
+    "precio": 14.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/banador-nino-nike-263.jpg"
+  },
+  {
+    "id": "banador-nino-go-win-rescue-jr-rojo-264",
+    "nombre": "Bañador Niño Go & Win RESCUE JR Rojo",
+    "precio": 5.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/banador-nino-go-win-rescue-jr-rojo-264.jpg"
+  },
+  {
+    "id": "balon-de-futbol-lotto-minibasket-265",
+    "nombre": "Balón de Fútbol Lotto MiniBasket",
+    "precio": 17.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/balon-de-futbol-lotto-minibasket-265.jpg"
+  },
+  {
+    "id": "botines-para-patines-sfr-quad-liner-266",
+    "nombre": "Botines para Patines SFR Quad Liner",
+    "precio": 11.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/botines-para-patines-sfr-quad-liner-266.jpg"
+  },
+  {
+    "id": "botines-para-patines-sfr-quad-liner-2-267",
+    "nombre": "Botines para Patines SFR Quad Liner 2",
+    "precio": 8.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/botines-para-patines-sfr-quad-liner-2-267.jpg"
+  },
+  {
+    "id": "plataforma-vibratoria-con-altavoz-bandas-de-resistencia-y-ma-268",
+    "nombre": "Plataforma Vibratoria con Altavoz, Bandas de Resistencia y Mando a Distancia Vivflow InnovaGoods",
+    "precio": 116.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/plataforma-vibratoria-con-altavoz-bandas-de-resistencia-y-ma-268.jpg"
+  },
+  {
+    "id": "tabla-de-bodyboard-marbueno-multicolor-5-x-94-x-45-cm-269",
+    "nombre": "Tabla de BodyBoard Marbueno Multicolor 5 x 94 x 45 cm",
+    "precio": 19.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/tabla-de-bodyboard-marbueno-multicolor-5-x-94-x-45-cm-269.jpg"
+  },
+  {
+    "id": "silla-mecedora-plegable-de-camping-2-en-1-con-bolsillo-cojin-270",
+    "nombre": "Silla Mecedora Plegable de Camping 2 en 1 con Bolsillo, Cojín y Bolsa de Transporte Trillow InnovaGoods",
+    "precio": 60.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/silla-mecedora-plegable-de-camping-2-en-1-con-bolsillo-cojin-270.jpg"
+  },
+  {
+    "id": "guantes-de-esqui-burton-10358107001-negro-s-271",
+    "nombre": "Guantes de esquí Burton 10358107001 Negro S",
+    "precio": 36.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/guantes-de-esqui-burton-10358107001-negro-s-271.jpg"
+  },
+  {
+    "id": "waterfly-rinonera-running-sport-3-0-negra-unisex-licra-1l-co-272",
+    "nombre": "Waterfly Riñonera Running Sport 3.0 Negra Unisex Licra 1L con Reflectantes y Salida Auriculares",
+    "precio": 9.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/waterfly-rinonera-running-sport-3-0-negra-unisex-licra-1l-co-272.jpg"
+  },
+  {
+    "id": "pantalon-largo-deportivo-champion-negro-mujer-reacondicionad-273",
+    "nombre": "Pantalón Largo Deportivo Champion Negro Mujer (Reacondicionado A)",
+    "precio": 18.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/pantalon-largo-deportivo-champion-negro-mujer-reacondicionad-273.jpg"
+  },
+  {
+    "id": "banador-mujer-adidas-je4371-274",
+    "nombre": "Bañador Mujer Adidas JE4371",
+    "precio": 21.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/banador-mujer-adidas-je4371-274.jpg"
+  },
+  {
+    "id": "calcetines-deportivos-john-smith-blanco-275",
+    "nombre": "Calcetines Deportivos John Smith Blanco",
+    "precio": 2.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/calcetines-deportivos-john-smith-blanco-275.jpg"
+  },
+  {
+    "id": "hula-hop-multicolor-276",
+    "nombre": "Hula Hop Multicolor",
+    "precio": 7.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/hula-hop-multicolor-276.jpg"
+  },
+  {
+    "id": "pantalones-cortos-deportivos-para-hombre-columbia-silver-rid-277",
+    "nombre": "Pantalones Cortos Deportivos para Hombre Columbia Silver Ridge Negro",
+    "precio": 13.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/pantalones-cortos-deportivos-para-hombre-columbia-silver-rid-277.jpg"
+  },
+  {
+    "id": "pantalon-deportivo-infantil-john-smith-j-20i-azul-278",
+    "nombre": "Pantalón Deportivo Infantil John Smith J 20I Azul",
+    "precio": 5.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/pantalon-deportivo-infantil-john-smith-j-20i-azul-278.jpg"
+  },
+  {
+    "id": "pantalon-para-adultos-mammut-base-jump-so-touring-negro-homb-279",
+    "nombre": "Pantalón para Adultos Mammut Base Jump So Touring Negro Hombre",
+    "precio": 43.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/pantalon-para-adultos-mammut-base-jump-so-touring-negro-homb-279.jpg"
+  },
+  {
+    "id": "guantes-pieces-280",
+    "nombre": "Guantes Pieces",
+    "precio": 4.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/guantes-pieces-280.jpg"
+  },
+  {
+    "id": "camiseta-de-futbol-adidas-hs3487-11-12-anos-281",
+    "nombre": "Camiseta de Fútbol Adidas HS3487 (11-12 años)",
+    "precio": 32.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/camiseta-de-futbol-adidas-hs3487-11-12-anos-281.jpg"
+  },
+  {
+    "id": "pantalones-cortos-deportivos-para-hombre-luanvi-bermuda-pol--282",
+    "nombre": "Pantalones Cortos Deportivos para Hombre Luanvi BERMUDA POL Verde",
+    "precio": 4.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/pantalones-cortos-deportivos-para-hombre-luanvi-bermuda-pol--282.jpg"
+  },
+  {
+    "id": "chaqueta-deportiva-para-hombre-millet-multicolor-m-283",
+    "nombre": "Chaqueta Deportiva para Hombre Millet Multicolor (M)",
+    "precio": 34.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/chaqueta-deportiva-para-hombre-millet-multicolor-m-283.jpg"
+  },
+  {
+    "id": "eje-para-rueda-enuff-skateboards-decade-pro-hollow-trucks-284",
+    "nombre": "Eje para rueda Enuff Skateboards Decade Pro Hollow Trucks",
+    "precio": 13.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/eje-para-rueda-enuff-skateboards-decade-pro-hollow-trucks-284.jpg"
+  },
+  {
+    "id": "rodamiento-285",
+    "nombre": "Rodamiento",
+    "precio": 7.99,
+    "categoria": "deportes",
+    "imagen": "images/productos/rodamiento-285.jpg"
+  },
+  {
+    "id": "cocina-de-juguete-woomax-reacondicionado-a-286",
+    "nombre": "Cocina de Juguete Woomax (Reacondicionado A)",
+    "precio": 46.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/cocina-de-juguete-woomax-reacondicionado-a-286.jpg"
+  },
+  {
+    "id": "disfraz-para-ninos-negro-arana-reacondicionado-a-287",
+    "nombre": "Disfraz para Niños Negro Araña (Reacondicionado A)",
+    "precio": 5.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/disfraz-para-ninos-negro-arana-reacondicionado-a-287.jpg"
+  },
+  {
+    "id": "coche-radio-control-sonic-1-28-reacondicionado-a-288",
+    "nombre": "Coche Radio Control Sonic 1:28 (Reacondicionado A)",
+    "precio": 17.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/coche-radio-control-sonic-1-28-reacondicionado-a-288.jpg"
+  },
+  {
+    "id": "medias-de-disfraz-59289-rojo-disfraz-nina-reacondicionado-a-289",
+    "nombre": "Medias de Disfraz 59289 Rojo Disfraz Niña (Reacondicionado A)",
+    "precio": 2.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/medias-de-disfraz-59289-rojo-disfraz-nina-reacondicionado-a-289.jpg"
+  },
+  {
+    "id": "peonza-hasbro-beybladex-reacondicionado-a-290",
+    "nombre": "Peonza Hasbro BeyBladeX (Reacondicionado A)",
+    "precio": 22.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/peonza-hasbro-beybladex-reacondicionado-a-290.jpg"
+  },
+  {
+    "id": "pista-de-carreras-molto-3-niveles-coche-x-5-reacondicionado--291",
+    "nombre": "Pista de Carreras Moltó 3 niveles Coche x 5 (Reacondicionado C)",
+    "precio": 18.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/pista-de-carreras-molto-3-niveles-coche-x-5-reacondicionado--291.jpg"
+  },
+  {
+    "id": "colchoneta-hinchable-bestway-292",
+    "nombre": "Colchoneta Hinchable Bestway",
+    "precio": 19.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/colchoneta-hinchable-bestway-292.jpg"
+  },
+  {
+    "id": "juego-de-mesa-hasbro-rummikub-letters-1-pieza-reacondicionad-293",
+    "nombre": "Juego de Mesa Hasbro Rummikub Letters (1 Pieza) (Reacondicionado A)",
+    "precio": 39.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/juego-de-mesa-hasbro-rummikub-letters-1-pieza-reacondicionad-293.jpg"
+  },
+  {
+    "id": "carrito-para-munecas-decuevas-verona-reacondicionado-d-294",
+    "nombre": "Carrito para Muñecas Decuevas Verona (Reacondicionado D)",
+    "precio": 19.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/carrito-para-munecas-decuevas-verona-reacondicionado-d-294.jpg"
+  },
+  {
+    "id": "puzzle-3d-flexa-295",
+    "nombre": "Puzzle 3D Flexa",
+    "precio": 9.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/puzzle-3d-flexa-295.jpg"
+  },
+  {
+    "id": "heladeria-de-juguete-flexa-296",
+    "nombre": "Heladería de juguete Flexa",
+    "precio": 13.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/heladeria-de-juguete-flexa-296.jpg"
+  },
+  {
+    "id": "set-de-menaje-infantil-flexa-297",
+    "nombre": "Set de Menaje Infantil Flexa",
+    "precio": 8.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/set-de-menaje-infantil-flexa-297.jpg"
+  },
+  {
+    "id": "cubiletes-con-fichas-de-parchis-gerimport-4-unidades-298",
+    "nombre": "Cubiletes con Fichas de Parchís Gerimport (4 Unidades)",
+    "precio": 2.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/cubiletes-con-fichas-de-parchis-gerimport-4-unidades-298.jpg"
+  },
+  {
+    "id": "muneco-innovagoods-reacondicionado-b-299",
+    "nombre": "Muñeco InnovaGoods (Reacondicionado B)",
+    "precio": 9.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/muneco-innovagoods-reacondicionado-b-299.jpg"
+  },
+  {
+    "id": "muneco-innovagoods-reacondicionado-a-300",
+    "nombre": "Muñeco InnovaGoods (Reacondicionado A)",
+    "precio": 10.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/muneco-innovagoods-reacondicionado-a-300.jpg"
+  },
+  {
+    "id": "juego-de-plastilina-innovagoods-reacondicionado-b-301",
+    "nombre": "Juego de Plastilina InnovaGoods (Reacondicionado B)",
+    "precio": 22.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/juego-de-plastilina-innovagoods-reacondicionado-b-301.jpg"
+  },
+  {
+    "id": "disfraz-para-adultos-my-other-me-jaylah-star-trek-multicolor-302",
+    "nombre": "Disfraz para Adultos My Other Me Jaylah Star Trek Multicolor Camiseta (Reacondicionado A)",
+    "precio": 8.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/disfraz-para-adultos-my-other-me-jaylah-star-trek-multicolor-302.jpg"
+  },
+  {
+    "id": "peluca-para-halloween-118189-verde-reacondicionado-a-303",
+    "nombre": "Peluca para Halloween 118189 Verde (Reacondicionado A)",
+    "precio": 5.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/peluca-para-halloween-118189-verde-reacondicionado-a-303.jpg"
+  },
+  {
+    "id": "juego-de-construccion-lego-marvel-76337-304",
+    "nombre": "Juego de Construcción Lego Marvel 76337",
+    "precio": 15.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/juego-de-construccion-lego-marvel-76337-304.jpg"
+  },
+  {
+    "id": "disfraz-para-adultos-rey-mago-baltasar-m-l-6-piezas-reacondi-305",
+    "nombre": "Disfraz para Adultos Rey Mago Baltasar M/L 6 Piezas (Reacondicionado B)",
+    "precio": 23.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/disfraz-para-adultos-rey-mago-baltasar-m-l-6-piezas-reacondi-305.jpg"
+  },
+  {
+    "id": "muneca-zombie-monster-high-draculaura-reacondicionado-a-306",
+    "nombre": "Muñeca Zombie Monster High Draculaura (Reacondicionado A)",
+    "precio": 22.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/muneca-zombie-monster-high-draculaura-reacondicionado-a-306.jpg"
+  },
+  {
+    "id": "coche-radio-control-bmw-35-x-10-x-14-cm-2-unidades-307",
+    "nombre": "Coche Radio Control BMW 35 X 10 X 14 CM (2 Unidades)",
+    "precio": 55.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/coche-radio-control-bmw-35-x-10-x-14-cm-2-unidades-307.jpg"
+  },
+  {
+    "id": "llavero-peluche-the-lion-king-naranja-peluche-308",
+    "nombre": "Llavero Peluche The Lion King Naranja Peluche",
+    "precio": 9.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/llavero-peluche-the-lion-king-naranja-peluche-308.jpg"
+  },
+  {
+    "id": "album-de-cromos-panini-stitch-frances-309",
+    "nombre": "Álbum de cromos Panini STITCH Francés",
+    "precio": 19.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/album-de-cromos-panini-stitch-frances-309.jpg"
+  },
+  {
+    "id": "cama-elastica-infantil-con-red-de-seguridad-zuply-innovagood-310",
+    "nombre": "Cama Elástica Infantil con Red de Seguridad Zuply InnovaGoods",
+    "precio": 87.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/cama-elastica-infantil-con-red-de-seguridad-zuply-innovagood-310.jpg"
+  },
+  {
+    "id": "ropa-para-munecas-nenuco-42-cm-311",
+    "nombre": "Ropa para muñecas Nenuco 42 cm",
+    "precio": 8.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/ropa-para-munecas-nenuco-42-cm-311.jpg"
+  },
+  {
+    "id": "juego-de-construccion-pagani-coche-387-piezas-312",
+    "nombre": "Juego de Construcción Pagani Coche 387 Piezas",
+    "precio": 26.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/juego-de-construccion-pagani-coche-387-piezas-312.jpg"
+  },
+  {
+    "id": "disfraz-para-ninos-my-other-me-militar-7-9-anos-313",
+    "nombre": "Disfraz para Niños My Other Me Militar 7-9 Años",
+    "precio": 9.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/disfraz-para-ninos-my-other-me-militar-7-9-anos-313.jpg"
+  },
+  {
+    "id": "accesorio-para-disfraz-my-other-me-m-82-x-31-x-16-cm-martill-314",
+    "nombre": "Accesorio para Disfraz My Other Me M 82 x 31 x 16 cm Martillo",
+    "precio": 7.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/accesorio-para-disfraz-my-other-me-m-82-x-31-x-16-cm-martill-314.jpg"
+  },
+  {
+    "id": "flotador-hinchable-creaciones-llopis-limon-rueda-102-cm-315",
+    "nombre": "Flotador Hinchable Creaciones Llopis Limón Rueda 102 cm",
+    "precio": 4.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/flotador-hinchable-creaciones-llopis-limon-rueda-102-cm-315.jpg"
+  },
+  {
+    "id": "set-de-peluqueria-colorbaby-29-5-x-8-5-x-23-cm-316",
+    "nombre": "Set de Peluquería Colorbaby 29.5 x 8.5 x 23 cm",
+    "precio": 5.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/set-de-peluqueria-colorbaby-29-5-x-8-5-x-23-cm-316.jpg"
+  },
+  {
+    "id": "disfraz-para-adultos-80-rock-star-freddie-queen-multicolor-r-317",
+    "nombre": "Disfraz para Adultos 80'ROCK STAR FREDDIE QUEEN Multicolor (Reacondicionado B)",
+    "precio": 26.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/disfraz-para-adultos-80-rock-star-freddie-queen-multicolor-r-317.jpg"
+  },
+  {
+    "id": "mascara-monja-siniestra-318",
+    "nombre": "Máscara Monja Siniestra",
+    "precio": 2.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/mascara-monja-siniestra-318.jpg"
+  },
+  {
+    "id": "muneca-bebe-arias-iria-45-cm-319",
+    "nombre": "Muñeca bebé Arias Iria 45 cm",
+    "precio": 40.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/muneca-bebe-arias-iria-45-cm-319.jpg"
+  },
+  {
+    "id": "bestway-chaleco-con-manguitos-disney-spiderman-56-cm-3-6-ano-320",
+    "nombre": "Bestway Chaleco con Manguitos Disney Spiderman 56 cm +3-6 Años Piscina y Playa 98795",
+    "precio": 36.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/bestway-chaleco-con-manguitos-disney-spiderman-56-cm-3-6-ano-320.jpg"
+  },
+  {
+    "id": "bestway-aspersor-hinchable-cactus-74x56x104-cm-2-anos-jardin-321",
+    "nombre": "Bestway Aspersor Hinchable Cactus 74x56x104 cm +2 Años Jardin 52733",
+    "precio": 23.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/bestway-aspersor-hinchable-cactus-74x56x104-cm-2-anos-jardin-321.jpg"
+  },
+  {
+    "id": "bestway-piscina-hinchable-infantil-juegos-canastas-con-pelot-322",
+    "nombre": "Bestway Piscina Hinchable Infantil Juegos Canastas con Pelotas y Bolas 120x107x84 cm +2 Años Jardin 52728",
+    "precio": 49.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/bestway-piscina-hinchable-infantil-juegos-canastas-con-pelot-322.jpg"
+  },
+  {
+    "id": "flotador-hinchable-bestway-azul-323",
+    "nombre": "Flotador Hinchable Bestway Azul",
+    "precio": 23.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/flotador-hinchable-bestway-azul-323.jpg"
+  },
+  {
+    "id": "peluche-stitch-leroy-25-cm-rojo-multicolor-324",
+    "nombre": "Peluche Stitch Leroy 25 cm Rojo Multicolor",
+    "precio": 16.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/peluche-stitch-leroy-25-cm-rojo-multicolor-324.jpg"
+  },
+  {
+    "id": "flotador-hinchable-bestway-multicolor-325",
+    "nombre": "Flotador Hinchable Bestway Multicolor",
+    "precio": 15.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/flotador-hinchable-bestway-multicolor-325.jpg"
+  },
+  {
+    "id": "oso-de-peluche-80-cm-326",
+    "nombre": "Oso de Peluche 80 cm",
+    "precio": 23.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/oso-de-peluche-80-cm-326.jpg"
+  },
+  {
+    "id": "quad-electrico-feber-racy-67-x-41-x-45-cm-327",
+    "nombre": "Quad Eléctrico Feber Racy 67 x 41 x 45 cm",
+    "precio": 64.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/quad-electrico-feber-racy-67-x-41-x-45-cm-327.jpg"
+  },
+  {
+    "id": "mesa-de-hockey-69-x-36-x-16-cm-328",
+    "nombre": "Mesa de Hockey 69 x 36 x 16 cm",
+    "precio": 22.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/mesa-de-hockey-69-x-36-x-16-cm-328.jpg"
+  },
+  {
+    "id": "disfraz-para-ninos-blanco-angel-329",
+    "nombre": "Disfraz para Niños Blanco Ángel",
+    "precio": 12.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/disfraz-para-ninos-blanco-angel-329.jpg"
+  },
+  {
+    "id": "disfraz-para-adultos-xs-s-330",
+    "nombre": "Disfraz para Adultos XS/S",
+    "precio": 8.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/disfraz-para-adultos-xs-s-330.jpg"
+  },
+  {
+    "id": "disfraz-para-ninos-5-6-anos-331",
+    "nombre": "Disfraz para Niños 5-6 Años",
+    "precio": 9.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/disfraz-para-ninos-5-6-anos-331.jpg"
+  },
+  {
+    "id": "disfraz-para-ninos-7-9-anos-332",
+    "nombre": "Disfraz para Niños 7-9 Años",
+    "precio": 9.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/disfraz-para-ninos-7-9-anos-332.jpg"
+  },
+  {
+    "id": "disfraz-para-ninos-my-other-me-enanito-5-6-anos-333",
+    "nombre": "Disfraz para Niños My Other Me Enanito 5-6 Años",
+    "precio": 9.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/disfraz-para-ninos-my-other-me-enanito-5-6-anos-333.jpg"
+  },
+  {
+    "id": "kit-de-construccion-de-fuertes-para-ninos-archikitt-innovago-334",
+    "nombre": "Kit de Construcción de Fuertes para Niños Archikitt InnovaGoods 85 Piezas",
+    "precio": 19.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/kit-de-construccion-de-fuertes-para-ninos-archikitt-innovago-334.jpg"
+  },
+  {
+    "id": "disfraz-para-adultos-my-other-me-multicolor-reacondicionado--335",
+    "nombre": "Disfraz para Adultos My Other Me Multicolor (Reacondicionado A)",
+    "precio": 18.99,
+    "categoria": "juguetes",
+    "imagen": "images/productos/disfraz-para-adultos-my-other-me-multicolor-reacondicionado--335.jpg"
+  },
+  {
+    "id": "saco-de-dormir-para-bebe-ingenuity-algodon-3-6-meses-336",
+    "nombre": "Saco de Dormir para Bebé Ingenuity Algodón 3-6 Meses",
+    "precio": 37.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/saco-de-dormir-para-bebe-ingenuity-algodon-3-6-meses-336.jpg"
+  },
+  {
+    "id": "cuna-de-bebe-bimbi-casual-colecho-dinos-337",
+    "nombre": "Cuna de Bebé BIMBI CASUAL COLECHO DINOS",
+    "precio": 74.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/cuna-de-bebe-bimbi-casual-colecho-dinos-337.jpg"
+  },
+  {
+    "id": "set-de-regalo-para-bebe-chicco-multicolor-4-piezas-338",
+    "nombre": "Set de Regalo para Bebé Chicco Multicolor 4 Piezas",
+    "precio": 28.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/set-de-regalo-para-bebe-chicco-multicolor-4-piezas-338.jpg"
+  },
+  {
+    "id": "cuna-de-bebe-bimbi-casual-colecho-llama-339",
+    "nombre": "Cuna de Bebé BIMBI CASUAL COLECHO LLAMA",
+    "precio": 46.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/cuna-de-bebe-bimbi-casual-colecho-llama-339.jpg"
+  },
+  {
+    "id": "muselina-pirulos-548-flamingo-385-01-blanco-2-piezas-340",
+    "nombre": "Muselina Pirulos 548 FLAMINGO 385 01 Blanco 2 Piezas",
+    "precio": 2.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/muselina-pirulos-548-flamingo-385-01-blanco-2-piezas-340.jpg"
+  },
+  {
+    "id": "muselina-pirulos-548-arrows-384-56-azul-2-piezas-341",
+    "nombre": "Muselina Pirulos 548 ARROWS 384 56 Azul 2 Piezas",
+    "precio": 2.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/muselina-pirulos-548-arrows-384-56-azul-2-piezas-341.jpg"
+  },
+  {
+    "id": "carro-de-paseo-para-bebe-arrue-342",
+    "nombre": "Carro de Paseo para Bebé Arrue",
+    "precio": 114.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/carro-de-paseo-para-bebe-arrue-342.jpg"
+  },
+  {
+    "id": "aspirador-nasal-recargable-para-bebes-nizi-innovagoods-343",
+    "nombre": "Aspirador Nasal Recargable para Bebés Nizi InnovaGoods",
+    "precio": 17.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/aspirador-nasal-recargable-para-bebes-nizi-innovagoods-343.jpg"
+  },
+  {
+    "id": "toallitas-humedas-topicrem-baby-60-unidades-344",
+    "nombre": "Toallitas Húmedas Topicrem BABY (60 unidades)",
+    "precio": 5.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/toallitas-humedas-topicrem-baby-60-unidades-344.jpg"
+  },
+  {
+    "id": "babero-gris-345",
+    "nombre": "Babero Gris",
+    "precio": 2.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/babero-gris-345.jpg"
+  },
+  {
+    "id": "babero-pirulos-548-planets-383-56-346",
+    "nombre": "Babero Pirulos 548 PLANETS 383 56",
+    "precio": 3.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/babero-pirulos-548-planets-383-56-346.jpg"
+  },
+  {
+    "id": "babero-impermeable-347",
+    "nombre": "Babero Impermeable",
+    "precio": 4.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/babero-impermeable-347.jpg"
+  },
+  {
+    "id": "juguete-de-bebe-cayro-screw-348",
+    "nombre": "Juguete de bebé Cayro Screw",
+    "precio": 9.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/juguete-de-bebe-cayro-screw-348.jpg"
+  },
+  {
+    "id": "gel-y-champu-2-en-1-air-val-400-ml-hello-kitty-349",
+    "nombre": "Gel y Champú 2 en 1 Air-Val 400 ml Hello Kitty",
+    "precio": 4.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/gel-y-champu-2-en-1-air-val-400-ml-hello-kitty-349.jpg"
+  },
+  {
+    "id": "biberon-suavinex-prints-m-270-ml-350",
+    "nombre": "Biberón Suavinex Prints M 270 ml",
+    "precio": 12.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/biberon-suavinex-prints-m-270-ml-350.jpg"
+  },
+  {
+    "id": "biberon-suavinex-prints-s-150-ml-351",
+    "nombre": "Biberón Suavinex Prints S 150 ml",
+    "precio": 7.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/biberon-suavinex-prints-s-150-ml-351.jpg"
+  },
+  {
+    "id": "centro-de-actividades-disney-4-unidades-21-5-x-18-5-x-13-5-c-352",
+    "nombre": "Centro de actividades Disney 4 Unidades 21,5 x 18,5 x 13,5 cm",
+    "precio": 23.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/centro-de-actividades-disney-4-unidades-21-5-x-18-5-x-13-5-c-352.jpg"
+  },
+  {
+    "id": "bloques-apilables-hape-sr-frog-multicolor-353",
+    "nombre": "Bloques Apilables Hape Sr Frog Multicolor",
+    "precio": 10.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/bloques-apilables-hape-sr-frog-multicolor-353.jpg"
+  },
+  {
+    "id": "aspirador-nasal-recargable-para-bebes-nizi-innovagoods-2-354",
+    "nombre": "Aspirador Nasal Recargable para Bebés Nizi InnovaGoods 2",
+    "precio": 14.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/aspirador-nasal-recargable-para-bebes-nizi-innovagoods-2-354.jpg"
+  },
+  {
+    "id": "gel-limpiador-a-derma-dermalibour-purificante-200-ml-355",
+    "nombre": "Gel Limpiador A-Derma Dermalibour+ Purificante 200 ml",
+    "precio": 21.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/gel-limpiador-a-derma-dermalibour-purificante-200-ml-355.jpg"
+  },
+  {
+    "id": "doudou-25-x-25-cm-oso-panda-rosa-356",
+    "nombre": "Doudou 25 x 25 cm Oso Panda Rosa",
+    "precio": 8.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/doudou-25-x-25-cm-oso-panda-rosa-356.jpg"
+  },
+  {
+    "id": "numero-pincello-ar1607070-numero-8-poliestireno-12-unidades-357",
+    "nombre": "Número Pincello AR1607070 Número 8 Poliestireno (12 Unidades)",
+    "precio": 2.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/numero-pincello-ar1607070-numero-8-poliestireno-12-unidades-357.jpg"
+  },
+  {
+    "id": "letra-pincello-foam-letter-v-letra-v-12-unidades-358",
+    "nombre": "Letra Pincello FOAM LETTER V Letra V (12 Unidades)",
+    "precio": 2.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/letra-pincello-foam-letter-v-letra-v-12-unidades-358.jpg"
+  },
+  {
+    "id": "numero-pincello-ar1607071-numero-9-12-unidades-359",
+    "nombre": "Número Pincello AR1607071 Número 9 (12 Unidades)",
+    "precio": 2.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/numero-pincello-ar1607071-numero-9-12-unidades-359.jpg"
+  },
+  {
+    "id": "aceite-corporal-hidratante-para-bebes-johnson-s-9460900-algo-360",
+    "nombre": "Aceite Corporal Hidratante Para Bebés Johnson's 9460900 Algodón Bebé 300 ml",
+    "precio": 3.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/aceite-corporal-hidratante-para-bebes-johnson-s-9460900-algo-360.jpg"
+  },
+  {
+    "id": "champu-para-ninos-mustela-scs07720-500-ml-361",
+    "nombre": "Champú para Niños Mustela SCS07720 500 ml",
+    "precio": 10.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/champu-para-ninos-mustela-scs07720-500-ml-361.jpg"
+  },
+  {
+    "id": "set-de-regalo-para-bebe-dkd-home-decor-be-180261-azul-blanco-362",
+    "nombre": "Set de Regalo para Bebé DKD Home Decor BE-180261 Azul Blanco Rosa (2 Unidades)",
+    "precio": 9.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/set-de-regalo-para-bebe-dkd-home-decor-be-180261-azul-blanco-362.jpg"
+  },
+  {
+    "id": "letra-r-pincello-24018-363",
+    "nombre": "Letra R Pincello 24018",
+    "precio": 2.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/letra-r-pincello-24018-363.jpg"
+  },
+  {
+    "id": "letra-k-pincello-poliestireno-364",
+    "nombre": "Letra K Pincello Poliestireno",
+    "precio": 2.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/letra-k-pincello-poliestireno-364.jpg"
+  },
+  {
+    "id": "letra-r-pincello-poliestireno-365",
+    "nombre": "Letra R Pincello Poliestireno",
+    "precio": 2.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/letra-r-pincello-poliestireno-365.jpg"
+  },
+  {
+    "id": "erizo-de-peluche-con-ruido-blanco-y-proyector-quitamiedos-sp-366",
+    "nombre": "Erizo de Peluche con Ruido Blanco y Proyector Quitamiedos Spikey InnovaGoods",
+    "precio": 25.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/erizo-de-peluche-con-ruido-blanco-y-proyector-quitamiedos-sp-366.jpg"
+  },
+  {
+    "id": "decoracion-de-pared-dkd-home-decor-madera-flamenco-rosa-trop-367",
+    "nombre": "Decoración de Pared DKD Home Decor Madera Flamenco rosa Tropical",
+    "precio": 36.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/decoracion-de-pared-dkd-home-decor-madera-flamenco-rosa-trop-367.jpg"
+  },
+  {
+    "id": "bloques-blandos-de-aprendizaje-molto-6-pcs-368",
+    "nombre": "Bloques Blandos de Aprendizaje Moltó (6 pcs)",
+    "precio": 19.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/bloques-blandos-de-aprendizaje-molto-6-pcs-368.jpg"
+  },
+  {
+    "id": "juguete-interactivo-para-bebes-molto-23-cm-369",
+    "nombre": "Juguete Interactivo para Bebés Moltó 23 cm",
+    "precio": 14.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/juguete-interactivo-para-bebes-molto-23-cm-369.jpg"
+  },
+  {
+    "id": "babero-plegable-easy-rosa-370",
+    "nombre": "Babero Plegable Easy Rosa",
+    "precio": 2.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/babero-plegable-easy-rosa-370.jpg"
+  },
+  {
+    "id": "babero-plegable-easy-rosa-claro-371",
+    "nombre": "Babero Plegable Easy Rosa claro",
+    "precio": 2.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/babero-plegable-easy-rosa-claro-371.jpg"
+  },
+  {
+    "id": "champu-nutritivo-kallos-cosmetics-kjmn-1-l-373",
+    "nombre": "Champú Nutritivo Kallos Cosmetics KJMN 1 L",
+    "precio": 10.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/champu-nutritivo-kallos-cosmetics-kjmn-1-l-373.jpg"
+  },
+  {
+    "id": "acondicionador-desenredante-para-ninos-nosa-healthcare-prote-374",
+    "nombre": "Acondicionador Desenredante para Niños Nosa Healthcare PROTECT 250 ml Fresa Árbol de té",
+    "precio": 17.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/acondicionador-desenredante-para-ninos-nosa-healthcare-prote-374.jpg"
+  },
+  {
+    "id": "set-de-higiene-senti2-gotas-oculares-375",
+    "nombre": "Set de higiene Senti2 Gotas Oculares",
+    "precio": 15.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/set-de-higiene-senti2-gotas-oculares-375.jpg"
+  },
+  {
+    "id": "aceite-corporal-hidratante-para-bebes-la-chinata-baby-250-ml-376",
+    "nombre": "Aceite Corporal Hidratante Para Bebés La Chinata Baby 250 ml",
+    "precio": 14.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/aceite-corporal-hidratante-para-bebes-la-chinata-baby-250-ml-376.jpg"
+  },
+  {
+    "id": "calienta-biberon-innogio-giowarm-370-blanco-377",
+    "nombre": "Calienta biberón Innogio GIOWARM 370 Blanco",
+    "precio": 73.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/calienta-biberon-innogio-giowarm-370-blanco-377.jpg"
+  },
+  {
+    "id": "set-de-higiene-svr-topialyse-378",
+    "nombre": "Set de higiene SVR Topialyse",
+    "precio": 10.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/set-de-higiene-svr-topialyse-378.jpg"
+  },
+  {
+    "id": "set-de-higiene-svr-sun-secure-379",
+    "nombre": "Set de higiene SVR Sun Secure",
+    "precio": 25.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/set-de-higiene-svr-sun-secure-379.jpg"
+  },
+  {
+    "id": "set-de-higiene-svr-sun-secure-2-380",
+    "nombre": "Set de higiene SVR Sun Secure 2",
+    "precio": 25.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/set-de-higiene-svr-sun-secure-2-380.jpg"
+  },
+  {
+    "id": "set-de-higiene-svr-sun-secure-3-381",
+    "nombre": "Set de higiene SVR Sun Secure 3",
+    "precio": 24.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/set-de-higiene-svr-sun-secure-3-381.jpg"
+  },
+  {
+    "id": "acondicionador-skala-kids-1-l-382",
+    "nombre": "Acondicionador Skala Kids 1 L",
+    "precio": 18.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/acondicionador-skala-kids-1-l-382.jpg"
+  },
+  {
+    "id": "set-de-higiene-mustela-bebe-nino-383",
+    "nombre": "Set de higiene Mustela Bebé-Niño",
+    "precio": 27.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/set-de-higiene-mustela-bebe-nino-383.jpg"
+  },
+  {
+    "id": "set-de-higiene-dodot-activity-extra-384",
+    "nombre": "Set de higiene Dodot Activity Extra",
+    "precio": 60.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/set-de-higiene-dodot-activity-extra-384.jpg"
+  },
+  {
+    "id": "set-de-higiene-nosa-healthcare-protect-4-piezas-385",
+    "nombre": "Set de higiene Nosa Healthcare Protect 4 Piezas",
+    "precio": 26.99,
+    "categoria": "bebe",
+    "imagen": "images/productos/set-de-higiene-nosa-healthcare-protect-4-piezas-385.jpg"
+  },
+  {
+    "id": "gafas-de-sol-unisex-italia-independent-0024-386",
+    "nombre": "Gafas de Sol Unisex Italia Independent 0024",
+    "precio": 16.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/gafas-de-sol-unisex-italia-independent-0024-386.jpg"
+  },
+  {
+    "id": "anillo-mujer-ti-sento-1444pb-18-mm-387",
+    "nombre": "Anillo Mujer Ti Sento 1444PB 18 mm",
+    "precio": 9.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/anillo-mujer-ti-sento-1444pb-18-mm-387.jpg"
+  },
+  {
+    "id": "anillo-mujer-ti-sento-1444bv-acero-18-mm-388",
+    "nombre": "Anillo Mujer Ti Sento 1444BV Acero 18 mm",
+    "precio": 12.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/anillo-mujer-ti-sento-1444bv-acero-18-mm-388.jpg"
+  },
+  {
+    "id": "pulsera-hombre-breil-tj0539-389",
+    "nombre": "Pulsera Hombre Breil TJ0539",
+    "precio": 35.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-hombre-breil-tj0539-389.jpg"
+  },
+  {
+    "id": "anillo-hombre-save-brave-sbr-eva-390",
+    "nombre": "Anillo Hombre Save Brave SBR-EVA",
+    "precio": 18.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/anillo-hombre-save-brave-sbr-eva-390.jpg"
+  },
+  {
+    "id": "pulsera-mujer-folli-follie-391",
+    "nombre": "Pulsera Mujer Folli Follie",
+    "precio": 36.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-folli-follie-391.jpg"
+  },
+  {
+    "id": "pulsera-mujer-lancaster-392",
+    "nombre": "Pulsera Mujer Lancaster",
+    "precio": 17.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-lancaster-392.jpg"
+  },
+  {
+    "id": "pulsera-unisex-tom-hope-tm00-18-cm-393",
+    "nombre": "Pulsera Unisex Tom Hope TM00 18 cm",
+    "precio": 15.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-unisex-tom-hope-tm00-18-cm-393.jpg"
+  },
+  {
+    "id": "anillo-mujer-glamour-gr33-07-394",
+    "nombre": "Anillo Mujer Glamour GR33-07",
+    "precio": 19.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/anillo-mujer-glamour-gr33-07-394.jpg"
+  },
+  {
+    "id": "pendientes-mujer-rosefield-jbhr-j088-395",
+    "nombre": "Pendientes Mujer Rosefield JBHR-J088",
+    "precio": 26.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pendientes-mujer-rosefield-jbhr-j088-395.jpg"
+  },
+  {
+    "id": "montura-de-gafas-mujer-carrera-ca-2039t-cs-reacondicionado-d-396",
+    "nombre": "Montura de Gafas Mujer Carrera CA 2039T_CS (Reacondicionado D)",
+    "precio": 22.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/montura-de-gafas-mujer-carrera-ca-2039t-cs-reacondicionado-d-396.jpg"
+  },
+  {
+    "id": "anillo-mujer-xenox-x5001-397",
+    "nombre": "Anillo Mujer Xenox X5001",
+    "precio": 4.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/anillo-mujer-xenox-x5001-397.jpg"
+  },
+  {
+    "id": "pulsera-mujer-time-force-ts5126by-398",
+    "nombre": "Pulsera Mujer Time Force TS5126BY",
+    "precio": 6.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-time-force-ts5126by-398.jpg"
+  },
+  {
+    "id": "pulsera-hombre-time-force-ts5094br23-399",
+    "nombre": "Pulsera Hombre Time Force TS5094BR23",
+    "precio": 8.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-hombre-time-force-ts5094br23-399.jpg"
+  },
+  {
+    "id": "pulsera-mujer-time-force-tj1034b01n-400",
+    "nombre": "Pulsera Mujer Time Force TJ1034B01N",
+    "precio": 6.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-time-force-tj1034b01n-400.jpg"
+  },
+  {
+    "id": "anillo-mujer-breil-tj0730-401",
+    "nombre": "Anillo Mujer Breil TJ0730",
+    "precio": 27.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/anillo-mujer-breil-tj0730-401.jpg"
+  },
+  {
+    "id": "pulsera-mujer-la-petite-story-lps05apz07-402",
+    "nombre": "Pulsera Mujer La Petite Story LPS05APZ07",
+    "precio": 14.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-la-petite-story-lps05apz07-402.jpg"
+  },
+  {
+    "id": "pulsera-mujer-adore-5490358-403",
+    "nombre": "Pulsera Mujer Adore 5490358",
+    "precio": 23.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-adore-5490358-403.jpg"
+  },
+  {
+    "id": "pulsera-mujer-adore-5489489-404",
+    "nombre": "Pulsera Mujer Adore 5489489",
+    "precio": 31.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-adore-5489489-404.jpg"
+  },
+  {
+    "id": "pendientes-mujer-adore-5375490-405",
+    "nombre": "Pendientes Mujer Adore 5375490",
+    "precio": 17.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pendientes-mujer-adore-5375490-405.jpg"
+  },
+  {
+    "id": "pulsera-mujer-adore-5375476-406",
+    "nombre": "Pulsera Mujer Adore 5375476",
+    "precio": 39.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-adore-5375476-406.jpg"
+  },
+  {
+    "id": "pulsera-mujer-rosefield-jpabg-j043-407",
+    "nombre": "Pulsera Mujer Rosefield JPABG-J043",
+    "precio": 20.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-rosefield-jpabg-j043-407.jpg"
+  },
+  {
+    "id": "pulsera-mujer-pesavento-wpxld006-408",
+    "nombre": "Pulsera Mujer Pesavento WPXLD006",
+    "precio": 130.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-pesavento-wpxld006-408.jpg"
+  },
+  {
+    "id": "pendientes-mujer-radiant-ry000109-409",
+    "nombre": "Pendientes Mujer Radiant RY000109",
+    "precio": 16.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pendientes-mujer-radiant-ry000109-409.jpg"
+  },
+  {
+    "id": "collar-mujer-radiant-ry000146-410",
+    "nombre": "Collar Mujer Radiant RY000146",
+    "precio": 23.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/collar-mujer-radiant-ry000146-410.jpg"
+  },
+  {
+    "id": "pendientes-mujer-radiant-ry000107-411",
+    "nombre": "Pendientes Mujer Radiant RY000107",
+    "precio": 17.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pendientes-mujer-radiant-ry000107-411.jpg"
+  },
+  {
+    "id": "anillo-mujer-radiant-ry000078-412",
+    "nombre": "Anillo Mujer Radiant RY000078",
+    "precio": 11.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/anillo-mujer-radiant-ry000078-412.jpg"
+  },
+  {
+    "id": "anillo-mujer-radiant-ry000054-413",
+    "nombre": "Anillo Mujer Radiant RY000054",
+    "precio": 17.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/anillo-mujer-radiant-ry000054-413.jpg"
+  },
+  {
+    "id": "collar-mujer-radiant-ry000044-414",
+    "nombre": "Collar Mujer Radiant RY000044",
+    "precio": 16.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/collar-mujer-radiant-ry000044-414.jpg"
+  },
+  {
+    "id": "pendientes-mujer-radiant-ry000032-415",
+    "nombre": "Pendientes Mujer Radiant RY000032",
+    "precio": 13.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pendientes-mujer-radiant-ry000032-415.jpg"
+  },
+  {
+    "id": "pulsera-mujer-radiant-ry000026-416",
+    "nombre": "Pulsera Mujer Radiant RY000026",
+    "precio": 16.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-radiant-ry000026-416.jpg"
+  },
+  {
+    "id": "pendientes-mujer-radiant-ry000016-417",
+    "nombre": "Pendientes Mujer Radiant RY000016",
+    "precio": 18.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pendientes-mujer-radiant-ry000016-417.jpg"
+  },
+  {
+    "id": "anillo-mujer-radiant-ry000006-418",
+    "nombre": "Anillo Mujer Radiant RY000006",
+    "precio": 16.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/anillo-mujer-radiant-ry000006-418.jpg"
+  },
+  {
+    "id": "collar-mujer-breil-tj2736-419",
+    "nombre": "Collar Mujer Breil TJ2736",
+    "precio": 27.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/collar-mujer-breil-tj2736-419.jpg"
+  },
+  {
+    "id": "anillo-mujer-sif-jakobs-n0071-cz-cz-2-420",
+    "nombre": "Anillo Mujer Sif Jakobs N0071-CZ-CZ-2",
+    "precio": 37.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/anillo-mujer-sif-jakobs-n0071-cz-cz-2-420.jpg"
+  },
+  {
+    "id": "colgante-mujer-folli-follie-3p8s027c-421",
+    "nombre": "Colgante Mujer Folli Follie 3P8S027C",
+    "precio": 16.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/colgante-mujer-folli-follie-3p8s027c-421.jpg"
+  },
+  {
+    "id": "gafas-de-sol-mujer-lgr-siwa-havana09-422",
+    "nombre": "Gafas de Sol Mujer LGR SIWA-HAVANA09",
+    "precio": 41.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/gafas-de-sol-mujer-lgr-siwa-havana09-422.jpg"
+  },
+  {
+    "id": "collar-mujer-folli-follie-4n9a112yy-423",
+    "nombre": "Collar Mujer Folli Follie 4N9A112YY",
+    "precio": 31.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/collar-mujer-folli-follie-4n9a112yy-423.jpg"
+  },
+  {
+    "id": "pulsera-mujer-thomas-sabo-kt14386416l16-multicolor-424",
+    "nombre": "Pulsera Mujer Thomas Sabo KT14386416L16 Multicolor",
+    "precio": 65.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-thomas-sabo-kt14386416l16-multicolor-424.jpg"
+  },
+  {
+    "id": "pulsera-folli-follie-1b8f056-425",
+    "nombre": "Pulsera Folli Follie 1B8F056",
+    "precio": 16.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-folli-follie-1b8f056-425.jpg"
+  },
+  {
+    "id": "montura-de-gafas-mujer-harry-larys-convincy-101-426",
+    "nombre": "Montura de Gafas Mujer Harry Larys CONVINCY-101",
+    "precio": 82.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/montura-de-gafas-mujer-harry-larys-convincy-101-426.jpg"
+  },
+  {
+    "id": "abalorio-mujer-viceroy-vmg0011-00-plateado-427",
+    "nombre": "Abalorio Mujer Viceroy VMG0011-00 Plateado",
+    "precio": 8.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/abalorio-mujer-viceroy-vmg0011-00-plateado-427.jpg"
+  },
+  {
+    "id": "abalorio-mujer-viceroy-vmf0002-10-marron-428",
+    "nombre": "Abalorio Mujer Viceroy VMF0002-10 Marrón",
+    "precio": 12.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/abalorio-mujer-viceroy-vmf0002-10-marron-428.jpg"
+  },
+  {
+    "id": "abalorio-mujer-viceroy-vmf0011-10-plateado-429",
+    "nombre": "Abalorio Mujer Viceroy VMF0011-10 Plateado",
+    "precio": 16.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/abalorio-mujer-viceroy-vmf0011-10-plateado-429.jpg"
+  },
+  {
+    "id": "pulsera-mujer-viceroy-vmb00-430",
+    "nombre": "Pulsera Mujer Viceroy VMB00",
+    "precio": 8.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/pulsera-mujer-viceroy-vmb00-430.jpg"
+  },
+  {
+    "id": "collar-mujer-demaria-dm6tc036-negr-431",
+    "nombre": "Collar Mujer Demaria DM6TC036-NEGR",
+    "precio": 136.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/collar-mujer-demaria-dm6tc036-negr-431.jpg"
+  },
+  {
+    "id": "anillo-mujer-xenox-x1069-54-432",
+    "nombre": "Anillo Mujer Xenox X1069-54",
+    "precio": 8.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/anillo-mujer-xenox-x1069-54-432.jpg"
+  },
+  {
+    "id": "collar-mujer-viceroy-1012c000-43-433",
+    "nombre": "Collar Mujer Viceroy 1012C000-43",
+    "precio": 56.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/collar-mujer-viceroy-1012c000-43-433.jpg"
+  },
+  {
+    "id": "charm-mujer-ti-sento-8080zb-434",
+    "nombre": "Charm Mujer Ti Sento 8080ZB",
+    "precio": 7.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/charm-mujer-ti-sento-8080zb-434.jpg"
+  },
+  {
+    "id": "abalorio-mujer-my-imenso-s0304812-plateado-plata-435",
+    "nombre": "Abalorio Mujer My Imenso S0304812 Plateado Plata",
+    "precio": 35.99,
+    "categoria": "joyeria",
+    "imagen": "images/productos/abalorio-mujer-my-imenso-s0304812-plateado-plata-435.jpg"
+  },
+  {
+    "id": "recambio-para-boligrafo-apple-mx2d3zm-a-blanco-reacondiciona-436",
+    "nombre": "Recambio para bolígrafo Apple MX2D3ZM/A Blanco (Reacondicionado A)",
+    "precio": 138.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/recambio-para-boligrafo-apple-mx2d3zm-a-blanco-reacondiciona-436.jpg"
+  },
+  {
+    "id": "etiquetas-adhesivas-pincello-oval-s4-437",
+    "nombre": "Etiquetas adhesivas Pincello Oval S4",
+    "precio": 2.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/etiquetas-adhesivas-pincello-oval-s4-437.jpg"
+  },
+  {
+    "id": "boligrafo-de-gel-talens-blanco-3-unidades-438",
+    "nombre": "Bolígrafo de gel Talens Blanco (3 Unidades)",
+    "precio": 4.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/boligrafo-de-gel-talens-blanco-3-unidades-438.jpg"
+  },
+  {
+    "id": "fiambrera-my-little-pony-plastico-439",
+    "nombre": "Fiambrera My Little Pony Plástico",
+    "precio": 3.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/fiambrera-my-little-pony-plastico-439.jpg"
+  },
+  {
+    "id": "mochila-escolar-safta-440",
+    "nombre": "Mochila Escolar Safta",
+    "precio": 41.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-escolar-safta-440.jpg"
+  },
+  {
+    "id": "carpeta-portafolios-mariola-441",
+    "nombre": "Carpeta Portafolios Mariola",
+    "precio": 6.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/carpeta-portafolios-mariola-441.jpg"
+  },
+  {
+    "id": "boligrafo-morellato-j01066-negro-rojo-442",
+    "nombre": "Bolígrafo Morellato J01066 Negro Rojo",
+    "precio": 21.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/boligrafo-morellato-j01066-negro-rojo-442.jpg"
+  },
+  {
+    "id": "calculadora-financiera-casio-fc-100v-443",
+    "nombre": "Calculadora Financiera Casio FC-100V",
+    "precio": 39.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/calculadora-financiera-casio-fc-100v-443.jpg"
+  },
+  {
+    "id": "calculadora-casio-gr-12c-bu-w-ep-444",
+    "nombre": "Calculadora Casio GR-12C-BU-W-EP",
+    "precio": 8.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/calculadora-casio-gr-12c-bu-w-ep-444.jpg"
+  },
+  {
+    "id": "cuaderno-de-notas-montblanc-icon-book-445",
+    "nombre": "Cuaderno de Notas Montblanc Icon Book",
+    "precio": 30.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/cuaderno-de-notas-montblanc-icon-book-445.jpg"
+  },
+  {
+    "id": "globo-terraqueo-dkd-home-decor-azul-446",
+    "nombre": "Globo Terráqueo DKD Home Decor Azul",
+    "precio": 25.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/globo-terraqueo-dkd-home-decor-azul-446.jpg"
+  },
+  {
+    "id": "etiquetas-para-impresora-zebra-blanco-4-unidades-447",
+    "nombre": "Etiquetas para Impresora Zebra Blanco (4 Unidades)",
+    "precio": 31.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/etiquetas-para-impresora-zebra-blanco-4-unidades-447.jpg"
+  },
+  {
+    "id": "funda-para-archivador-grafoplas-ecoclassic-448",
+    "nombre": "Funda para Archivador Grafoplas Ecoclassic",
+    "precio": 19.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/funda-para-archivador-grafoplas-ecoclassic-448.jpg"
+  },
+  {
+    "id": "cuaderno-de-matematicas-liderpapel-a5-80-hojas-449",
+    "nombre": "Cuaderno de matemáticas Liderpapel A5 80 Hojas",
+    "precio": 2.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/cuaderno-de-matematicas-liderpapel-a5-80-hojas-449.jpg"
+  },
+  {
+    "id": "espirales-para-encuadernar-q-connect-negro-450",
+    "nombre": "Espirales para Encuadernar Q-Connect Negro",
+    "precio": 5.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/espirales-para-encuadernar-q-connect-negro-450.jpg"
+  },
+  {
+    "id": "papel-para-imprimir-montblanc-multicolor-a4-451",
+    "nombre": "Papel para Imprimir Montblanc Multicolor A4",
+    "precio": 30.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/papel-para-imprimir-montblanc-multicolor-a4-451.jpg"
+  },
+  {
+    "id": "tinta-de-recarga-coiris-negro-452",
+    "nombre": "Tinta de recarga Coiris Negro",
+    "precio": 3.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/tinta-de-recarga-coiris-negro-452.jpg"
+  },
+  {
+    "id": "pegatinas-enuff-skateboards-negro-453",
+    "nombre": "Pegatinas Enuff Skateboards Negro",
+    "precio": 7.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/pegatinas-enuff-skateboards-negro-453.jpg"
+  },
+  {
+    "id": "carpeta-de-anillas-o-neill-multicolor-454",
+    "nombre": "Carpeta de anillas O'Neill Multicolor",
+    "precio": 4.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/carpeta-de-anillas-o-neill-multicolor-454.jpg"
+  },
+  {
+    "id": "cuaderno-pacsa-polipac-multicolor-455",
+    "nombre": "Cuaderno Pacsa Polipac Multicolor",
+    "precio": 10.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/cuaderno-pacsa-polipac-multicolor-455.jpg"
+  },
+  {
+    "id": "mochila-escolar-cars-multicolor-456",
+    "nombre": "Mochila Escolar Cars Multicolor",
+    "precio": 19.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-escolar-cars-multicolor-456.jpg"
+  },
+  {
+    "id": "caja-de-archivo-elba-50-unidades-457",
+    "nombre": "Caja de Archivo Elba (50 Unidades)",
+    "precio": 24.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/caja-de-archivo-elba-50-unidades-457.jpg"
+  },
+  {
+    "id": "libreta-de-anillas-con-boligrafo-the-lion-king-a5-458",
+    "nombre": "Libreta de Anillas con Bolígrafo The Lion King A5",
+    "precio": 10.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/libreta-de-anillas-con-boligrafo-the-lion-king-a5-458.jpg"
+  },
+  {
+    "id": "mochila-escolar-one-piece-459",
+    "nombre": "Mochila Escolar One Piece",
+    "precio": 75.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-escolar-one-piece-459.jpg"
+  },
+  {
+    "id": "mochila-infantil-3d-mickey-mouse-rojo-460",
+    "nombre": "Mochila Infantil 3D Mickey Mouse Rojo",
+    "precio": 16.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-infantil-3d-mickey-mouse-rojo-460.jpg"
+  },
+  {
+    "id": "cola-blanca-giotto-vinilik-1-kg-6-unidades-461",
+    "nombre": "Cola blanca Giotto Vinilik 1 kg (6 Unidades)",
+    "precio": 19.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/cola-blanca-giotto-vinilik-1-kg-6-unidades-461.jpg"
+  },
+  {
+    "id": "boligrafo-gremlins-morado-462",
+    "nombre": "Bolígrafo Gremlins Morado",
+    "precio": 8.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/boligrafo-gremlins-morado-462.jpg"
+  },
+  {
+    "id": "bloc-de-notas-montblanc-mountain-463",
+    "nombre": "Bloc de Notas Montblanc Mountain",
+    "precio": 67.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/bloc-de-notas-montblanc-mountain-463.jpg"
+  },
+  {
+    "id": "mochila-escolar-con-ruedas-munich-vulcan-negro-464",
+    "nombre": "Mochila Escolar con Ruedas Munich Vulcan Negro",
+    "precio": 53.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-escolar-con-ruedas-munich-vulcan-negro-464.jpg"
+  },
+  {
+    "id": "mochila-escolar-munich-mellow-azul-rosa-celeste-465",
+    "nombre": "Mochila Escolar Munich Mellow Azul Rosa Celeste",
+    "precio": 41.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-escolar-munich-mellow-azul-rosa-celeste-465.jpg"
+  },
+  {
+    "id": "mochila-infantil-safta-rosa-3d-466",
+    "nombre": "Mochila Infantil Safta Rosa 3D",
+    "precio": 9.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-infantil-safta-rosa-3d-466.jpg"
+  },
+  {
+    "id": "bolsa-mochila-con-cuerdas-blackfit8-smile-azul-rosa-467",
+    "nombre": "Bolsa Mochila con Cuerdas BlackFit8 Smile Azul Rosa",
+    "precio": 11.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/bolsa-mochila-con-cuerdas-blackfit8-smile-azul-rosa-467.jpg"
+  },
+  {
+    "id": "portadocumentos-con-cremallera-pirulos-azul-polipiel-468",
+    "nombre": "Portadocumentos con Cremallera Pirulos Azul Polipiel",
+    "precio": 5.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/portadocumentos-con-cremallera-pirulos-azul-polipiel-468.jpg"
+  },
+  {
+    "id": "mochila-escolar-con-ruedas-super-mario-trick-rojo-469",
+    "nombre": "Mochila Escolar con Ruedas Super Mario Trick Rojo",
+    "precio": 35.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-escolar-con-ruedas-super-mario-trick-rojo-469.jpg"
+  },
+  {
+    "id": "estuche-escolar-con-accesorios-barbie-painterly-rosa-470",
+    "nombre": "Estuche Escolar con Accesorios Barbie Painterly Rosa",
+    "precio": 14.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/estuche-escolar-con-accesorios-barbie-painterly-rosa-470.jpg"
+  },
+  {
+    "id": "portatodo-mickey-mouse-clubhouse-good-day-azul-471",
+    "nombre": "Portatodo Mickey Mouse Clubhouse Good Day Azul",
+    "precio": 4.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/portatodo-mickey-mouse-clubhouse-good-day-azul-471.jpg"
+  },
+  {
+    "id": "mochila-infantil-spider-man-azul-marino-472",
+    "nombre": "Mochila Infantil Spider-Man Azul marino",
+    "precio": 21.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-infantil-spider-man-azul-marino-472.jpg"
+  },
+  {
+    "id": "mochila-infantil-mickey-mouse-clubhouse-rojo-473",
+    "nombre": "Mochila Infantil Mickey Mouse Clubhouse Rojo",
+    "precio": 21.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-infantil-mickey-mouse-clubhouse-rojo-473.jpg"
+  },
+  {
+    "id": "mochila-infantil-safta-jirafa-coral-474",
+    "nombre": "Mochila Infantil Safta Jirafa Coral",
+    "precio": 10.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-infantil-safta-jirafa-coral-474.jpg"
+  },
+  {
+    "id": "portatodo-triple-super-mario-trick-rojo-475",
+    "nombre": "Portatodo Triple Super Mario Trick Rojo",
+    "precio": 12.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/portatodo-triple-super-mario-trick-rojo-475.jpg"
+  },
+  {
+    "id": "portatodo-doble-vicky-martin-berrocal-paraiso-rosa-476",
+    "nombre": "Portatodo Doble Vicky Martín Berrocal Paraíso Rosa",
+    "precio": 7.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/portatodo-doble-vicky-martin-berrocal-paraiso-rosa-476.jpg"
+  },
+  {
+    "id": "portatodo-doble-moos-passion-multicolor-477",
+    "nombre": "Portatodo Doble Moos Passion Multicolor",
+    "precio": 5.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/portatodo-doble-moos-passion-multicolor-477.jpg"
+  },
+  {
+    "id": "libreta-vicky-martin-berrocal-paraiso-azul-rosa-a4-478",
+    "nombre": "Libreta Vicky Martín Berrocal Paraíso Azul Rosa A4",
+    "precio": 6.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/libreta-vicky-martin-berrocal-paraiso-azul-rosa-a4-478.jpg"
+  },
+  {
+    "id": "mochila-escolar-vicky-martin-berrocal-paraiso-azul-rosa-479",
+    "nombre": "Mochila Escolar Vicky Martín Berrocal Paraíso Azul Rosa",
+    "precio": 17.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-escolar-vicky-martin-berrocal-paraiso-azul-rosa-479.jpg"
+  },
+  {
+    "id": "fiambrera-safta-zoo-beige-480",
+    "nombre": "Fiambrera Safta Zoo Beige",
+    "precio": 2.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/fiambrera-safta-zoo-beige-480.jpg"
+  },
+  {
+    "id": "carpeta-de-anillas-frozen-ice-magic-azul-a4-481",
+    "nombre": "Carpeta de anillas Frozen Ice Magic Azul A4",
+    "precio": 4.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/carpeta-de-anillas-frozen-ice-magic-azul-a4-481.jpg"
+  },
+  {
+    "id": "mochila-escolar-minnie-mouse-rosa-482",
+    "nombre": "Mochila Escolar Minnie Mouse Rosa",
+    "precio": 21.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-escolar-minnie-mouse-rosa-482.jpg"
+  },
+  {
+    "id": "botella-de-agua-safta-coches-azul-pvc-500-ml-483",
+    "nombre": "Botella de Agua Safta Coches Azul PVC 500 ml",
+    "precio": 4.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/botella-de-agua-safta-coches-azul-pvc-500-ml-483.jpg"
+  },
+  {
+    "id": "botella-de-agua-safta-koala-rosa-pvc-500-ml-484",
+    "nombre": "Botella de Agua Safta Koala Rosa PVC 500 ml",
+    "precio": 4.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/botella-de-agua-safta-koala-rosa-pvc-500-ml-484.jpg"
+  },
+  {
+    "id": "mochila-escolar-con-ruedas-mickey-mouse-clubhouse-good-day-a-485",
+    "nombre": "Mochila Escolar con Ruedas Mickey Mouse Clubhouse Good Day Azul",
+    "precio": 19.99,
+    "categoria": "oficina",
+    "imagen": "images/productos/mochila-escolar-con-ruedas-mickey-mouse-clubhouse-good-day-a-485.jpg"
+  },
+  {
+    "id": "jersey-mujer-486",
+    "nombre": "Jersey Mujer",
+    "precio": 29.99,
+    "categoria": "moda",
+    "imagen": "images/productos/jersey-mujer-486.jpg"
+  },
+  {
+    "id": "chaqueta-para-mujer-487",
+    "nombre": "Chaqueta para Mujer",
+    "precio": 53.99,
+    "categoria": "moda",
+    "imagen": "images/productos/chaqueta-para-mujer-487.jpg"
+  },
+  {
+    "id": "pantalon-largo-verde-488",
+    "nombre": "Pantalón largo Verde",
+    "precio": 39.99,
+    "categoria": "moda",
+    "imagen": "images/productos/pantalon-largo-verde-488.jpg"
+  },
+  {
+    "id": "falda-mujer-489",
+    "nombre": "Falda Mujer",
+    "precio": 27.99,
+    "categoria": "moda",
+    "imagen": "images/productos/falda-mujer-489.jpg"
+  },
+  {
+    "id": "pantalon-largo-verde-2-490",
+    "nombre": "Pantalón largo Verde 2",
+    "precio": 32.99,
+    "categoria": "moda",
+    "imagen": "images/productos/pantalon-largo-verde-2-490.jpg"
+  },
+  {
+    "id": "monedero-lefties-491",
+    "nombre": "Monedero Lefties",
+    "precio": 6.99,
+    "categoria": "moda",
+    "imagen": "images/productos/monedero-lefties-491.jpg"
+  },
+  {
+    "id": "pantalon-termico-cofra-bredik-492",
+    "nombre": "Pantalón Térmico Cofra Bredik",
+    "precio": 17.99,
+    "categoria": "moda",
+    "imagen": "images/productos/pantalon-termico-cofra-bredik-492.jpg"
+  },
+  {
+    "id": "sudadera-con-capucha-hombre-puma-ferrari-race-garage-493",
+    "nombre": "Sudadera con Capucha Hombre Puma Ferrari Race Garage",
+    "precio": 84.99,
+    "categoria": "moda",
+    "imagen": "images/productos/sudadera-con-capucha-hombre-puma-ferrari-race-garage-493.jpg"
+  },
+  {
+    "id": "sudadera-con-capucha-hombre-adidas-azul-marino-494",
+    "nombre": "Sudadera con Capucha Hombre Adidas Azul marino",
+    "precio": 46.99,
+    "categoria": "moda",
+    "imagen": "images/productos/sudadera-con-capucha-hombre-adidas-azul-marino-494.jpg"
+  },
+  {
+    "id": "gorra-deportiva-new-era-coops-multi-patch-multicolor-495",
+    "nombre": "Gorra Deportiva New Era Coops Multi Patch Multicolor",
+    "precio": 8.99,
+    "categoria": "moda",
+    "imagen": "images/productos/gorra-deportiva-new-era-coops-multi-patch-multicolor-495.jpg"
+  },
+  {
+    "id": "gorra-deportiva-new-era-neyyan-azul-496",
+    "nombre": "Gorra Deportiva New Era Neyyan Azul",
+    "precio": 9.99,
+    "categoria": "moda",
+    "imagen": "images/productos/gorra-deportiva-new-era-neyyan-azul-496.jpg"
+  },
+  {
+    "id": "gorra-deportiva-new-era-coops-multi-patch-multicolor-2-497",
+    "nombre": "Gorra Deportiva New Era Coops Multi Patch Multicolor 2",
+    "precio": 8.99,
+    "categoria": "moda",
+    "imagen": "images/productos/gorra-deportiva-new-era-coops-multi-patch-multicolor-2-497.jpg"
+  },
+  {
+    "id": "gorra-deportiva-new-era-coops-multi-patch-multicolor-3-498",
+    "nombre": "Gorra Deportiva New Era Coops Multi Patch Multicolor 3",
+    "precio": 9.99,
+    "categoria": "moda",
+    "imagen": "images/productos/gorra-deportiva-new-era-coops-multi-patch-multicolor-3-498.jpg"
+  },
+  {
+    "id": "sudadera-con-capucha-hombre-hazard-multicolor-499",
+    "nombre": "Sudadera con Capucha Hombre Hazard Multicolor",
+    "precio": 19.99,
+    "categoria": "moda",
+    "imagen": "images/productos/sudadera-con-capucha-hombre-hazard-multicolor-499.jpg"
+  },
+  {
+    "id": "pantalon-corto-deportivo-8000-monfrague-negro-500",
+    "nombre": "Pantalón Corto Deportivo +8000 Monfrague Negro",
+    "precio": 11.99,
+    "categoria": "moda",
+    "imagen": "images/productos/pantalon-corto-deportivo-8000-monfrague-negro-500.jpg"
+  },
+  {
+    "id": "calcetines-deportivos-vans-classic-quarter-crew-blanco-3-pie-501",
+    "nombre": "Calcetines Deportivos Vans Classic Quarter Crew Blanco 3 Piezas",
+    "precio": 12.99,
+    "categoria": "moda",
+    "imagen": "images/productos/calcetines-deportivos-vans-classic-quarter-crew-blanco-3-pie-501.jpg"
+  },
+  {
+    "id": "calcetines-jimmy-lion-athletic-basquiat-marron-502",
+    "nombre": "Calcetines Jimmy Lion Athletic Basquiat Marrón",
+    "precio": 7.99,
+    "categoria": "moda",
+    "imagen": "images/productos/calcetines-jimmy-lion-athletic-basquiat-marron-502.jpg"
+  },
+  {
+    "id": "sudadera-con-capucha-nina-under-armour-rival-negro-503",
+    "nombre": "Sudadera con Capucha Niña Under Armour Rival Negro",
+    "precio": 49.99,
+    "categoria": "moda",
+    "imagen": "images/productos/sudadera-con-capucha-nina-under-armour-rival-negro-503.jpg"
+  },
+  {
+    "id": "sudadera-con-capucha-nina-puma-essentials-granate-504",
+    "nombre": "Sudadera con Capucha Niña Puma Essentials Granate",
+    "precio": 36.99,
+    "categoria": "moda",
+    "imagen": "images/productos/sudadera-con-capucha-nina-puma-essentials-granate-504.jpg"
+  },
+  {
+    "id": "cartera-hombre-rip-curl-marron-505",
+    "nombre": "Cartera Hombre Rip Curl Marrón",
+    "precio": 15.99,
+    "categoria": "moda",
+    "imagen": "images/productos/cartera-hombre-rip-curl-marron-505.jpg"
+  },
+  {
+    "id": "gorra-deportiva-ciele-athletics-rosa-506",
+    "nombre": "Gorra Deportiva Ciele Athletics Rosa",
+    "precio": 34.99,
+    "categoria": "moda",
+    "imagen": "images/productos/gorra-deportiva-ciele-athletics-rosa-506.jpg"
+  },
+  {
+    "id": "calcetines-real-madrid-c-f-blanco-507",
+    "nombre": "Calcetines Real Madrid C.F. Blanco",
+    "precio": 3.99,
+    "categoria": "moda",
+    "imagen": "images/productos/calcetines-real-madrid-c-f-blanco-507.jpg"
+  },
+  {
+    "id": "camiseta-de-manga-corta-infantil-name-it-508",
+    "nombre": "Camiseta de Manga Corta Infantil Name It",
+    "precio": 8.99,
+    "categoria": "moda",
+    "imagen": "images/productos/camiseta-de-manga-corta-infantil-name-it-508.jpg"
+  },
+  {
+    "id": "camiseta-de-manga-corta-hombre-only-sons-beige-509",
+    "nombre": "Camiseta de Manga Corta Hombre Only & Sons Beige",
+    "precio": 17.99,
+    "categoria": "moda",
+    "imagen": "images/productos/camiseta-de-manga-corta-hombre-only-sons-beige-509.jpg"
+  },
+  {
+    "id": "conjunto-deportivo-para-ninos-champion-verde-limon-510",
+    "nombre": "Conjunto Deportivo para Niños Champion Verde limón",
+    "precio": 14.99,
+    "categoria": "moda",
+    "imagen": "images/productos/conjunto-deportivo-para-ninos-champion-verde-limon-510.jpg"
+  },
+  {
+    "id": "monedero-portamovil-safta-feeling-multicolor-511",
+    "nombre": "Monedero Portamovil Safta Feeling Multicolor",
+    "precio": 4.99,
+    "categoria": "moda",
+    "imagen": "images/productos/monedero-portamovil-safta-feeling-multicolor-511.jpg"
+  },
+  {
+    "id": "pantalon-largo-deportivo-picture-treva-beige-mujer-512",
+    "nombre": "Pantalón Largo Deportivo Picture Treva Beige Mujer",
+    "precio": 126.99,
+    "categoria": "moda",
+    "imagen": "images/productos/pantalon-largo-deportivo-picture-treva-beige-mujer-512.jpg"
+  },
+  {
+    "id": "sudadera-con-capucha-mujer-champion-marron-513",
+    "nombre": "Sudadera con Capucha Mujer Champion Marrón",
+    "precio": 19.99,
+    "categoria": "moda",
+    "imagen": "images/productos/sudadera-con-capucha-mujer-champion-marron-513.jpg"
+  },
+  {
+    "id": "sudadera-con-capucha-mujer-rip-curl-amarillo-514",
+    "nombre": "Sudadera con Capucha Mujer Rip Curl Amarillo",
+    "precio": 20.99,
+    "categoria": "moda",
+    "imagen": "images/productos/sudadera-con-capucha-mujer-rip-curl-amarillo-514.jpg"
+  },
+  {
+    "id": "sudadera-con-capucha-hombre-champion-negro-515",
+    "nombre": "Sudadera con Capucha Hombre Champion Negro",
+    "precio": 57.99,
+    "categoria": "moda",
+    "imagen": "images/productos/sudadera-con-capucha-hombre-champion-negro-515.jpg"
+  },
+  {
+    "id": "camiseta-de-manga-corta-infantil-spider-man-azul-516",
+    "nombre": "Camiseta de Manga Corta Infantil Spider-Man Azul",
+    "precio": 13.99,
+    "categoria": "moda",
+    "imagen": "images/productos/camiseta-de-manga-corta-infantil-spider-man-azul-516.jpg"
+  },
+  {
+    "id": "calcetines-barbie-517",
+    "nombre": "Calcetines Barbie",
+    "precio": 9.99,
+    "categoria": "moda",
+    "imagen": "images/productos/calcetines-barbie-517.jpg"
+  },
+  {
+    "id": "calcetines-the-nightmare-before-christmas-518",
+    "nombre": "Calcetines The Nightmare Before Christmas",
+    "precio": 3.99,
+    "categoria": "moda",
+    "imagen": "images/productos/calcetines-the-nightmare-before-christmas-518.jpg"
+  },
+  {
+    "id": "calcetines-the-nightmare-before-christmas-2-519",
+    "nombre": "Calcetines The Nightmare Before Christmas 2",
+    "precio": 4.99,
+    "categoria": "moda",
+    "imagen": "images/productos/calcetines-the-nightmare-before-christmas-2-519.jpg"
+  },
+  {
+    "id": "conjunto-deportivo-para-ninos-champion-essentials-rojo-520",
+    "nombre": "Conjunto Deportivo para Niños Champion Essentials Rojo",
+    "precio": 29.99,
+    "categoria": "moda",
+    "imagen": "images/productos/conjunto-deportivo-para-ninos-champion-essentials-rojo-520.jpg"
+  },
+  {
+    "id": "pantalones-cortos-de-hombre-volcom-negro-521",
+    "nombre": "Pantalones Cortos de Hombre Volcom Negro",
+    "precio": 18.99,
+    "categoria": "moda",
+    "imagen": "images/productos/pantalones-cortos-de-hombre-volcom-negro-521.jpg"
+  },
+  {
+    "id": "conjunto-de-lenceria-negro-xxl-522",
+    "nombre": "Conjunto de Lencería Negro XXL",
+    "precio": 14.99,
+    "categoria": "moda",
+    "imagen": "images/productos/conjunto-de-lenceria-negro-xxl-522.jpg"
+  },
+  {
+    "id": "calentadores-multicolor-523",
+    "nombre": "Calentadores Multicolor",
+    "precio": 5.99,
+    "categoria": "moda",
+    "imagen": "images/productos/calentadores-multicolor-523.jpg"
+  },
+  {
+    "id": "calcetines-house-of-dragon-3-piezas-524",
+    "nombre": "Calcetines House of Dragon 3 Piezas",
+    "precio": 10.99,
+    "categoria": "moda",
+    "imagen": "images/productos/calcetines-house-of-dragon-3-piezas-524.jpg"
+  },
+  {
+    "id": "conjunto-de-lenceria-s-m-525",
+    "nombre": "Conjunto de Lencería S/M",
+    "precio": 18.99,
+    "categoria": "moda",
+    "imagen": "images/productos/conjunto-de-lenceria-s-m-525.jpg"
+  },
+  {
+    "id": "pantalones-adidas-nino-526",
+    "nombre": "Pantalones Adidas Niño",
+    "precio": 19.99,
+    "categoria": "moda",
+    "imagen": "images/productos/pantalones-adidas-nino-526.jpg"
+  },
+  {
+    "id": "camiseta-de-manga-corta-infantil-jordan-jumpman-rojo-527",
+    "nombre": "Camiseta de Manga Corta Infantil Jordan Jumpman Rojo",
+    "precio": 16.99,
+    "categoria": "moda",
+    "imagen": "images/productos/camiseta-de-manga-corta-infantil-jordan-jumpman-rojo-527.jpg"
+  },
+  {
+    "id": "pantalones-cortos-deportivos-hombre-joluvi-negro-montana-528",
+    "nombre": "Pantalones Cortos Deportivos Hombre Joluvi Negro Montaña",
+    "precio": 19.99,
+    "categoria": "moda",
+    "imagen": "images/productos/pantalones-cortos-deportivos-hombre-joluvi-negro-montana-528.jpg"
+  },
+  {
+    "id": "gorro-pokemon-pikachu-wink-529",
+    "nombre": "Gorro Pokémon Pikachu Wink",
+    "precio": 35.99,
+    "categoria": "moda",
+    "imagen": "images/productos/gorro-pokemon-pikachu-wink-529.jpg"
+  },
+  {
+    "id": "camiseta-de-manga-corta-unisex-willy-wonka-negro-530",
+    "nombre": "Camiseta de Manga Corta Unisex Willy Wonka Negro",
+    "precio": 37.99,
+    "categoria": "moda",
+    "imagen": "images/productos/camiseta-de-manga-corta-unisex-willy-wonka-negro-530.jpg"
+  },
+  {
+    "id": "camiseta-de-manga-corta-unisex-star-trek-spock-negro-531",
+    "nombre": "Camiseta de Manga Corta Unisex Star Trek Spock Negro",
+    "precio": 37.99,
+    "categoria": "moda",
+    "imagen": "images/productos/camiseta-de-manga-corta-unisex-star-trek-spock-negro-531.jpg"
+  },
+  {
+    "id": "camiseta-de-manga-corta-unisex-nightmare-before-christmas-gr-532",
+    "nombre": "Camiseta de Manga Corta Unisex Nightmare Before Christmas Gris",
+    "precio": 37.99,
+    "categoria": "moda",
+    "imagen": "images/productos/camiseta-de-manga-corta-unisex-nightmare-before-christmas-gr-532.jpg"
+  },
+  {
+    "id": "camiseta-de-manga-corta-unisex-mickey-mouse-poster-negro-533",
+    "nombre": "Camiseta de Manga Corta Unisex Mickey Mouse Poster Negro",
+    "precio": 37.99,
+    "categoria": "moda",
+    "imagen": "images/productos/camiseta-de-manga-corta-unisex-mickey-mouse-poster-negro-533.jpg"
+  },
+  {
+    "id": "camiseta-de-manga-corta-unisex-marvel-negro-534",
+    "nombre": "Camiseta de Manga Corta Unisex Marvel Negro",
+    "precio": 37.99,
+    "categoria": "moda",
+    "imagen": "images/productos/camiseta-de-manga-corta-unisex-marvel-negro-534.jpg"
+  },
+  {
+    "id": "sudadera-con-capucha-unisex-pokemon-bulbasaur-verde-535",
+    "nombre": "Sudadera con Capucha Unisex Pokémon Bulbasaur Verde",
+    "precio": 85.99,
+    "categoria": "moda",
+    "imagen": "images/productos/sudadera-con-capucha-unisex-pokemon-bulbasaur-verde-535.jpg"
+  }
+]

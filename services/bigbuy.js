@@ -6,7 +6,7 @@ const BIGBUY_API_KEY = process.env.BIGBUY_API_KEY || "";
 // Catálogo curado a mano desde el catálogo público de BigBuy (precios de distribuidor
 // reales a fecha de hoy), mientras no haya BIGBUY_API_KEY configurada para sincronizar
 // automáticamente. Los pedidos de estos productos se gestionan manualmente en BigBuy.
-const PRODUCTOS_CURADOS = [
+const PRODUCTOS_DESTACADOS = [
     { id: "auriculares", nombre: "Auriculares Bluetooth Blackfire BFX-40", precio: 34.99, imagen: "images/auriculares.jpg", categoria: "electronica" },
     { id: "altavoz", nombre: "Altavoz Bluetooth Medion (Reacondicionado)", precio: 69.99, imagen: "images/altavoz.jpg", categoria: "electronica" },
     { id: "zapatillas", nombre: "Zapatillas Deportivas Munich Break", precio: 79.99, imagen: "images/zapatillas.jpg", categoria: "calzado" },
@@ -17,6 +17,12 @@ const PRODUCTOS_CURADOS = [
     { id: "piscina", nombre: "Piscina Infantil Bestway Dinosaurios", precio: 36.99, imagen: "images/piscina.jpg", categoria: "casa jardin" },
     { id: "silla", nombre: "Silla Plegable Aluminio Marbueno", precio: 38.99, imagen: "images/silla.jpg", categoria: "mobiliario" },
 ];
+
+// Catálogo ampliado (~500 productos) generado desde categorías públicas de BigBuy
+// mediante scripts/generar-catalogo.js. Los destacados de arriba van primero.
+const PRODUCTOS_AMPLIADOS = require("./catalogo-productos.json");
+
+const PRODUCTOS_CURADOS = [...PRODUCTOS_DESTACADOS, ...PRODUCTOS_AMPLIADOS];
 
 function mapearProductoBigBuy(item) {
     return {
