@@ -7,15 +7,15 @@ const BIGBUY_API_KEY = process.env.BIGBUY_API_KEY || "";
 // reales a fecha de hoy), mientras no haya BIGBUY_API_KEY configurada para sincronizar
 // automáticamente. Los pedidos de estos productos se gestionan manualmente en BigBuy.
 const PRODUCTOS_CURADOS = [
-    { id: "auriculares", nombre: "Auriculares Bluetooth Blackfire BFX-40", precio: 34.99, imagen: "images/auriculares.svg", categoria: "electronica" },
-    { id: "altavoz", nombre: "Altavoz Bluetooth Medion (Reacondicionado)", precio: 69.99, imagen: "images/altavoz.svg", categoria: "electronica" },
-    { id: "zapatillas", nombre: "Zapatillas Deportivas Munich Break", precio: 79.99, imagen: "images/zapatillas.svg", categoria: "calzado" },
-    { id: "mochila", nombre: "Mochila Escolar Benetton Damero", precio: 21.99, imagen: "images/mochila.svg", categoria: "accesorios" },
-    { id: "funda", nombre: "Funda de Móvil iPhone Just in Case", precio: 12.99, imagen: "images/funda.svg", categoria: "accesorios" },
-    { id: "puzzle", nombre: "Puzzle Animales To Go", precio: 4.99, imagen: "images/puzzle.svg", categoria: "juguetes" },
-    { id: "conjunto", nombre: "Conjunto Deportivo Infantil Champion", precio: 29.99, imagen: "images/conjunto.svg", categoria: "juguetes" },
-    { id: "piscina", nombre: "Piscina Infantil Bestway Dinosaurios", precio: 36.99, imagen: "images/piscina.svg", categoria: "casa jardin" },
-    { id: "silla", nombre: "Silla Plegable Aluminio Marbueno", precio: 38.99, imagen: "images/silla.svg", categoria: "mobiliario" },
+    { id: "auriculares", nombre: "Auriculares Bluetooth Blackfire BFX-40", precio: 34.99, imagen: "images/auriculares.jpg", categoria: "electronica" },
+    { id: "altavoz", nombre: "Altavoz Bluetooth Medion (Reacondicionado)", precio: 69.99, imagen: "images/altavoz.jpg", categoria: "electronica" },
+    { id: "zapatillas", nombre: "Zapatillas Deportivas Munich Break", precio: 79.99, imagen: "images/zapatillas.jpg", categoria: "calzado" },
+    { id: "mochila", nombre: "Mochila Escolar Benetton Damero", precio: 21.99, imagen: "images/mochila.jpg", categoria: "accesorios" },
+    { id: "funda", nombre: "Funda de Móvil iPhone Just in Case", precio: 12.99, imagen: "images/funda.jpg", categoria: "accesorios" },
+    { id: "puzzle", nombre: "Puzzle Animales To Go", precio: 4.99, imagen: "images/puzzle.jpg", categoria: "juguetes" },
+    { id: "conjunto", nombre: "Conjunto Deportivo Infantil Champion", precio: 29.99, imagen: "images/conjunto.jpg", categoria: "juguetes" },
+    { id: "piscina", nombre: "Piscina Infantil Bestway Dinosaurios", precio: 36.99, imagen: "images/piscina.jpg", categoria: "casa jardin" },
+    { id: "silla", nombre: "Silla Plegable Aluminio Marbueno", precio: 38.99, imagen: "images/silla.jpg", categoria: "mobiliario" },
 ];
 
 function mapearProductoBigBuy(item) {
