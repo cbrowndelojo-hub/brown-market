@@ -14,7 +14,7 @@ const PRODUCTOS_DESTACADOS = [
     { id: "funda", nombre: "Funda de Móvil iPhone Just in Case", precio: 12.99, imagen: "images/funda.jpg", categoria: "accesorios" },
     { id: "puzzle", nombre: "Puzzle Animales To Go", precio: 4.99, imagen: "images/puzzle.jpg", categoria: "juguetes" },
     { id: "conjunto", nombre: "Conjunto Deportivo Infantil Champion", precio: 29.99, imagen: "images/conjunto.jpg", categoria: "juguetes" },
-    { id: "piscina", nombre: "Piscina Infantil Bestway Dinosaurios", precio: 36.99, imagen: "images/piscina.jpg", categoria: "casa jardin" },
+    { id: "piscina", nombre: "Piscina Infantil Bestway Dinosaurios", precio: 36.99, imagen: "images/piscina.jpg", categoria: "hogar" },
     { id: "silla", nombre: "Silla Plegable Aluminio Marbueno", precio: 38.99, imagen: "images/silla.jpg", categoria: "mobiliario" },
 ];
 
@@ -29,7 +29,7 @@ function mapearProductoBigBuy(item) {
         id: String(item.id ?? item.sku ?? ""),
         nombre: item.name ?? item.title ?? "Producto sin nombre",
         precio: Number(item.retailPrice ?? item.wholesalePrice ?? item.price ?? 0),
-        imagen: item.images?.[0]?.url ?? item.image ?? "images/mochila.svg",
+        imagen: item.images?.[0]?.url ?? item.image ?? "images/mochila.jpg",
         categoria: item.category?.name ?? item.taxonomy ?? "general",
     };
 }

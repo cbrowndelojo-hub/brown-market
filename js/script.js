@@ -174,7 +174,7 @@
         const claves = `${producto.nombre} ${producto.categoria || ""}`.toLowerCase();
         return `
             <div class="producto" data-nombre="${claves}">
-                <img src="${producto.imagen}" alt="${producto.nombre}">
+                <img src="${producto.imagen}" alt="${producto.nombre}" loading="lazy" decoding="async">
                 <h3>${producto.nombre}</h3>
                 <p class="precio">${formatoEuros(producto.precio)}</p>
                 <button data-id="${producto.id}" data-nombre="${producto.nombre}" data-precio="${producto.precio}" data-imagen="${producto.imagen}">Comprar</button>

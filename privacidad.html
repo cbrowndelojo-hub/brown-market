@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Brown Market</title>
+    <meta name="robots" content="noindex, follow">
+    <link rel="canonical" href="https://brown-market.com/privacidad.html">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+
+    <div class="logo">🛒 Brown Market</div>
+
+    <nav>
+        <a href="index.html">Inicio</a>
+        <a href="productos.html">Productos</a>
+        <a href="productos.html">Ofertas</a>
+        <a href="index.html#contacto">Contacto</a>
+    </nav>
+
+    <form class="buscador-header" id="buscador-header-form">
+        <input type="text" id="buscador-header" placeholder="Buscar productos..." aria-label="Buscar productos">
+        <button type="submit" aria-label="Buscar">🔍</button>
+    </form>
+
+    <div class="header-derecha">
+        <div class="usuario-area" id="usuario-area"></div>
+        <button class="carrito-icono" id="btn-abrir-carrito" aria-label="Abrir carrito">
+            🛍️<span class="carrito-contador" id="carrito-contador">0</span>
+        </button>
+    </div>
+
+</header>
+
+<section class="pagina-legal">
+
+    <h1>Política de Privacidad</h1>
+    <p class="actualizado">Última actualización: 27 de julio de 2026</p>
+
+    <h2>1. Responsable del tratamiento</h2>
+    <p>
+        <strong>[Nombre legal del titular / autónomo — NIF]</strong>, con domicilio en
+        <strong>[Dirección fiscal]</strong>, es responsable del tratamiento de los datos personales
+        recogidos a través de brown-market.com. Contacto:
+        <a href="mailto:browndigital.es@gmail.com">browndigital.es@gmail.com</a>.
+    </p>
+
+    <h2>2. Datos que recogemos</h2>
+    <ul>
+        <li>Datos de cuenta al iniciar sesión con Google: nombre, correo electrónico y foto de perfil.</li>
+        <li>Datos de envío al finalizar una compra: nombre, dirección postal y teléfono.</li>
+        <li>Correo electrónico si te suscribes a la newsletter.</li>
+        <li>Datos de pago: los introduces directamente en Stripe, nuestra pasarela de pago; Brown
+            Market no almacena números de tarjeta.</li>
+    </ul>
+
+    <h2>3. Finalidad del tratamiento</h2>
+    <ul>
+        <li>Gestionar tu cuenta e iniciar sesión.</li>
+        <li>Tramitar y enviar tus pedidos.</li>
+        <li>Enviarte comunicaciones comerciales, solo si te has suscrito voluntariamente.</li>
+        <li>Cumplir obligaciones legales y fiscales.</li>
+    </ul>
+
+    <h2>4. Base legal</h2>
+    <p>
+        Ejecución de un contrato (gestión de pedidos), consentimiento (newsletter, login con Google)
+        e interés legítimo (seguridad y mejora del servicio).
+    </p>
+
+    <h2>5. Con quién compartimos tus datos</h2>
+    <ul>
+        <li><strong>Stripe</strong>, para procesar el pago de forma segura.</li>
+        <li><strong>BigBuy</strong> (u otro proveedor mayorista), para tramitar el envío de tu pedido.</li>
+        <li><strong>Google</strong>, si eliges iniciar sesión con tu cuenta de Google.</li>
+    </ul>
+    <p>No vendemos ni cedemos tus datos a terceros con fines publicitarios.</p>
+
+    <h2>6. Conservación</h2>
+    <p>
+        Conservamos los datos de pedidos mientras exista obligación legal (fiscal/contable) y los
+        datos de cuenta mientras mantengas tu perfil activo o solicites su eliminación.
+    </p>
+
+    <h2>7. Tus derechos</h2>
+    <p>
+        Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y
+        portabilidad escribiendo a <a href="mailto:browndigital.es@gmail.com">browndigital.es@gmail.com</a>.
+        También puedes reclamar ante la Agencia Española de Protección de Datos (aepd.es).
+    </p>
+
+    <h2>8. Cookies</h2>
+    <p>
+        Consulta el detalle en nuestra <a href="cookies.html">Política de Cookies</a>.
+    </p>
+
+</section>
+
+<footer id="contacto">
+    <p>🛒 Brown Market — hecho con cariño.</p>
+    <p class="footer-contacto">
+        📧 <a href="mailto:browndigital.es@gmail.com">browndigital.es@gmail.com</a>
+        &nbsp;·&nbsp;
+        📞 <a href="tel:+34643496283">643 496 283</a>
+    </p>
+    <p class="footer-legal">
+        <a href="terminos.html">Términos y Condiciones</a>·
+        <a href="privacidad.html">Privacidad</a>·
+        <a href="devoluciones.html">Devoluciones</a>·
+        <a href="cookies.html">Cookies</a>
+    </p>
+</footer>
+
+<!-- Carrito lateral -->
+<div class="carrito-overlay" id="carrito-overlay"></div>
+<aside class="carrito-panel" id="carrito-panel">
+    <div class="carrito-header">
+        <h2>Tu carrito</h2>
+        <button class="carrito-cerrar" id="btn-cerrar-carrito" aria-label="Cerrar carrito">&times;</button>
+    </div>
+    <div class="carrito-items" id="carrito-items"></div>
+    <div class="carrito-footer">
+        <p class="carrito-envio-nota">🚚 Envío gratis a partir de 49 € (si no, 4,99 €)</p>
+        <div class="carrito-total">
+            <span>Total</span>
+            <span id="carrito-total">0,00 €</span>
+        </div>
+        <button id="btn-finalizar">Finalizar compra</button>
+    </div>
+</aside>
+
+<div class="toast" id="toast"></div>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
