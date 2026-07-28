@@ -95,19 +95,34 @@
             return `${p.cantidad}× ${p.nombre} (${formatoEuros(p.importe)})`;
         }
 
-        function filaPedido(pedido) {
+        let pedidosCargados = [];
+
+        function textoDireccionCompleta(pedido) {
+            return [pedido.cliente, pedido.telefono, pedido.direccion].filter(Boolean).join("\n");
+        }
+
+        function filaPedido(pedido, indice) {
             const fecha = new Date(pedido.fecha).toLocaleString("es-ES");
+            const telefonoLink = pedido.telefono
+                ? `<a href="tel:${pedido.telefono.replace(/\s+/g, "")}">${pedido.telefono}</a>`
+                : "—";
+            const emailLink = pedido.email ? `<a href="mailto:${pedido.email}">${pedido.email}</a>` : "—";
+            const mapaLink = pedido.direccion
+                ? ` <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(pedido.direccion)}" target="_blank" rel="noopener">🗺️ Ver en mapa</a>`
+                : "";
+
             return `
                 <div class="pedido-card">
                     <div class="pedido-card-cabecera">
                         <strong>${fecha}</strong>
                         <span class="pedido-total">${formatoEuros(pedido.total)}</span>
                     </div>
-                    <p><strong>Cliente:</strong> ${pedido.cliente || "—"} · ${pedido.email || "—"} · ${pedido.telefono || "—"}</p>
-                    <p><strong>Dirección de envío:</strong> ${pedido.direccion || "—"}</p>
+                    <p><strong>Cliente:</strong> ${pedido.cliente || "—"} · ${emailLink} · ${telefonoLink}</p>
+                    <p><strong>Dirección de envío:</strong> ${pedido.direccion || "—"}${mapaLink}</p>
                     <p><strong>Productos:</strong></p>
                     <ul>${pedido.productos.map((p) => `<li>${filaProducto(p)}</li>`).join("")}</ul>
                     <p class="pedido-envio">Envío cobrado: ${formatoEuros(pedido.envio)}</p>
+                    <button class="btn-copiar-envio" data-indice="${indice}">📋 Copiar datos de envío</button>
                 </div>
             `;
         }
@@ -141,11 +156,28 @@
                     return;
                 }
 
+                pedidosCargados = pedidos;
                 contenedor.innerHTML = pedidos.map(filaPedido).join("");
             } catch (error) {
                 contenedor.innerHTML = `<p>No se pudo cargar el panel de pedidos.</p>`;
             }
         }
+
+        document.getElementById("panel-pedidos-contenido").addEventListener("click", async (e) => {
+            const btn = e.target.closest(".btn-copiar-envio");
+            if (!btn) return;
+            const pedido = pedidosCargados[Number(btn.dataset.indice)];
+            if (!pedido) return;
+
+            try {
+                await navigator.clipboard.writeText(textoDireccionCompleta(pedido));
+                const textoOriginal = btn.textContent;
+                btn.textContent = "✅ Copiado";
+                setTimeout(() => { btn.textContent = textoOriginal; }, 1500);
+            } catch (error) {
+                alert(textoDireccionCompleta(pedido));
+            }
+        });
 
         document.addEventListener("DOMContentLoaded", cargarPanel);
     })();
