@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Pedidos - Brown Market</title>
+    <meta name="robots" content="noindex, nofollow">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+
+    <div class="logo">🛒 Brown Market</div>
+
+    <nav>
+        <a href="index.html">Inicio</a>
+        <a href="productos.html">Productos</a>
+        <a href="productos.html">Ofertas</a>
+        <a href="index.html#contacto">Contacto</a>
+    </nav>
+
+    <form class="buscador-header" id="buscador-header-form">
+        <input type="text" id="buscador-header" placeholder="Buscar productos..." aria-label="Buscar productos">
+        <button type="submit" aria-label="Buscar">🔍</button>
+    </form>
+
+    <div class="header-derecha">
+        <div class="usuario-area" id="usuario-area"></div>
+        <button class="carrito-icono" id="btn-abrir-carrito" aria-label="Abrir carrito">
+            🛍️<span class="carrito-contador" id="carrito-contador">0</span>
+        </button>
+    </div>
+
+</header>
+
+<section class="panel-pedidos">
+    <h1>📦 Panel de Pedidos</h1>
+    <p class="panel-pedidos-nota">
+        Pedidos pagados a través de Stripe. Al no haber sincronización automática con BigBuy,
+        cada pedido de aquí debe comprarse a mano en BigBuy con estos mismos datos de envío.
+    </p>
+
+    <div id="panel-pedidos-contenido">
+        <p>Cargando…</p>
+    </div>
+</section>
+
+<footer id="contacto">
+    <p>🛒 Brown Market — hecho con cariño.</p>
+    <p class="footer-contacto">
+        📧 <a href="mailto:browndigital.es@gmail.com">browndigital.es@gmail.com</a>
+        &nbsp;·&nbsp;
+        📞 <a href="tel:+34643496283">643 496 283</a>
+    </p>
+    <p class="footer-legal">
+        <a href="terminos.html">Términos y Condiciones</a>·
+        <a href="privacidad.html">Privacidad</a>·
+        <a href="devoluciones.html">Devoluciones</a>·
+        <a href="cookies.html">Cookies</a>
+    </p>
+</footer>
+
+<!-- Carrito lateral -->
+<div class="carrito-overlay" id="carrito-overlay"></div>
+<aside class="carrito-panel" id="carrito-panel">
+    <div class="carrito-header">
+        <h2>Tu carrito</h2>
+        <button class="carrito-cerrar" id="btn-cerrar-carrito" aria-label="Cerrar carrito">&times;</button>
+    </div>
+    <div class="carrito-items" id="carrito-items"></div>
+    <div class="carrito-footer">
+        <p class="carrito-envio-nota">🚚 Envío gratis a partir de 49 € (si no, 4,99 €)</p>
+        <div class="carrito-total">
+            <span>Total</span>
+            <span id="carrito-total">0,00 €</span>
+        </div>
+        <button id="btn-finalizar">Finalizar compra</button>
+    </div>
+</aside>
+
+<div class="toast" id="toast"></div>
+
+<script src="js/script.js"></script>
+<script>
+    (function () {
+        function formatoEuros(n) {
+            return Number(n).toFixed(2).replace(".", ",") + " €";
+        }
+
+        function filaProducto(p) {
+            return `${p.cantidad}× ${p.nombre} (${formatoEuros(p.importe)})`;
+        }
+
+        function filaPedido(pedido) {
+            const fecha = new Date(pedido.fecha).toLocaleString("es-ES");
+            return `
+                <div class="pedido-card">
+                    <div class="pedido-card-cabecera">
+                        <strong>${fecha}</strong>
+                        <span class="pedido-total">${formatoEuros(pedido.total)}</span>
+                    </div>
+                    <p><strong>Cliente:</strong> ${pedido.cliente || "—"} · ${pedido.email || "—"} · ${pedido.telefono || "—"}</p>
+                    <p><strong>Dirección de envío:</strong> ${pedido.direccion || "—"}</p>
+                    <p><strong>Productos:</strong></p>
+                    <ul>${pedido.productos.map((p) => `<li>${filaProducto(p)}</li>`).join("")}</ul>
+                    <p class="pedido-envio">Envío cobrado: ${formatoEuros(pedido.envio)}</p>
+                </div>
+            `;
+        }
+
+        async function cargarPanel() {
+            const contenedor = document.getElementById("panel-pedidos-contenido");
+
+            try {
+                const respUsuario = await fetch("/api/usuario");
+                const { usuario } = await respUsuario.json();
+
+                if (!usuario) {
+                    contenedor.innerHTML = `<p>Inicia sesión con la cuenta de administrador para ver los pedidos. <a href="/auth/google">Iniciar sesión con Google</a></p>`;
+                    return;
+                }
+
+                const respuesta = await fetch("/api/pedidos");
+                if (respuesta.status === 403) {
+                    contenedor.innerHTML = `<p>Tu cuenta (${usuario.email}) no tiene acceso a este panel.</p>`;
+                    return;
+                }
+
+                const { pedidos, error } = await respuesta.json();
+                if (error) {
+                    contenedor.innerHTML = `<p>${error}</p>`;
+                    return;
+                }
+
+                if (!pedidos || pedidos.length === 0) {
+                    contenedor.innerHTML = `<p>Todavía no hay pedidos pagados.</p>`;
+                    return;
+                }
+
+                contenedor.innerHTML = pedidos.map(filaPedido).join("");
+            } catch (error) {
+                contenedor.innerHTML = `<p>No se pudo cargar el panel de pedidos.</p>`;
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", cargarPanel);
+    })();
+</script>
+
+</body>
+</html>

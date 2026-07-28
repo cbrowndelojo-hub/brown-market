@@ -531,6 +531,59 @@ section.categorias > * {
 .cat-oficina { background: #eceff1; border-color: #607d8b; }
 .cat-oficina:hover { background: #607d8b; }
 
+/* ===== PANEL DE PEDIDOS ===== */
+
+.panel-pedidos {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 50px 24px 70px;
+}
+
+.panel-pedidos-nota {
+    color: #777;
+    margin-bottom: 30px;
+}
+
+.pedido-card {
+    background: white;
+    border: 1px solid #eee;
+    border-left: 5px solid #f5b041;
+    border-radius: 10px;
+    padding: 20px 24px;
+    margin-bottom: 20px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, .05);
+}
+
+.pedido-card-cabecera {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 15px;
+    color: #555;
+}
+
+.pedido-total {
+    font-size: 18px;
+    font-weight: bold;
+    color: #e67e22;
+}
+
+.pedido-card p {
+    margin: 6px 0;
+    color: #444;
+}
+
+.pedido-card ul {
+    margin: 6px 0 10px;
+    padding-left: 22px;
+}
+
+.pedido-envio {
+    font-size: 13px;
+    color: #888;
+}
+
 /* ===== PAGINA PRODUCTOS ===== */
 
 .pagina-productos {

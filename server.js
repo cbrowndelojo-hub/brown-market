@@ -6,7 +6,7 @@ const fs = require("fs/promises");
 const express = require("express");
 const session = require("express-session");
 const { obtenerProductos, bigbuyActivo, crearPedidoBigBuy } = require("./services/bigbuy");
-const { stripeActivo, webhookActivo, verificarWebhook, crearSesionPago } = require("./services/stripe");
+const { stripeActivo, webhookActivo, verificarWebhook, crearSesionPago, listarPedidosRecientes } = require("./services/stripe");
 const { googleActivo, obtenerUrlAutenticacion, obtenerPerfilDesdeCodigo } = require("./services/auth");
 
 const app = express();
@@ -120,6 +120,28 @@ app.post("/api/newsletter", async (req, res) => {
 
 app.get("/api/usuario", (req, res) => {
     res.json({ usuario: req.session.usuario || null, googleActivo: googleActivo() });
+});
+
+function esAdmin(req) {
+    const emailAdmin = String(process.env.ADMIN_EMAIL || "").toLowerCase().trim();
+    const emailSesion = String(req.session.usuario?.email || "").toLowerCase().trim();
+    return Boolean(emailAdmin) && emailAdmin === emailSesion;
+}
+
+app.get("/api/pedidos", async (req, res) => {
+    if (!esAdmin(req)) {
+        return res.status(403).json({ error: "No autorizado" });
+    }
+    if (!stripeActivo()) {
+        return res.json({ pedidos: [] });
+    }
+    try {
+        const pedidos = await listarPedidosRecientes(30);
+        res.json({ pedidos });
+    } catch (error) {
+        console.error("Error listando pedidos de Stripe:", error.message);
+        res.status(500).json({ error: "No se pudieron cargar los pedidos" });
+    }
 });
 
 app.get("/auth/google", (req, res) => {

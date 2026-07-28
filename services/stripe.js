@@ -79,4 +79,42 @@ async function crearSesionPago(carrito) {
     return session.url;
 }
 
-module.exports = { stripeActivo, webhookActivo, verificarWebhook, crearSesionPago };
+// Lista los últimos pedidos pagados para el panel interno de gestión manual
+// (mientras no haya sincronización automática con BigBuy vía API).
+async function listarPedidosRecientes(limite = 30) {
+    const stripe = require("stripe")(STRIPE_SECRET_KEY);
+
+    const sesiones = await stripe.checkout.sessions.list({ limit: limite });
+    const pagadas = sesiones.data.filter((s) => s.payment_status === "paid");
+
+    const pedidos = await Promise.all(
+        pagadas.map(async (s) => {
+            const lineItems = await stripe.checkout.sessions.listLineItems(s.id, { limit: 100 });
+            const direccion = s.shipping_details?.address || s.customer_details?.address || null;
+
+            return {
+                id: s.id,
+                fecha: new Date(s.created * 1000).toISOString(),
+                cliente: s.shipping_details?.name || s.customer_details?.name || "",
+                email: s.customer_details?.email || "",
+                telefono: s.customer_details?.phone || "",
+                direccion: direccion
+                    ? [direccion.line1, direccion.line2, direccion.postal_code, direccion.city, direccion.country]
+                          .filter(Boolean)
+                          .join(", ")
+                    : "",
+                envio: (s.shipping_cost?.amount_total ?? 0) / 100,
+                total: (s.amount_total ?? 0) / 100,
+                productos: lineItems.data.map((li) => ({
+                    nombre: li.description,
+                    cantidad: li.quantity,
+                    importe: (li.amount_total ?? 0) / 100,
+                })),
+            };
+        })
+    );
+
+    return pedidos.sort((a, b) => new Date(b.fecha) - new Date(a.fecha));
+}
+
+module.exports = { stripeActivo, webhookActivo, verificarWebhook, crearSesionPago, listarPedidosRecientes };
